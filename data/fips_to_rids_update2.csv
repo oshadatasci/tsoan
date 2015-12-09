@@ -1,0 +1,3238 @@
+fipstate,fipscty,county,state,area_office,rid,region
+1,1,Autauga County, AL,Mobile Area Office,418600,4
+1,3,Baldwin County, AL,Mobile Area Office,418600,4
+1,5,Barbour County, AL,Mobile Area Office,418600,4
+1,7,Bibb County, AL,Birmingham Area Office,418300,4
+1,9,Blount County, AL,Birmingham Area Office,418300,4
+1,11,Bullock County, AL,Mobile Area Office,418600,4
+1,13,Butler County, AL,Mobile Area Office,418600,4
+1,15,Calhoun County, AL,Birmingham Area Office,418300,4
+1,17,Chambers County, AL,Mobile Area Office,418600,4
+1,19,Cherokee County, AL,Birmingham Area Office,418300,4
+1,21,Chilton County, AL,Mobile Area Office,418600,4
+1,23,Choctaw County, AL,Mobile Area Office,418600,4
+1,25,Clarke County, AL,Mobile Area Office,418600,4
+1,27,Clay County, AL,Birmingham Area Office,418300,4
+1,29,Cleburne County, AL,Birmingham Area Office,418300,4
+1,31,Coffee County, AL,Mobile Area Office,418600,4
+1,33,Colbert County, AL,Birmingham Area Office,418300,4
+1,35,Conecuh County, AL,Mobile Area Office,418600,4
+1,37,Coosa County, AL,Mobile Area Office,418600,4
+1,39,Covington County, AL,Mobile Area Office,418600,4
+1,41,Crenshaw County, AL,Mobile Area Office,418600,4
+1,43,Cullman County, AL,Birmingham Area Office,418300,4
+1,45,Dale County, AL,Mobile Area Office,418600,4
+1,47,Dallas County, AL,Mobile Area Office,418600,4
+1,49,DeKalb County, AL,Birmingham Area Office,418300,4
+1,51,Elmore County, AL,Mobile Area Office,418600,4
+1,53,Escambia County, AL,Mobile Area Office,418600,4
+1,55,Etowah County, AL,Birmingham Area Office,418300,4
+1,57,Fayette County, AL,,,0
+1,59,Franklin County, AL,Birmingham Area Office,418300,4
+1,61,Geneva County, AL,Mobile Area Office,418600,4
+1,63,Greene County, AL,Mobile Area Office,418600,4
+1,65,Hale County, AL,Mobile Area Office,418600,4
+1,67,Henry County, AL,Mobile Area Office,418600,4
+1,69,Houston County, AL,Mobile Area Office,418600,4
+1,71,Jackson County, AL,Birmingham Area Office,418300,4
+1,73,Jefferson County, AL,Birmingham Area Office,418300,4
+1,75,Lamar County, AL,Birmingham Area Office,418300,4
+1,77,Lauderdale County, AL,Birmingham Area Office,418300,4
+1,79,Lawrence County, AL,Birmingham Area Office,418300,4
+1,81,Lee County, AL,Mobile Area Office,418600,4
+1,83,Limestone County, AL,Birmingham Area Office,418300,4
+1,85,Lowndes County, AL,Mobile Area Office,418600,4
+1,87,Macon County, AL,Mobile Area Office,418600,4
+1,89,Madison County, AL,Birmingham Area Office,418300,4
+1,91,Marengo County, AL,Mobile Area Office,418600,4
+1,93,Marion County, AL,Birmingham Area Office,418300,4
+1,95,Marshall County, AL,Birmingham Area Office,418300,4
+1,97,Mobile County, AL,Mobile Area Office,418600,4
+1,99,Monroe County, AL,Mobile Area Office,418600,4
+1,101,Montgomery County, AL,Mobile Area Office,418600,4
+1,103,Morgan County, AL,Birmingham Area Office,418300,4
+1,105,Perry County, AL,Mobile Area Office,418600,4
+1,107,Pickens County, AL,Birmingham Area Office,418300,4
+1,109,Pike County, AL,Mobile Area Office,418600,4
+1,111,Randolph County, AL,Birmingham Area Office,418300,4
+1,113,Russell County, AL,Mobile Area Office,418600,4
+1,115,St. Clair County, AL,Birmingham Area Office,418300,4
+1,117,Shelby County, AL,Birmingham Area Office,418300,4
+1,119,Sumter County, AL,Mobile Area Office,418600,4
+1,121,Talladega County, AL,Birmingham Area Office,418300,4
+1,123,Tallapoosa County, AL,Mobile Area Office,418600,4
+1,125,Tuscaloosa County, AL,Birmingham Area Office,418300,4
+1,127,Walker County, AL,Birmingham Area Office,418300,4
+1,129,Washington County, AL,Mobile Area Office,418600,4
+1,131,Wilcox County, AL,Mobile Area Office,418600,4
+1,133,Winston County, AL,Birmingham Area Office,418300,4
+2,13,Aleutians East Borough, AK,Anchorage Area Office,1032100,10
+2,16,Aleutians West Census Area, AK,Anchorage Area Office,1032100,10
+2,20,Anchorage Municipality, AK,Anchorage Area Office,1032100,10
+2,50,Bethel Census Area, AK,Anchorage Area Office,1032100,10
+2,60,Bristol Bay Borough, AK,Anchorage Area Office,1032100,10
+2,68,Denali Borough, AK,Anchorage Area Office,1032100,10
+2,70,Dillingham Census Area, AK,Anchorage Area Office,1032100,10
+2,90,Fairbanks North Star Borough, AK,Anchorage Area Office,1032100,10
+2,100,Haines Borough, AK,Anchorage Area Office,1032100,10
+2,105,Hoonah-Angoon Census Area, AK,Anchorage Area Office,1032100,10
+2,110,Juneau City and Borough, AK,Anchorage Area Office,1032100,10
+2,122,Kenai Peninsula Borough, AK,Anchorage Area Office,1032100,10
+2,130,Ketchikan Gateway Borough, AK,Anchorage Area Office,1032100,10
+2,150,Kodiak Island Borough, AK,Anchorage Area Office,1032100,10
+2,164,Lake and Peninsula Borough, AK,Anchorage Area Office,1032100,10
+2,170,Matanuska-Susitna Borough, AK,Anchorage Area Office,1032100,10
+2,180,Nome Census Area, AK,Anchorage Area Office,1032100,10
+2,185,North Slope Borough, AK,Anchorage Area Office,1032100,10
+2,188,Northwest Arctic Borough, AK,Anchorage Area Office,1032100,10
+2,195,Petersburg Census Area, AK,Anchorage Area Office,1032100,10
+2,198,Prince of Wales-Hyder Census Area, AK,Anchorage Area Office,1032100,10
+2,220,Sitka City and Borough, AK,Anchorage Area Office,1032100,10
+2,230,Skagway Municipality, AK,Anchorage Area Office,1032100,10
+2,240,Southeast Fairbanks Census Area, AK,Anchorage Area Office,1032100,10
+2,261,Valdez-Cordova Census Area, AK,Anchorage Area Office,1032100,10
+2,270,Wade Hampton Census Area, AK,Anchorage Area Office,1032100,10
+2,275,Wrangell City and Borough, AK,Anchorage Area Office,1032100,10
+2,282,Yakutat City and Borough, AK,Anchorage Area Office,1032100,10
+2,290,Yukon-Koyukuk Census Area, AK,Anchorage Area Office,1032100,10
+4,1,Apache County, AZ,Phoenix Area Office,936400,9
+4,3,Cochise County, AZ,Phoenix Area Office,936400,9
+4,5,Coconino County, AZ,Phoenix Area Office,936400,9
+4,7,Gila County, AZ,Phoenix Area Office,936400,9
+4,9,Graham County, AZ,Phoenix Area Office,936400,9
+4,11,Greenlee County, AZ,Phoenix Area Office,936400,9
+4,12,La Paz County, AZ,Phoenix Area Office,936400,9
+4,13,Maricopa County, AZ,Phoenix Area Office,936400,9
+4,15,Mohave County, AZ,Phoenix Area Office,936400,9
+4,17,Navajo County, AZ,Phoenix Area Office,936400,9
+4,19,Pima County, AZ,Phoenix Area Office,936400,9
+4,21,Pinal County, AZ,Phoenix Area Office,936400,9
+4,23,Santa Cruz County, AZ,Phoenix Area Office,936400,9
+4,25,Yavapai County, AZ,Phoenix Area Office,936400,9
+4,27,Yuma County, AZ,Phoenix Area Office,936400,9
+5,1,Arkansas County, AR,Little Rock Area Office,627100,6
+5,3,Ashley County, AR,Little Rock Area Office,627100,6
+5,5,Baxter County, AR,Little Rock Area Office,627100,6
+5,7,Benton County, AR,Little Rock Area Office,627100,6
+5,9,Boone County, AR,Little Rock Area Office,627100,6
+5,11,Bradley County, AR,Little Rock Area Office,627100,6
+5,13,Calhoun County, AR,Little Rock Area Office,627100,6
+5,15,Carroll County, AR,Little Rock Area Office,627100,6
+5,17,Chicot County, AR,Little Rock Area Office,627100,6
+5,19,Clark County, AR,Little Rock Area Office,627100,6
+5,21,Clay County, AR,Little Rock Area Office,627100,6
+5,23,Cleburne County, AR,Little Rock Area Office,627100,6
+5,25,Cleveland County, AR,Little Rock Area Office,627100,6
+5,27,Columbia County, AR,Little Rock Area Office,627100,6
+5,29,Conway County, AR,Little Rock Area Office,627100,6
+5,31,Craighead County, AR,Little Rock Area Office,627100,6
+5,33,Crawford County, AR,Little Rock Area Office,627100,6
+5,35,Crittenden County, AR,Little Rock Area Office,627100,6
+5,37,Cross County, AR,Little Rock Area Office,627100,6
+5,39,Dallas County, AR,Little Rock Area Office,627100,6
+5,41,Desha County, AR,Little Rock Area Office,627100,6
+5,43,Drew County, AR,Little Rock Area Office,627100,6
+5,45,Faulkner County, AR,Little Rock Area Office,627100,6
+5,47,Franklin County, AR,Little Rock Area Office,627100,6
+5,49,Fulton County, AR,Little Rock Area Office,627100,6
+5,51,Garland County, AR,Little Rock Area Office,627100,6
+5,53,Grant County, AR,Little Rock Area Office,627100,6
+5,55,Greene County, AR,Little Rock Area Office,627100,6
+5,57,Hempstead County, AR,Little Rock Area Office,627100,6
+5,59,Hot Spring County, AR,Little Rock Area Office,627100,6
+5,61,Howard County, AR,Little Rock Area Office,627100,6
+5,63,Independence County, AR,Little Rock Area Office,627100,6
+5,65,Izard County, AR,Little Rock Area Office,627100,6
+5,67,Jackson County, AR,Little Rock Area Office,627100,6
+5,69,Jefferson County, AR,Little Rock Area Office,627100,6
+5,71,Johnson County, AR,Little Rock Area Office,627100,6
+5,73,Lafayette County, AR,Little Rock Area Office,627100,6
+5,75,Lawrence County, AR,Little Rock Area Office,627100,6
+5,77,Lee County, AR,Little Rock Area Office,627100,6
+5,79,Lincoln County, AR,Little Rock Area Office,627100,6
+5,81,Little River County, AR,Little Rock Area Office,627100,6
+5,83,Logan County, AR,Little Rock Area Office,627100,6
+5,85,Lonoke County, AR,Little Rock Area Office,627100,6
+5,87,Madison County, AR,Little Rock Area Office,627100,6
+5,89,Marion County, AR,Little Rock Area Office,627100,6
+5,91,Miller County, AR,Little Rock Area Office,627100,6
+5,93,Mississippi County, AR,Little Rock Area Office,627100,6
+5,95,Monroe County, AR,Little Rock Area Office,627100,6
+5,97,Montgomery County, AR,Little Rock Area Office,627100,6
+5,99,Nevada County, AR,Little Rock Area Office,627100,6
+5,101,Newton County, AR,Little Rock Area Office,627100,6
+5,103,Ouachita County, AR,Little Rock Area Office,627100,6
+5,105,Perry County, AR,Little Rock Area Office,627100,6
+5,107,Phillips County, AR,Little Rock Area Office,627100,6
+5,109,Pike County, AR,Little Rock Area Office,627100,6
+5,111,Poinsett County, AR,Little Rock Area Office,627100,6
+5,113,Polk County, AR,Little Rock Area Office,627100,6
+5,115,Pope County, AR,Little Rock Area Office,627100,6
+5,117,Prairie County, AR,Little Rock Area Office,627100,6
+5,119,Pulaski County, AR,Little Rock Area Office,627100,6
+5,121,Randolph County, AR,Little Rock Area Office,627100,6
+5,123,St. Francis County, AR,Little Rock Area Office,627100,6
+5,125,Saline County, AR,Little Rock Area Office,627100,6
+5,127,Scott County, AR,Little Rock Area Office,627100,6
+5,129,Searcy County, AR,Little Rock Area Office,627100,6
+5,131,Sebastian County, AR,Little Rock Area Office,627100,6
+5,133,Sevier County, AR,Little Rock Area Office,627100,6
+5,135,Sharp County, AR,Little Rock Area Office,627100,6
+5,137,Stone County, AR,Little Rock Area Office,627100,6
+5,139,Union County, AR,Little Rock Area Office,627100,6
+5,141,Van Buren County, AR,Little Rock Area Office,627100,6
+5,143,Washington County, AR,Little Rock Area Office,627100,6
+5,145,White County, AR,Little Rock Area Office,627100,6
+5,147,Woodruff County, AR,Little Rock Area Office,627100,6
+5,149,Yell County, AR,Little Rock Area Office,627100,6
+6,1,Alameda County, CA,Oakland Area Office,936100,9
+6,3,Alpine County, CA,Oakland Area Office,936100,9
+6,5,Amador County, CA,Oakland Area Office,936100,9
+6,7,Butte County, CA,Oakland Area Office,936100,9
+6,9,Calaveras County, CA,Oakland Area Office,936100,9
+6,11,Colusa County, CA,Oakland Area Office,936100,9
+6,13,Contra Costa County, CA,Oakland Area Office,936100,9
+6,15,Del Norte County, CA,Oakland Area Office,936100,9
+6,17,El Dorado County, CA,Oakland Area Office,936100,9
+6,19,Fresno County, CA,Oakland Area Office,936100,9
+6,21,Glenn County, CA,Oakland Area Office,936100,9
+6,23,Humboldt County, CA,Oakland Area Office,936100,9
+6,25,Imperial County, CA,San Diego Area Office,936200,9
+6,27,Inyo County, CA,San Diego Area Office,936200,9
+6,29,Kern County, CA,San Diego Area Office,936200,9
+6,31,Kings County, CA,San Diego Area Office,936200,9
+6,33,Lake County, CA,Oakland Area Office,936100,9
+6,35,Lassen County, CA,Oakland Area Office,936100,9
+6,37,Los Angeles County, CA,San Diego Area Office,936200,9
+6,39,Madera County, CA,Oakland Area Office,936100,9
+6,41,Marin County, CA,Oakland Area Office,936100,9
+6,43,Mariposa County, CA,Oakland Area Office,936100,9
+6,45,Mendocino County, CA,Oakland Area Office,936100,9
+6,47,Merced County, CA,Oakland Area Office,936100,9
+6,49,Modoc County, CA,Oakland Area Office,936100,9
+6,51,Mono County, CA,Oakland Area Office,936100,9
+6,53,Monterey County, CA,San Diego Area Office,936200,9
+6,55,Napa County, CA,Oakland Area Office,936100,9
+6,57,Nevada County, CA,Oakland Area Office,936100,9
+6,59,Orange County, CA,San Diego Area Office,936200,9
+6,61,Placer County, CA,Oakland Area Office,936100,9
+6,63,Plumas County, CA,Oakland Area Office,936100,9
+6,65,Riverside County, CA,San Diego Area Office,936200,9
+6,67,Sacramento County, CA,Oakland Area Office,936100,9
+6,69,San Benito County, CA,Oakland Area Office,936100,9
+6,71,San Bernardino County, CA,San Diego Area Office,936200,9
+6,73,San Diego County, CA,San Diego Area Office,936200,9
+6,75,San Francisco County, CA,Oakland Area Office,936100,9
+6,77,San Joaquin County, CA,Oakland Area Office,936100,9
+6,79,San Luis Obispo County, CA,San Diego Area Office,936200,9
+6,81,San Mateo County, CA,Oakland Area Office,936100,9
+6,83,Santa Barbara County, CA,San Diego Area Office,936200,9
+6,85,Santa Clara County, CA,Oakland Area Office,936100,9
+6,87,Santa Cruz County, CA,Oakland Area Office,936100,9
+6,89,Shasta County, CA,Oakland Area Office,936100,9
+6,91,Sierra County, CA,Oakland Area Office,936100,9
+6,93,Siskiyou County, CA,Oakland Area Office,936100,9
+6,95,Solano County, CA,Oakland Area Office,936100,9
+6,97,Sonoma County, CA,Oakland Area Office,936100,9
+6,99,Stanislaus County, CA,Oakland Area Office,936100,9
+6,101,Sutter County, CA,Oakland Area Office,936100,9
+6,103,Tehama County, CA,Oakland Area Office,936100,9
+6,105,Trinity County, CA,Oakland Area Office,936100,9
+6,107,Tulare County, CA,San Diego Area Office,936200,9
+6,109,Tuolumne County, CA,Oakland Area Office,936100,9
+6,111,Ventura County, CA,San Diego Area Office,936200,9
+6,113,Yolo County, CA,Oakland Area Office,936100,9
+6,115,Yuba County, CA,Oakland Area Office,936100,9
+8,1,Adams County, CO,Denver Area Office,830500,8
+8,3,Alamosa County, CO,Englewood Area Office,830600,8
+8,5,Arapahoe County, CO,Englewood Area Office,830600,8
+8,7,Archuleta County, CO,Englewood Area Office,830600,8
+8,9,Baca County, CO,Englewood Area Office,830600,8
+8,11,Bent County, CO,Englewood Area Office,830600,8
+8,13,Boulder County, CO,Denver Area Office,830500,8
+8,14,Broomfield County, CO,Denver Area Office,830500,8
+8,15,Chaffee County, CO,Englewood Area Office,830600,8
+8,17,Cheyenne County, CO,Englewood Area Office,830600,8
+8,19,Clear Creek County, CO,Denver Area Office,830500,8
+8,21,Conejos County, CO,Englewood Area Office,830600,8
+8,23,Costilla County, CO,Englewood Area Office,830600,8
+8,25,Crowley County, CO,Englewood Area Office,830600,8
+8,27,Custer County, CO,Englewood Area Office,830600,8
+8,29,Delta County, CO,Denver Area Office,830500,8
+8,31,Denver County, CO,Denver Area Office,830500,8
+8,33,Dolores County, CO,Englewood Area Office,830600,8
+8,35,Douglas County, CO,Englewood Area Office,830600,8
+8,37,Eagle County, CO,Denver Area Office,830500,8
+8,39,Elbert County, CO,Englewood Area Office,830600,8
+8,41,El Paso County, CO,Englewood Area Office,830600,8
+8,43,Fremont County, CO,Englewood Area Office,830600,8
+8,45,Garfield County, CO,Denver Area Office,830500,8
+8,47,Gilpin County, CO,Denver Area Office,830500,8
+8,49,Grand County, CO,Denver Area Office,830500,8
+8,51,Gunnison County, CO,Englewood Area Office,830600,8
+8,53,Hinsdale County, CO,Englewood Area Office,830600,8
+8,55,Huerfano County, CO,Englewood Area Office,830600,8
+8,57,Jackson County, CO,Denver Area Office,830500,8
+8,59,Jefferson County, CO,Englewood Area Office,830600,8
+8,61,Kiowa County, CO,Englewood Area Office,830600,8
+8,63,Kit Carson County, CO,Englewood Area Office,830600,8
+8,65,Lake County, CO,Denver Area Office,830500,8
+8,67,La Plata County, CO,Englewood Area Office,830600,8
+8,69,Larimer County, CO,Denver Area Office,830500,8
+8,71,Las Animas County, CO,Englewood Area Office,830600,8
+8,73,Lincoln County, CO,Englewood Area Office,830600,8
+8,75,Logan County, CO,Denver Area Office,830500,8
+8,77,Mesa County, CO,Denver Area Office,830500,8
+8,79,Mineral County, CO,Englewood Area Office,830600,8
+8,81,Moffat County, CO,Denver Area Office,830500,8
+8,83,Montezuma County, CO,Englewood Area Office,830600,8
+8,85,Montrose County, CO,Englewood Area Office,830600,8
+8,87,Morgan County, CO,Denver Area Office,830500,8
+8,89,Otero County, CO,Englewood Area Office,830600,8
+8,91,Ouray County, CO,Englewood Area Office,830600,8
+8,93,Park County, CO,Englewood Area Office,830600,8
+8,95,Phillips County, CO,Denver Area Office,830500,8
+8,97,Pitkin County, CO,Denver Area Office,830500,8
+8,99,Prowers County, CO,Englewood Area Office,830600,8
+8,101,Pueblo County, CO,Englewood Area Office,830600,8
+8,103,Rio Blanco County, CO,Denver Area Office,830500,8
+8,105,Rio Grande County, CO,Englewood Area Office,830600,8
+8,107,Routt County, CO,Denver Area Office,830500,8
+8,109,Saguache County, CO,Englewood Area Office,830600,8
+8,111,San Juan County, CO,Englewood Area Office,830600,8
+8,113,San Miguel County, CO,Englewood Area Office,830600,8
+8,115,Sedgwick County, CO,Denver Area Office,830500,8
+8,117,Summit County, CO,Denver Area Office,830500,8
+8,119,Teller County, CO,Englewood Area Office,830600,8
+8,121,Washington County, CO,Denver Area Office,830500,8
+8,123,Weld County, CO,Denver Area Office,830500,8
+8,125,Yuma County, CO,Denver Area Office,830500,8
+9,1,Fairfield County, CT,Bridgeport Area Office,111500,1
+9,3,Hartford County, CT,Hartford Area Office,112000,1
+9,5,Litchfield County, CT,Hartford Area Office,112000,1
+9,7,Middlesex County, CT,Bridgeport Area Office,111500,1
+9,9,New Haven County, CT,Bridgeport Area Office,111500,1
+9,11,New London County, CT,Hartford Area Office,112000,1
+9,13,Tolland County, CT,Hartford Area Office,112000,1
+9,15,Windham County, CT,Hartford Area Office,112000,1
+10,1,Kent County, DE,Wilmington Area Office,317300,3
+10,3,New Castle County, DE,Wilmington Area Office,317300,3
+10,5,Sussex County, DE,Wilmington Area Office,317300,3
+11,1,District of Columbia, DC,Wilmington Area Office,317300,3
+12,1,Alachua County, FL,Jacksonville Area Office,419700,4
+12,3,Baker County, FL,Jacksonville Area Office,419700,4
+12,5,Bay County, FL,Jacksonville Area Office,419700,4
+12,7,Bradford County, FL,Jacksonville Area Office,419700,4
+12,9,Brevard County, FL,Tampa Area Office,420600,4
+12,11,Broward County, FL,Fort Lauderdale Area Office,418800,4
+12,13,Calhoun County, FL,Jacksonville Area Office,419700,4
+12,15,Charlotte County, FL,Tampa Area Office,420600,4
+12,17,Citrus County, FL,Tampa Area Office,420600,4
+12,19,Clay County, FL,Jacksonville Area Office,419700,4
+12,21,Collier County, FL,Fort Lauderdale Area Office,418800,4
+12,23,Columbia County, FL,Jacksonville Area Office,419700,4
+12,27,DeSoto County, FL,Tampa Area Office,420600,4
+12,29,Dixie County, FL,Jacksonville Area Office,419700,4
+12,31,Duval County, FL,Jacksonville Area Office,419700,4
+12,33,Escambia County, FL,Jacksonville Area Office,419700,4
+12,35,Flagler County, FL,Jacksonville Area Office,419700,4
+12,37,Franklin County, FL,Jacksonville Area Office,419700,4
+12,39,Gadsden County, FL,Jacksonville Area Office,419700,4
+12,41,Gilchrist County, FL,Jacksonville Area Office,419700,4
+12,43,Glades County, FL,Fort Lauderdale Area Office,418800,4
+12,45,Gulf County, FL,Jacksonville Area Office,419700,4
+12,47,Hamilton County, FL,Jacksonville Area Office,419700,4
+12,49,Hardee County, FL,Tampa Area Office,420600,4
+12,51,Hendry County, FL,Fort Lauderdale Area Office,418800,4
+12,53,Hernando County, FL,Tampa Area Office,420600,4
+12,55,Highlands County, FL,Tampa Area Office,420600,4
+12,57,Hillsborough County, FL,Tampa Area Office,420600,4
+12,59,Holmes County, FL,,,0
+12,61,Indian River County, FL,Fort Lauderdale Area Office,418800,4
+12,63,Jackson County, FL,Jacksonville Area Office,419700,4
+12,65,Jefferson County, FL,Jacksonville Area Office,419700,4
+12,67,Lafayette County, FL,Jacksonville Area Office,419700,4
+12,69,Lake County, FL,Tampa Area Office,420600,4
+12,71,Lee County, FL,Tampa Area Office,420600,4
+12,73,Leon County, FL,Jacksonville Area Office,419700,4
+12,75,Levy County, FL,Jacksonville Area Office,419700,4
+12,77,Liberty County, FL,Jacksonville Area Office,419700,4
+12,79,Madison County, FL,Jacksonville Area Office,419700,4
+12,81,Manatee County, FL,Tampa Area Office,420600,4
+12,83,Marion County, FL,Jacksonville Area Office,419700,4
+12,85,Martin County, FL,Fort Lauderdale Area Office,418800,4
+12,86,Miami-Dade County, FL,Fort Lauderdale Area Office,418800,4
+12,87,Monroe County, FL,Fort Lauderdale Area Office,418800,4
+12,89,Nassau County, FL,Jacksonville Area Office,419700,4
+12,91,Okaloosa County, FL,Jacksonville Area Office,419700,4
+12,93,Okeechobee County, FL,Tampa Area Office,420600,4
+12,95,Orange County, FL,Tampa Area Office,420600,4
+12,97,Osceola County, FL,Tampa Area Office,420600,4
+12,99,Palm Beach County, FL,Fort Lauderdale Area Office,418800,4
+12,101,Pasco County, FL,Tampa Area Office,420600,4
+12,103,Pinellas County, FL,Tampa Area Office,420600,4
+12,105,Polk County, FL,Tampa Area Office,420600,4
+12,107,Putnam County, FL,Jacksonville Area Office,419700,4
+12,109,St. Johns County, FL,Jacksonville Area Office,419700,4
+12,111,St. Lucie County, FL,Fort Lauderdale Area Office,418800,4
+12,113,Santa Rosa County, FL,Jacksonville Area Office,419700,4
+12,115,Sarasota County, FL,Tampa Area Office,420600,4
+12,117,Seminole County, FL,Tampa Area Office,420600,4
+12,119,Sumter County, FL,Tampa Area Office,420600,4
+12,121,Suwannee County, FL,Jacksonville Area Office,419700,4
+12,123,Taylor County, FL,Jacksonville Area Office,419700,4
+12,125,Union County, FL,Jacksonville Area Office,419700,4
+12,127,Volusia County, FL,Jacksonville Area Office,419700,4
+12,129,Wakulla County, FL,Jacksonville Area Office,419700,4
+12,131,Walton County, FL,Jacksonville Area Office,419700,4
+12,131,Walton County, FL,Jacksonville Area Office,419700,4
+12,133,Washington County, FL,Jacksonville Area Office,419700,4
+13,1,Appling County, GA,Savannah Area Office,418400,4
+13,3,Atkinson County, GA,Savannah Area Office,418400,4
+13,5,Bacon County, GA,Savannah Area Office,418400,4
+13,7,Baker County, GA,Savannah Area Office,418400,4
+13,9,Baldwin County, GA,Atlanta East Area Office,418100,4
+13,11,Banks County, GA,Atlanta East Area Office,418100,4
+13,13,Barrow County, GA,Atlanta East Area Office,418100,4
+13,15,Bartow County, GA,Atlanta West Area Office,418200,4
+13,17,Ben Hill County, GA,Savannah Area Office,418400,4
+13,19,Berrien County, GA,Savannah Area Office,418400,4
+13,21,Bibb County, GA,Atlanta East Area Office,418100,4
+13,23,Bleckley County, GA,Savannah Area Office,418400,4
+13,25,Brantley County, GA,Savannah Area Office,418400,4
+13,27,Brooks County, GA,Savannah Area Office,418400,4
+13,29,Bryan County, GA,Savannah Area Office,418400,4
+13,31,Bulloch County, GA,Savannah Area Office,418400,4
+13,33,Burke County, GA,Savannah Area Office,418400,4
+13,35,Butts County, GA,Atlanta East Area Office,418100,4
+13,37,Calhoun County, GA,Savannah Area Office,418400,4
+13,39,Camden County, GA,Savannah Area Office,418400,4
+13,43,Candler County, GA,Savannah Area Office,418400,4
+13,45,Carroll County, GA,Atlanta West Area Office,418200,4
+13,47,Catoosa County, GA,Atlanta West Area Office,418200,4
+13,49,Charlton County, GA,Savannah Area Office,418400,4
+13,51,Chatham County, GA,Savannah Area Office,418400,4
+13,53,Chattahoochee County, GA,Atlanta West Area Office,418200,4
+13,55,Chattooga County, GA,Atlanta West Area Office,418200,4
+13,57,Cherokee County, GA,Atlanta East Area Office,418100,4
+13,59,Clarke County, GA,Atlanta East Area Office,418100,4
+13,61,Clay County, GA,Savannah Area Office,418400,4
+13,63,Clayton County, GA,Atlanta West Area Office,418200,4
+13,65,Clinch County, GA,Savannah Area Office,418400,4
+13,67,Cobb County, GA,Atlanta West Area Office,418200,4
+13,69,Coffee County, GA,Savannah Area Office,418400,4
+13,71,Colquitt County, GA,Savannah Area Office,418400,4
+13,73,Columbia County, GA,Atlanta East Area Office,418100,4
+13,75,Cook County, GA,Savannah Area Office,418400,4
+13,77,Coweta County, GA,Atlanta West Area Office,418200,4
+13,79,Crawford County, GA,Atlanta East Area Office,418100,4
+13,81,Crisp County, GA,Savannah Area Office,418400,4
+13,83,Dade County, GA,Atlanta West Area Office,418200,4
+13,85,Dawson County, GA,Atlanta East Area Office,418100,4
+13,87,Decatur County, GA,Savannah Area Office,418400,4
+13,89,DeKalb County, GA,Atlanta East Area Office,418100,4
+13,91,Dodge County, GA,Savannah Area Office,418400,4
+13,93,Dooly County, GA,Savannah Area Office,418400,4
+13,95,Dougherty County, GA,Savannah Area Office,418400,4
+13,97,Douglas County, GA,Atlanta West Area Office,418200,4
+13,99,Early County, GA,Savannah Area Office,418400,4
+13,101,Echols County, GA,Savannah Area Office,418400,4
+13,103,Effingham County, GA,Savannah Area Office,418400,4
+13,105,Elbert County, GA,Atlanta East Area Office,418100,4
+13,107,Emanuel County, GA,Savannah Area Office,418400,4
+13,109,Evans County, GA,Savannah Area Office,418400,4
+13,111,Fannin County, GA,Atlanta East Area Office,418100,4
+13,113,Fayette County, GA,Atlanta West Area Office,418200,4
+13,115,Floyd County, GA,Atlanta West Area Office,418200,4
+13,117,Forsyth County, GA,Atlanta East Area Office,418100,4
+13,119,Franklin County, GA,Atlanta East Area Office,418100,4
+13,121,Fulton County, GA,Atlanta West Area Office,418200,4
+13,123,Gilmer County, GA,Atlanta East Area Office,418100,4
+13,125,Glascock County, GA,Atlanta East Area Office,418100,4
+13,127,Glynn County, GA,Savannah Area Office,418400,4
+13,129,Gordon County, GA,Atlanta West Area Office,418200,4
+13,131,Grady County, GA,Savannah Area Office,418400,4
+13,133,Greene County, GA,Atlanta East Area Office,418100,4
+13,135,Gwinnett County, GA,Atlanta East Area Office,418100,4
+13,137,Habersham County, GA,Atlanta East Area Office,418100,4
+13,139,Hall County, GA,Atlanta East Area Office,418100,4
+13,141,Hancock County, GA,Atlanta East Area Office,418100,4
+13,143,Haralson County, GA,Atlanta West Area Office,418200,4
+13,145,Harris County, GA,Atlanta West Area Office,418200,4
+13,147,Hart County, GA,Atlanta East Area Office,418100,4
+13,149,Heard County, GA,Atlanta West Area Office,418200,4
+13,151,Henry County, GA,Atlanta East Area Office,418100,4
+13,153,Houston County, GA,Atlanta East Area Office,418100,4
+13,155,Irwin County, GA,Savannah Area Office,418400,4
+13,157,Jackson County, GA,Atlanta East Area Office,418100,4
+13,159,Jasper County, GA,Atlanta East Area Office,418100,4
+13,161,Jeff Davis County, GA,Savannah Area Office,418400,4
+13,163,Jefferson County, GA,Savannah Area Office,418400,4
+13,165,Jenkins County, GA,Savannah Area Office,418400,4
+13,167,Johnson County, GA,Savannah Area Office,418400,4
+13,169,Jones County, GA,Atlanta East Area Office,418100,4
+13,171,Lamar County, GA,Atlanta West Area Office,418200,4
+13,173,Lanier County, GA,Savannah Area Office,418400,4
+13,175,Laurens County, GA,Savannah Area Office,418400,4
+13,177,Lee County, GA,Savannah Area Office,418400,4
+13,179,Liberty County, GA,Savannah Area Office,418400,4
+13,181,Lincoln County, GA,Atlanta East Area Office,418100,4
+13,183,Long County, GA,Savannah Area Office,418400,4
+13,185,Lowndes County, GA,Savannah Area Office,418400,4
+13,187,Lumpkin County, GA,Atlanta East Area Office,418100,4
+13,189,McDuffie County, GA,Atlanta East Area Office,418100,4
+13,191,McIntosh County, GA,Savannah Area Office,418400,4
+13,193,Macon County, GA,Savannah Area Office,418400,4
+13,195,Madison County, GA,Atlanta East Area Office,418100,4
+13,197,Marion County, GA,Atlanta West Area Office,418200,4
+13,199,Meriwether County, GA,Atlanta West Area Office,418200,4
+13,201,Miller County, GA,Savannah Area Office,418400,4
+13,205,Mitchell County, GA,Savannah Area Office,418400,4
+13,207,Monroe County, GA,Atlanta East Area Office,418100,4
+13,209,Montgomery County, GA,Savannah Area Office,418400,4
+13,211,Morgan County, GA,Atlanta East Area Office,418100,4
+13,213,Murray County, GA,Atlanta West Area Office,418200,4
+13,215,Muscogee County, GA,Atlanta West Area Office,418200,4
+13,217,Newton County, GA,Atlanta East Area Office,418100,4
+13,219,Oconee County, GA,Atlanta East Area Office,418100,4
+13,221,Oglethorpe County, GA,Atlanta East Area Office,418100,4
+13,223,Paulding County, GA,Atlanta West Area Office,418200,4
+13,225,Peach County, GA,Atlanta East Area Office,418100,4
+13,227,Pickens County, GA,Atlanta East Area Office,418100,4
+13,229,Pierce County, GA,Savannah Area Office,418400,4
+13,231,Pike County, GA,Atlanta West Area Office,418200,4
+13,233,Polk County, GA,Atlanta West Area Office,418200,4
+13,235,Pulaski County, GA,Savannah Area Office,418400,4
+13,237,Putnam County, GA,Atlanta East Area Office,418100,4
+13,239,Quitman County, GA,Savannah Area Office,418400,4
+13,241,Rabun County, GA,Atlanta East Area Office,418100,4
+13,243,Randolph County, GA,Savannah Area Office,418400,4
+13,245,Richmond County, GA,Atlanta East Area Office,418100,4
+13,247,Rockdale County, GA,Atlanta East Area Office,418100,4
+13,249,Schley County, GA,Atlanta West Area Office,418200,4
+13,251,Screven County, GA,Savannah Area Office,418400,4
+13,253,Seminole County, GA,Savannah Area Office,418400,4
+13,255,Spalding County, GA,Atlanta West Area Office,418200,4
+13,257,Stephens County, GA,Atlanta East Area Office,418100,4
+13,259,Stewart County, GA,Savannah Area Office,418400,4
+13,261,Sumter County, GA,Savannah Area Office,418400,4
+13,263,Talbot County, GA,Atlanta West Area Office,418200,4
+13,265,Taliaferro County, GA,Atlanta East Area Office,418100,4
+13,267,Tattnall County, GA,Savannah Area Office,418400,4
+13,269,Taylor County, GA,Atlanta West Area Office,418200,4
+13,271,Telfair County, GA,Savannah Area Office,418400,4
+13,273,Terrell County, GA,Savannah Area Office,418400,4
+13,275,Thomas County, GA,Savannah Area Office,418400,4
+13,277,Tift County, GA,Savannah Area Office,418400,4
+13,279,Toombs County, GA,Savannah Area Office,418400,4
+13,281,Towns County, GA,Atlanta East Area Office,418100,4
+13,283,Treutlen County, GA,Savannah Area Office,418400,4
+13,285,Troup County, GA,Atlanta West Area Office,418200,4
+13,287,Turner County, GA,Savannah Area Office,418400,4
+13,289,Twiggs County, GA,Atlanta East Area Office,418100,4
+13,291,Union County, GA,Atlanta East Area Office,418100,4
+13,293,Upson County, GA,Atlanta West Area Office,418200,4
+13,295,Walker County, GA,Atlanta West Area Office,418200,4
+13,297,Walton County, GA,Atlanta East Area Office,418100,4
+13,299,Ware County, GA,Savannah Area Office,418400,4
+13,301,Warren County, GA,Atlanta East Area Office,418100,4
+13,303,Washington County, GA,Atlanta East Area Office,418100,4
+13,305,Wayne County, GA,Savannah Area Office,418400,4
+13,307,Webster County, GA,Savannah Area Office,418400,4
+13,309,Wheeler County, GA,Savannah Area Office,418400,4
+13,311,White County, GA,Atlanta East Area Office,418100,4
+13,313,Whitfield County, GA,Atlanta West Area Office,418200,4
+13,315,Wilcox County, GA,Savannah Area Office,418400,4
+13,317,Wilkes County, GA,Atlanta East Area Office,418100,4
+13,319,Wilkinson County, GA,Atlanta East Area Office,418100,4
+13,321,Worth County, GA,Savannah Area Office,418400,4
+15,1,Hawaii County, HI,Honolulu Area Office,936300,9
+15,3,Honolulu County, HI,Honolulu Area Office,936300,9
+15,5,Kalawao County, HI,Honolulu Area Office,936300,9
+15,7,Kauai County, HI,Honolulu Area Office,936300,9
+15,9,Maui County, HI,Honolulu Area Office,936300,9
+16,1,Ada County, ID,Boise Area Office,1032500,10
+16,3,Adams County, ID,Boise Area Office,1032500,10
+16,5,Bannock County, ID,Boise Area Office,1032500,10
+16,7,Bear Lake County, ID,Boise Area Office,1032500,10
+16,9,Benewah County, ID,Boise Area Office,1032500,10
+16,11,Bingham County, ID,Boise Area Office,1032500,10
+16,13,Blaine County, ID,Boise Area Office,1032500,10
+16,15,Boise County, ID,Boise Area Office,1032500,10
+16,17,Bonner County, ID,Boise Area Office,1032500,10
+16,19,Bonneville County, ID,Boise Area Office,1032500,10
+16,21,Boundary County, ID,Boise Area Office,1032500,10
+16,23,Butte County, ID,Boise Area Office,1032500,10
+16,25,Camas County, ID,Boise Area Office,1032500,10
+16,27,Canyon County, ID,Boise Area Office,1032500,10
+16,29,Caribou County, ID,Boise Area Office,1032500,10
+16,31,Cassia County, ID,Boise Area Office,1032500,10
+16,33,Clark County, ID,Boise Area Office,1032500,10
+16,35,Clearwater County, ID,Boise Area Office,1032500,10
+16,37,Custer County, ID,Boise Area Office,1032500,10
+16,39,Elmore County, ID,Boise Area Office,1032500,10
+16,41,Franklin County, ID,Boise Area Office,1032500,10
+16,43,Fremont County, ID,Boise Area Office,1032500,10
+16,45,Gem County, ID,Boise Area Office,1032500,10
+16,47,Gooding County, ID,Boise Area Office,1032500,10
+16,49,Idaho County, ID,Boise Area Office,1032500,10
+16,51,Jefferson County, ID,Boise Area Office,1032500,10
+16,53,Jerome County, ID,Boise Area Office,1032500,10
+16,55,Kootenai County, ID,Boise Area Office,1032500,10
+16,57,Latah County, ID,Boise Area Office,1032500,10
+16,59,Lemhi County, ID,Boise Area Office,1032500,10
+16,61,Lewis County, ID,Boise Area Office,1032500,10
+16,63,Lincoln County, ID,Boise Area Office,1032500,10
+16,65,Madison County, ID,Boise Area Office,1032500,10
+16,67,Minidoka County, ID,Boise Area Office,1032500,10
+16,69,Nez Perce County, ID,Boise Area Office,1032500,10
+16,71,Oneida County, ID,Boise Area Office,1032500,10
+16,73,Owyhee County, ID,Boise Area Office,1032500,10
+16,75,Payette County, ID,Boise Area Office,1032500,10
+16,77,Power County, ID,Boise Area Office,1032500,10
+16,79,Shoshone County, ID,Boise Area Office,1032500,10
+16,81,Teton County, ID,Boise Area Office,1032500,10
+16,83,Twin Falls County, ID,Boise Area Office,1032500,10
+16,85,Valley County, ID,Boise Area Office,1032500,10
+16,87,Washington County, ID,Boise Area Office,1032500,10
+17,1,Adams County, IL,Peoria Area Office,524500,5
+17,3,Alexander County, IL,Fairview Heights Area Office,524530,5
+17,5,Bond County, IL,Fairview Heights Area Office,524530,5
+17,7,Boone County, IL,North Aurora Area Office,521400,5
+17,9,Brown County, IL,Peoria Area Office,524500,5
+17,11,Bureau County, IL,North Aurora Area Office,521400,5
+17,13,Calhoun County, IL,Fairview Heights Area Office,524530,5
+17,15,Carroll County, IL,North Aurora Area Office,521400,5
+17,17,Cass County, IL,Peoria Area Office,524500,5
+17,19,Champaign County, IL,Peoria Area Office,524500,5
+17,21,Christian County, IL,Peoria Area Office,524500,5
+17,23,Clark County, IL,Peoria Area Office,524500,5
+17,25,Clay County, IL,Fairview Heights Area Office,524530,5
+17,27,Clinton County, IL,Fairview Heights Area Office,524530,5
+17,29,Coles County, IL,Peoria Area Office,524500,5
+17,31,Cook County, IL,Calumet City Area Office,521700,5
+17,31,Cook County, IL,Chicago North Area Office,524200,5
+17,33,Crawford County, IL,Fairview Heights Area Office,524530,5
+17,35,Cumberland County, IL,Peoria Area Office,524500,5
+17,37,DeKalb County, IL,North Aurora Area Office,521400,5
+17,39,De Witt County, IL,Peoria Area Office,524500,5
+17,41,Douglas County, IL,Peoria Area Office,524500,5
+17,43,DuPage County, IL,North Aurora Area Office,521400,5
+17,45,Edgar County, IL,Peoria Area Office,524500,5
+17,47,Edwards County, IL,Fairview Heights Area Office,524530,5
+17,49,Effingham County, IL,Fairview Heights Area Office,524530,5
+17,51,Fayette County, IL,Fairview Heights Area Office,524530,5
+17,53,Ford County, IL,Peoria Area Office,524500,5
+17,55,Franklin County, IL,Fairview Heights Area Office,524530,5
+17,57,Fulton County, IL,Peoria Area Office,524500,5
+17,59,Gallatin County, IL,Fairview Heights Area Office,524530,5
+17,61,Greene County, IL,Fairview Heights Area Office,524530,5
+17,63,Grundy County, IL,North Aurora Area Office,521400,5
+17,65,Hamilton County, IL,Fairview Heights Area Office,524530,5
+17,67,Hancock County, IL,Peoria Area Office,524500,5
+17,69,Hardin County, IL,Fairview Heights Area Office,524530,5
+17,71,Henderson County, IL,Peoria Area Office,524500,5
+17,73,Henry County, IL,Peoria Area Office,524500,5
+17,75,Iroquois County, IL,Peoria Area Office,524500,5
+17,77,Jackson County, IL,Fairview Heights Area Office,524530,5
+17,79,Jasper County, IL,Fairview Heights Area Office,524530,5
+17,81,Jefferson County, IL,Fairview Heights Area Office,524530,5
+17,83,Jersey County, IL,Fairview Heights Area Office,524530,5
+17,85,Jo Daviess County, IL,North Aurora Area Office,521400,5
+17,87,Johnson County, IL,Fairview Heights Area Office,524530,5
+17,89,Kane County, IL,North Aurora Area Office,521400,5
+17,91,Kankakee County, IL,Calumet City Area Office,521700,5
+17,93,Kendall County, IL,North Aurora Area Office,521400,5
+17,95,Knox County, IL,Peoria Area Office,524500,5
+17,97,Lake County, IL,Chicago North Area Office,524200,5
+17,99,LaSalle County, IL,North Aurora Area Office,521400,5
+17,101,Lawrence County, IL,Fairview Heights Area Office,524530,5
+17,103,Lee County, IL,North Aurora Area Office,521400,5
+17,105,Livingston County, IL,Peoria Area Office,524500,5
+17,107,Logan County, IL,Peoria Area Office,524500,5
+17,109,McDonough County, IL,Peoria Area Office,524500,5
+17,111,McHenry County, IL,North Aurora Area Office,521400,5
+17,113,McLean County, IL,Peoria Area Office,524500,5
+17,115,Macon County, IL,Peoria Area Office,524500,5
+17,117,Macoupin County, IL,Fairview Heights Area Office,524530,5
+17,119,Madison County, IL,Fairview Heights Area Office,524530,5
+17,121,Marion County, IL,Fairview Heights Area Office,524530,5
+17,123,Marshall County, IL,Peoria Area Office,524500,5
+17,125,Mason County, IL,Peoria Area Office,524500,5
+17,127,Massac County, IL,Fairview Heights Area Office,524530,5
+17,129,Menard County, IL,Peoria Area Office,524500,5
+17,131,Mercer County, IL,Peoria Area Office,524500,5
+17,133,Monroe County, IL,Fairview Heights Area Office,524530,5
+17,135,Montgomery County, IL,Fairview Heights Area Office,524530,5
+17,137,Morgan County, IL,Peoria Area Office,524500,5
+17,139,Moultrie County, IL,Peoria Area Office,524500,5
+17,141,Ogle County, IL,North Aurora Area Office,521400,5
+17,143,Peoria County, IL,Peoria Area Office,524500,5
+17,145,Perry County, IL,Fairview Heights Area Office,524530,5
+17,147,Piatt County, IL,Peoria Area Office,524500,5
+17,149,Pike County, IL,Peoria Area Office,524500,5
+17,151,Pope County, IL,Fairview Heights Area Office,524530,5
+17,153,Pulaski County, IL,Fairview Heights Area Office,524530,5
+17,155,Putnam County, IL,North Aurora Area Office,521400,5
+17,157,Randolph County, IL,Fairview Heights Area Office,524530,5
+17,159,Richland County, IL,Fairview Heights Area Office,524530,5
+17,161,Rock Island County, IL,Peoria Area Office,524500,5
+17,163,St. Clair County, IL,Fairview Heights Area Office,524530,5
+17,165,Saline County, IL,Fairview Heights Area Office,524530,5
+17,167,Sangamon County, IL,Peoria Area Office,524500,5
+17,169,Schuyler County, IL,Peoria Area Office,524500,5
+17,171,Scott County, IL,Peoria Area Office,524500,5
+17,173,Shelby County, IL,Peoria Area Office,524500,5
+17,175,Stark County, IL,Peoria Area Office,524500,5
+17,177,Stephenson County, IL,North Aurora Area Office,521400,5
+17,179,Tazewell County, IL,Peoria Area Office,524500,5
+17,181,Union County, IL,Fairview Heights Area Office,524530,5
+17,183,Vermilion County, IL,Peoria Area Office,524500,5
+17,185,Wabash County, IL,Fairview Heights Area Office,524530,5
+17,187,Warren County, IL,Peoria Area Office,524500,5
+17,189,Washington County, IL,Fairview Heights Area Office,524530,5
+17,191,Wayne County, IL,Fairview Heights Area Office,524530,5
+17,193,White County, IL,Fairview Heights Area Office,524530,5
+17,195,Whiteside County, IL,North Aurora Area Office,521400,5
+17,197,Will County, IL,Calumet City Area Office,521700,5
+17,199,Williamson County, IL,Fairview Heights Area Office,524530,5
+17,201,Winnebago County, IL,North Aurora Area Office,521400,5
+17,203,Woodford County, IL,Peoria Area,524500,5
+18,1,Adams County, IN,Indianapolis Area Office,523100,5
+18,3,Allen County, IN,Indianapolis Area Office,523100,5
+18,5,Bartholomew County, IN,Indianapolis Area Office,523100,5
+18,7,Benton County, IN,Indianapolis Area Office,523100,5
+18,9,Blackford County, IN,Indianapolis Area Office,523100,5
+18,11,Boone County, IN,Indianapolis Area Office,523100,5
+18,13,Brown County, IN,Indianapolis Area Office,523100,5
+18,15,Carroll County, IN,Indianapolis Area Office,523100,5
+18,17,Cass County, IN,Indianapolis Area Office,523100,5
+18,19,Clark County, IN,Indianapolis Area Office,523100,5
+18,21,Clay County, IN,Indianapolis Area Office,523100,5
+18,23,Clinton County, IN,Indianapolis Area Office,523100,5
+18,25,Crawford County, IN,Indianapolis Area Office,523100,5
+18,27,Daviess County, IN,Indianapolis Area Office,523100,5
+18,29,Dearborn County, IN,Indianapolis Area Office,523100,5
+18,31,Decatur County, IN,Indianapolis Area Office,523100,5
+18,33,DeKalb County, IN,Indianapolis Area Office,523100,5
+18,35,Delaware County, IN,Indianapolis Area Office,523100,5
+18,37,Dubois County, IN,Indianapolis Area Office,523100,5
+18,39,Elkhart County, IN,Indianapolis Area Office,523100,5
+18,41,Fayette County, IN,Indianapolis Area Office,523100,5
+18,43,Floyd County, IN,Indianapolis Area Office,523100,5
+18,45,Fountain County, IN,Indianapolis Area Office,523100,5
+18,47,Franklin County, IN,Indianapolis Area Office,523100,5
+18,49,Fulton County, IN,Indianapolis Area Office,523100,5
+18,51,Gibson County, IN,Indianapolis Area Office,523100,5
+18,53,Grant County, IN,Indianapolis Area Office,523100,5
+18,55,Greene County, IN,Indianapolis Area Office,523100,5
+18,57,Hamilton County, IN,Indianapolis Area Office,523100,5
+18,59,Hancock County, IN,Indianapolis Area Office,523100,5
+18,61,Harrison County, IN,Indianapolis Area Office,523100,5
+18,63,Hendricks County, IN,Indianapolis Area Office,523100,5
+18,65,Henry County, IN,Indianapolis Area Office,523100,5
+18,67,Howard County, IN,Indianapolis Area Office,523100,5
+18,69,Huntington County, IN,Indianapolis Area Office,523100,5
+18,71,Jackson County, IN,Indianapolis Area Office,523100,5
+18,73,Jasper County, IN,Indianapolis Area Office,523100,5
+18,75,Jay County, IN,Indianapolis Area Office,523100,5
+18,77,Jefferson County, IN,Indianapolis Area Office,523100,5
+18,79,Jennings County, IN,Indianapolis Area Office,523100,5
+18,81,Johnson County, IN,Indianapolis Area Office,523100,5
+18,83,Knox County, IN,Indianapolis Area Office,523100,5
+18,85,Kosciusko County, IN,Indianapolis Area Office,523100,5
+18,87,LaGrange County, IN,Indianapolis Area Office,523100,5
+18,89,Lake County, IN,Indianapolis Area Office,523100,5
+18,91,LaPorte County, IN,Indianapolis Area Office,523100,5
+18,93,Lawrence County, IN,Indianapolis Area Office,523100,5
+18,95,Madison County, IN,Indianapolis Area Office,523100,5
+18,97,Marion County, IN,Indianapolis Area Office,523100,5
+18,99,Marshall County, IN,Indianapolis Area Office,523100,5
+18,101,Martin County, IN,Indianapolis Area Office,523100,5
+18,103,Miami County, IN,Indianapolis Area Office,523100,5
+18,105,Monroe County, IN,Indianapolis Area Office,523100,5
+18,107,Montgomery County, IN,Indianapolis Area Office,523100,5
+18,109,Morgan County, IN,Indianapolis Area Office,523100,5
+18,111,Newton County, IN,Indianapolis Area Office,523100,5
+18,113,Noble County, IN,Indianapolis Area Office,523100,5
+18,115,Ohio County, IN,Indianapolis Area Office,523100,5
+18,117,Orange County, IN,Indianapolis Area Office,523100,5
+18,119,Owen County, IN,Indianapolis Area Office,523100,5
+18,121,Parke County, IN,Indianapolis Area Office,523100,5
+18,123,Perry County, IN,Indianapolis Area Office,523100,5
+18,125,Pike County, IN,Indianapolis Area Office,523100,5
+18,127,Porter County, IN,Indianapolis Area Office,523100,5
+18,129,Posey County, IN,Indianapolis Area Office,523100,5
+18,131,Pulaski County, IN,Indianapolis Area Office,523100,5
+18,133,Putnam County, IN,Indianapolis Area Office,523100,5
+18,135,Randolph County, IN,Indianapolis Area Office,523100,5
+18,137,Ripley County, IN,Indianapolis Area Office,523100,5
+18,139,Rush County, IN,Indianapolis Area Office,523100,5
+18,141,St. Joseph County, IN,Indianapolis Area Office,523100,5
+18,143,Scott County, IN,Indianapolis Area Office,523100,5
+18,145,Shelby County, IN,Indianapolis Area Office,523100,5
+18,147,Spencer County, IN,Indianapolis Area Office,523100,5
+18,149,Starke County, IN,Indianapolis Area Office,523100,5
+18,151,Steuben County, IN,Indianapolis Area Office,523100,5
+18,153,Sullivan County, IN,Indianapolis Area Office,523100,5
+18,155,Switzerland County, IN,Indianapolis Area Office,523100,5
+18,157,Tippecanoe County, IN,Indianapolis Area Office,523100,5
+18,159,Tipton County, IN,Indianapolis Area Office,523100,5
+18,161,Union County, IN,Indianapolis Area Office,523100,5
+18,163,Vanderburgh County, IN,Indianapolis Area Office,523100,5
+18,165,Vermillion County, IN,Indianapolis Area Office,523100,5
+18,167,Vigo County, IN,Indianapolis Area Office,523100,5
+18,169,Wabash County, IN,Indianapolis Area Office,523100,5
+18,171,Warren County, IN,Indianapolis Area Office,523100,5
+18,173,Warrick County, IN,Indianapolis Area Office,523100,5
+18,175,Washington County, IN,Indianapolis Area Office,523100,5
+18,177,Wayne County, IN,Indianapolis Area Office,523100,5
+18,179,Wells County, IN,Indianapolis Area Office,523100,5
+18,181,White County, IN,Indianapolis Area Office,523100,5
+18,183,Whitley County, IN,Indianapolis Area Office,523100,5
+19,1,Adair County, IA,Des Moines Area Office,728100,7
+19,3,Adams County, IA,Des Moines Area Office,728100,7
+19,5,Allamakee County, IA,Des Moines Area Office,728100,7
+19,7,Appanoose County, IA,Des Moines Area Office,728100,7
+19,9,Audubon County, IA,Des Moines Area Office,728100,7
+19,11,Benton County, IA,Des Moines Area Office,728100,7
+19,13,Black Hawk County, IA,Des Moines Area Office,728100,7
+19,15,Boone County, IA,Des Moines Area Office,728100,7
+19,17,Bremer County, IA,Des Moines Area Office,728100,7
+19,19,Buchanan County, IA,Des Moines Area Office,728100,7
+19,21,Buena Vista County, IA,Des Moines Area Office,728100,7
+19,23,Butler County, IA,Des Moines Area Office,728100,7
+19,25,Calhoun County, IA,Des Moines Area Office,728100,7
+19,27,Carroll County, IA,Des Moines Area Office,728100,7
+19,29,Cass County, IA,Des Moines Area Office,728100,7
+19,31,Cedar County, IA,Des Moines Area Office,728100,7
+19,33,Cerro Gordo County, IA,Des Moines Area Office,728100,7
+19,35,Cherokee County, IA,Des Moines Area Office,728100,7
+19,37,Chickasaw County, IA,Des Moines Area Office,728100,7
+19,39,Clarke County, IA,Des Moines Area Office,728100,7
+19,41,Clay County, IA,Des Moines Area Office,728100,7
+19,43,Clayton County, IA,Des Moines Area Office,728100,7
+19,45,Clinton County, IA,Des Moines Area Office,728100,7
+19,47,Crawford County, IA,Des Moines Area Office,728100,7
+19,49,Dallas County, IA,Des Moines Area Office,728100,7
+19,51,Davis County, IA,Des Moines Area Office,728100,7
+19,53,Decatur County, IA,Des Moines Area Office,728100,7
+19,55,Delaware County, IA,Des Moines Area Office,728100,7
+19,57,Des Moines County, IA,Des Moines Area Office,728100,7
+19,59,Dickinson County, IA,Des Moines Area Office,728100,7
+19,61,Dubuque County, IA,Des Moines Area Office,728100,7
+19,63,Emmet County, IA,Des Moines Area Office,728100,7
+19,65,Fayette County, IA,Des Moines Area Office,728100,7
+19,67,Floyd County, IA,Des Moines Area Office,728100,7
+19,69,Franklin County, IA,Des Moines Area Office,728100,7
+19,71,Fremont County, IA,Des Moines Area Office,728100,7
+19,73,Greene County, IA,Des Moines Area Office,728100,7
+19,75,Grundy County, IA,Des Moines Area Office,728100,7
+19,77,Guthrie County, IA,Des Moines Area Office,728100,7
+19,79,Hamilton County, IA,Des Moines Area Office,728100,7
+19,81,Hancock County, IA,Des Moines Area Office,728100,7
+19,83,Hardin County, IA,Des Moines Area Office,728100,7
+19,85,Harrison County, IA,Des Moines Area Office,728100,7
+19,87,Henry County, IA,Des Moines Area Office,728100,7
+19,89,Howard County, IA,Des Moines Area Office,728100,7
+19,91,Humboldt County, IA,Des Moines Area Office,728100,7
+19,93,Ida County, IA,Des Moines Area Office,728100,7
+19,95,Iowa County, IA,Des Moines Area Office,728100,7
+19,97,Jackson County, IA,Des Moines Area Office,728100,7
+19,99,Jasper County, IA,Des Moines Area Office,728100,7
+19,101,Jefferson County, IA,Des Moines Area Office,728100,7
+19,103,Johnson County, IA,Des Moines Area Office,728100,7
+19,105,Jones County, IA,Des Moines Area Office,728100,7
+19,107,Keokuk County, IA,Des Moines Area Office,728100,7
+19,109,Kossuth County, IA,Des Moines Area Office,728100,7
+19,111,Lee County, IA,Des Moines Area Office,728100,7
+19,113,Linn County, IA,Des Moines Area Office,728100,7
+19,115,Louisa County, IA,Des Moines Area Office,728100,7
+19,117,Lucas County, IA,Des Moines Area Office,728100,7
+19,119,Lyon County, IA,Des Moines Area Office,728100,7
+19,121,Madison County, IA,Des Moines Area Office,728100,7
+19,123,Mahaska County, IA,Des Moines Area Office,728100,7
+19,125,Marion County, IA,Des Moines Area Office,728100,7
+19,127,Marshall County, IA,Des Moines Area Office,728100,7
+19,129,Mills County, IA,Des Moines Area Office,728100,7
+19,131,Mitchell County, IA,Des Moines Area Office,728100,7
+19,133,Monona County, IA,Des Moines Area Office,728100,7
+19,135,Monroe County, IA,Des Moines Area Office,728100,7
+19,137,Montgomery County, IA,Des Moines Area Office,728100,7
+19,139,Muscatine County, IA,Des Moines Area Office,728100,7
+19,141,O'Brien County, IA,Des Moines Area Office,728100,7
+19,143,Osceola County, IA,Des Moines Area Office,728100,7
+19,145,Page County, IA,Des Moines Area Office,728100,7
+19,147,Palo Alto County, IA,Des Moines Area Office,728100,7
+19,149,Plymouth County, IA,Des Moines Area Office,728100,7
+19,151,Pocahontas County, IA,Des Moines Area Office,728100,7
+19,153,Polk County, IA,Des Moines Area Office,728100,7
+19,155,Pottawattamie County, IA,Des Moines Area Office,728100,7
+19,157,Poweshiek County, IA,Des Moines Area Office,728100,7
+19,159,Ringgold County, IA,Des Moines Area Office,728100,7
+19,161,Sac County, IA,Des Moines Area Office,728100,7
+19,163,Scott County, IA,Des Moines Area Office,728100,7
+19,165,Shelby County, IA,Des Moines Area Office,728100,7
+19,167,Sioux County, IA,Des Moines Area Office,728100,7
+19,169,Story County, IA,Des Moines Area Office,728100,7
+19,171,Tama County, IA,Des Moines Area Office,728100,7
+19,173,Taylor County, IA,Des Moines Area Office,728100,7
+19,175,Union County, IA,Des Moines Area Office,728100,7
+19,177,Van Buren County, IA,Des Moines Area Office,728100,7
+19,179,Wapello County, IA,Des Moines Area Office,728100,7
+19,181,Warren County, IA,Des Moines Area Office,728100,7
+19,183,Washington County, IA,Des Moines Area Office,728100,7
+19,185,Wayne County, IA,Des Moines Area Office,728100,7
+19,187,Webster County, IA,Des Moines Area Office,728100,7
+19,189,Winnebago County, IA,Des Moines Area Office,728100,7
+19,191,Winneshiek County, IA,Des Moines Area Office,728100,7
+19,193,Woodbury County, IA,Des Moines Area Office,728100,7
+19,195,Worth County, IA,Des Moines Area Office,728100,7
+19,197,Wright County, IA,Des Moines Area Office,728100,7
+20,1,Allen County, KS,Witchita Area Office,729700,7
+20,3,Anderson County, KS,Witchita Area Office,729700,7
+20,5,Atchison County, KS,Witchita Area Office,729700,7
+20,7,Barber County, KS,Witchita Area Office,729700,7
+20,9,Barton County, KS,Witchita Area Office,729700,7
+20,11,Bourbon County, KS,Witchita Area Office,729700,7
+20,13,Brown County, KS,Witchita Area Office,729700,7
+20,15,Butler County, KS,Witchita Area Office,729700,7
+20,17,Chase County, KS,Witchita Area Office,729700,7
+20,19,Chautauqua County, KS,Witchita Area Office,729700,7
+20,21,Cherokee County, KS,Witchita Area Office,729700,7
+20,23,Cheyenne County, KS,Witchita Area Office,729700,7
+20,25,Clark County, KS,Witchita Area Office,729700,7
+20,27,Clay County, KS,Witchita Area Office,729700,7
+20,29,Cloud County, KS,Witchita Area Office,729700,7
+20,31,Coffey County, KS,Witchita Area Office,729700,7
+20,33,Comanche County, KS,Witchita Area Office,729700,7
+20,35,Cowley County, KS,Witchita Area Office,729700,7
+20,37,Crawford County, KS,Witchita Area Office,729700,7
+20,39,Decatur County, KS,Witchita Area Office,729700,7
+20,41,Dickinson County, KS,Witchita Area Office,729700,7
+20,43,Doniphan County, KS,Witchita Area Office,729700,7
+20,45,Douglas County, KS,Witchita Area Office,729700,7
+20,47,Edwards County, KS,Witchita Area Office,729700,7
+20,49,Elk County, KS,Witchita Area Office,729700,7
+20,51,Ellis County, KS,Witchita Area Office,729700,7
+20,53,Ellsworth County, KS,Witchita Area Office,729700,7
+20,55,Finney County, KS,Witchita Area Office,729700,7
+20,57,Ford County, KS,Witchita Area Office,729700,7
+20,59,Franklin County, KS,Witchita Area Office,729700,7
+20,61,Geary County, KS,Witchita Area Office,729700,7
+20,63,Gove County, KS,Witchita Area Office,729700,7
+20,65,Graham County, KS,Witchita Area Office,729700,7
+20,67,Grant County, KS,Witchita Area Office,729700,7
+20,69,Gray County, KS,Witchita Area Office,729700,7
+20,71,Greeley County, KS,Witchita Area Office,729700,7
+20,73,Greenwood County, KS,Witchita Area Office,729700,7
+20,75,Hamilton County, KS,Witchita Area Office,729700,7
+20,77,Harper County, KS,Witchita Area Office,729700,7
+20,79,Harvey County, KS,Witchita Area Office,729700,7
+20,81,Haskell County, KS,Witchita Area Office,729700,7
+20,83,Hodgeman County, KS,Witchita Area Office,729700,7
+20,85,Jackson County, KS,Witchita Area Office,729700,7
+20,87,Jefferson County, KS,Witchita Area Office,729700,7
+20,89,Jewell County, KS,Witchita Area Office,729700,7
+20,91,Johnson County, KS,Witchita Area Office,729700,7
+20,93,Kearny County, KS,Witchita Area Office,729700,7
+20,95,Kingman County, KS,Witchita Area Office,729700,7
+20,97,Kiowa County, KS,Witchita Area Office,729700,7
+20,99,Labette County, KS,Witchita Area Office,729700,7
+20,101,Lane County, KS,Witchita Area Office,729700,7
+20,103,Leavenworth County, KS,Witchita Area Office,729700,7
+20,105,Lincoln County, KS,Witchita Area Office,729700,7
+20,107,Linn County, KS,Witchita Area Office,729700,7
+20,109,Logan County, KS,Witchita Area Office,729700,7
+20,111,Lyon County, KS,Witchita Area Office,729700,7
+20,113,McPherson County, KS,Witchita Area Office,729700,7
+20,115,Marion County, KS,Witchita Area Office,729700,7
+20,117,Marshall County, KS,Witchita Area Office,729700,7
+20,119,Meade County, KS,Witchita Area Office,729700,7
+20,121,Miami County, KS,Witchita Area Office,729700,7
+20,123,Mitchell County, KS,Witchita Area Office,729700,7
+20,125,Montgomery County, KS,Witchita Area Office,729700,7
+20,127,Morris County, KS,Witchita Area Office,729700,7
+20,129,Morton County, KS,Witchita Area Office,729700,7
+20,131,Nemaha County, KS,Witchita Area Office,729700,7
+20,133,Neosho County, KS,Witchita Area Office,729700,7
+20,135,Ness County, KS,Witchita Area Office,729700,7
+20,137,Norton County, KS,Witchita Area Office,729700,7
+20,139,Osage County, KS,Witchita Area Office,729700,7
+20,141,Osborne County, KS,Witchita Area Office,729700,7
+20,143,Ottawa County, KS,Witchita Area Office,729700,7
+20,145,Pawnee County, KS,Witchita Area Office,729700,7
+20,147,Phillips County, KS,Witchita Area Office,729700,7
+20,149,Pottawatomie County, KS,Witchita Area Office,729700,7
+20,151,Pratt County, KS,Witchita Area Office,729700,7
+20,153,Rawlins County, KS,Witchita Area Office,729700,7
+20,155,Reno County, KS,Witchita Area Office,729700,7
+20,157,Republic County, KS,Witchita Area Office,729700,7
+20,159,Rice County, KS,Witchita Area Office,729700,7
+20,161,Riley County, KS,Witchita Area Office,729700,7
+20,163,Rooks County, KS,Witchita Area Office,729700,7
+20,165,Rush County, KS,Witchita Area Office,729700,7
+20,167,Russell County, KS,Witchita Area Office,729700,7
+20,169,Saline County, KS,Witchita Area Office,729700,7
+20,171,Scott County, KS,Witchita Area Office,729700,7
+20,173,Sedgwick County, KS,Witchita Area Office,729700,7
+20,175,Seward County, KS,Witchita Area Office,729700,7
+20,177,Shawnee County, KS,Witchita Area Office,729700,7
+20,179,Sheridan County, KS,Witchita Area Office,729700,7
+20,181,Sherman County, KS,Witchita Area Office,729700,7
+20,183,Smith County, KS,Witchita Area Office,729700,7
+20,185,Stafford County, KS,Witchita Area Office,729700,7
+20,187,Stanton County, KS,Witchita Area Office,729700,7
+20,189,Stevens County, KS,Witchita Area Office,729700,7
+20,191,Sumner County, KS,Witchita Area Office,729700,7
+20,193,Thomas County, KS,Witchita Area Office,729700,7
+20,195,Trego County, KS,Witchita Area Office,729700,7
+20,197,Wabaunsee County, KS,Witchita Area Office,729700,7
+20,199,Wallace County, KS,Witchita Area Office,729700,7
+20,201,Washington County, KS,Witchita Area Office,729700,7
+20,203,Wichita County, KS,Witchita Area Office,729700,7
+20,205,Wilson County, KS,Witchita Area Office,729700,7
+20,207,Woodson County, KS,Witchita Area Office,729700,7
+20,209,Wyandotte County, KS,Witchita Area Office,729700,7
+21,1,Adair County, KY,Nashville Area Office,420100,4
+21,3,Allen County, KY,Nashville Area Office,420100,4
+21,5,Anderson County, KY,Nashville Area Office,420100,4
+21,7,Ballard County, KY,Nashville Area Office,420100,4
+21,9,Barren County, KY,Nashville Area Office,420100,4
+21,11,Bath County, KY,Nashville Area Office,420100,4
+21,13,Bell County, KY,Nashville Area Office,420100,4
+21,15,Boone County, KY,Nashville Area Office,420100,4
+21,17,Bourbon County, KY,Nashville Area Office,420100,4
+21,19,Boyd County, KY,Nashville Area Office,420100,4
+21,21,Boyle County, KY,Nashville Area Office,420100,4
+21,23,Bracken County, KY,Nashville Area Office,420100,4
+21,25,Breathitt County, KY,Nashville Area Office,420100,4
+21,27,Breckinridge County, KY,Nashville Area Office,420100,4
+21,29,Bullitt County, KY,Nashville Area Office,420100,4
+21,31,Butler County, KY,Nashville Area Office,420100,4
+21,33,Caldwell County, KY,Nashville Area Office,420100,4
+21,35,Calloway County, KY,Nashville Area Office,420100,4
+21,37,Campbell County, KY,Nashville Area Office,420100,4
+21,39,Carlisle County, KY,Nashville Area Office,420100,4
+21,41,Carroll County, KY,Nashville Area Office,420100,4
+21,43,Carter County, KY,Nashville Area Office,420100,4
+21,45,Casey County, KY,Nashville Area Office,420100,4
+21,47,Christian County, KY,Nashville Area Office,420100,4
+21,49,Clark County, KY,Nashville Area Office,420100,4
+21,51,Clay County, KY,Nashville Area Office,420100,4
+21,53,Clinton County, KY,Nashville Area Office,420100,4
+21,55,Crittenden County, KY,Nashville Area Office,420100,4
+21,57,Cumberland County, KY,Nashville Area Office,420100,4
+21,59,Daviess County, KY,Nashville Area Office,420100,4
+21,61,Edmonson County, KY,Nashville Area Office,420100,4
+21,63,Elliott County, KY,Nashville Area Office,420100,4
+21,65,Estill County, KY,Nashville Area Office,420100,4
+21,67,Fayette County, KY,Nashville Area Office,420100,4
+21,69,Fleming County, KY,Nashville Area Office,420100,4
+21,71,Floyd County, KY,Nashville Area Office,420100,4
+21,73,Franklin County, KY,Nashville Area Office,420100,4
+21,75,Fulton County, KY,Nashville Area Office,420100,4
+21,77,Gallatin County, KY,Nashville Area Office,420100,4
+21,79,Garrard County, KY,Nashville Area Office,420100,4
+21,81,Grant County, KY,Nashville Area Office,420100,4
+21,83,Graves County, KY,Nashville Area Office,420100,4
+21,85,Grayson County, KY,Nashville Area Office,420100,4
+21,87,Green County, KY,Nashville Area Office,420100,4
+21,89,Greenup County, KY,Nashville Area Office,420100,4
+21,91,Hancock County, KY,Nashville Area Office,420100,4
+21,93,Hardin County, KY,Nashville Area Office,420100,4
+21,95,Harlan County, KY,Nashville Area Office,420100,4
+21,97,Harrison County, KY,Nashville Area Office,420100,4
+21,99,Hart County, KY,Nashville Area Office,420100,4
+21,101,Henderson County, KY,Nashville Area Office,420100,4
+21,103,Henry County, KY,Nashville Area Office,420100,4
+21,105,Hickman County, KY,Nashville Area Office,420100,4
+21,107,Hopkins County, KY,Nashville Area Office,420100,4
+21,109,Jackson County, KY,Nashville Area Office,420100,4
+21,111,Jefferson County, KY,Nashville Area Office,420100,4
+21,113,Jessamine County, KY,Nashville Area Office,420100,4
+21,115,Johnson County, KY,Nashville Area Office,420100,4
+21,117,Kenton County, KY,Nashville Area Office,420100,4
+21,119,Knott County, KY,Nashville Area Office,420100,4
+21,121,Knox County, KY,Nashville Area Office,420100,4
+21,123,Larue County, KY,Nashville Area Office,420100,4
+21,125,Laurel County, KY,Nashville Area Office,420100,4
+21,127,Lawrence County, KY,Nashville Area Office,420100,4
+21,129,Lee County, KY,Nashville Area Office,420100,4
+21,131,Leslie County, KY,Nashville Area Office,420100,4
+21,133,Letcher County, KY,Nashville Area Office,420100,4
+21,135,Lewis County, KY,Nashville Area Office,420100,4
+21,137,Lincoln County, KY,Nashville Area Office,420100,4
+21,139,Livingston County, KY,Nashville Area Office,420100,4
+21,141,Logan County, KY,Nashville Area Office,420100,4
+21,143,Lyon County, KY,Nashville Area Office,420100,4
+21,145,McCracken County, KY,Nashville Area Office,420100,4
+21,147,McCreary County, KY,Nashville Area Office,420100,4
+21,149,McLean County, KY,Nashville Area Office,420100,4
+21,151,Madison County, KY,Nashville Area Office,420100,4
+21,153,Magoffin County, KY,Nashville Area Office,420100,4
+21,155,Marion County, KY,Nashville Area Office,420100,4
+21,157,Marshall County, KY,Nashville Area Office,420100,4
+21,159,Martin County, KY,Nashville Area Office,420100,4
+21,161,Mason County, KY,Nashville Area Office,420100,4
+21,163,Meade County, KY,Nashville Area Office,420100,4
+21,165,Menifee County, KY,Nashville Area Office,420100,4
+21,167,Mercer County, KY,Nashville Area Office,420100,4
+21,169,Metcalfe County, KY,Nashville Area Office,420100,4
+21,171,Monroe County, KY,Nashville Area Office,420100,4
+21,173,Montgomery County, KY,Nashville Area Office,420100,4
+21,175,Morgan County, KY,Nashville Area Office,420100,4
+21,177,Muhlenberg County, KY,Nashville Area Office,420100,4
+21,179,Nelson County, KY,Nashville Area Office,420100,4
+21,181,Nicholas County, KY,Nashville Area Office,420100,4
+21,183,Ohio County, KY,Nashville Area Office,420100,4
+21,185,Oldham County, KY,Nashville Area Office,420100,4
+21,187,Owen County, KY,Nashville Area Office,420100,4
+21,189,Owsley County, KY,Nashville Area Office,420100,4
+21,191,Pendleton County, KY,Nashville Area Office,420100,4
+21,193,Perry County, KY,Nashville Area Office,420100,4
+21,195,Pike County, KY,Nashville Area Office,420100,4
+21,197,Powell County, KY,Nashville Area Office,420100,4
+21,199,Pulaski County, KY,Nashville Area Office,420100,4
+21,201,Robertson County, KY,Nashville Area Office,420100,4
+21,203,Rockcastle County, KY,Nashville Area Office,420100,4
+21,205,Rowan County, KY,Nashville Area Office,420100,4
+21,207,Russell County, KY,Nashville Area Office,420100,4
+21,209,Scott County, KY,Nashville Area Office,420100,4
+21,211,Shelby County, KY,Nashville Area Office,420100,4
+21,213,Simpson County, KY,Nashville Area Office,420100,4
+21,215,Spencer County, KY,Nashville Area Office,420100,4
+21,217,Taylor County, KY,Nashville Area Office,420100,4
+21,219,Todd County, KY,Nashville Area Office,420100,4
+21,221,Trigg County, KY,Nashville Area Office,420100,4
+21,223,Trimble County, KY,Nashville Area Office,420100,4
+21,225,Union County, KY,Nashville Area Office,420100,4
+21,227,Warren County, KY,Nashville Area Office,420100,4
+21,229,Washington County, KY,Nashville Area Office,420100,4
+21,231,Wayne County, KY,Nashville Area Office,420100,4
+21,233,Webster County, KY,Nashville Area Office,420100,4
+21,235,Whitley County, KY,Nashville Area Office,420100,4
+21,237,Wolfe County, KY,Nashville Area Office,420100,4
+21,239,Woodford County, KY,Nashville Area Office,420100,4
+22,1,Acadia Parish, LA,Baton Rouge Area Office,625700,6
+22,3,Allen Parish, LA,Baton Rouge Area Office,625700,6
+22,5,Ascension Parish, LA,Baton Rouge Area Office,625700,6
+22,7,Assumption Parish, LA,Baton Rouge Area Office,625700,6
+22,9,Avoyelles Parish, LA,Baton Rouge Area Office,625700,6
+22,11,Beauregard Parish, LA,Baton Rouge Area Office,625700,6
+22,13,Bienville Parish, LA,Baton Rouge Area Office,625700,6
+22,15,Bossier Parish, LA,Baton Rouge Area Office,625700,6
+22,17,Caddo Parish, LA,Baton Rouge Area Office,625700,6
+22,19,Calcasieu Parish, LA,Baton Rouge Area Office,625700,6
+22,21,Caldwell Parish, LA,Baton Rouge Area Office,625700,6
+22,23,Cameron Parish, LA,Baton Rouge Area Office,625700,6
+22,25,Catahoula Parish, LA,Baton Rouge Area Office,625700,6
+22,27,Claiborne Parish, LA,Baton Rouge Area Office,625700,6
+22,29,Concordia Parish, LA,Baton Rouge Area Office,625700,6
+22,31,De Soto Parish, LA,Baton Rouge Area Office,625700,6
+22,33,East Baton Rouge Parish, LA,Baton Rouge Area Office,625700,6
+22,35,East Carroll Parish, LA,Baton Rouge Area Office,625700,6
+22,37,East Feliciana Parish, LA,Baton Rouge Area Office,625700,6
+22,39,Evangeline Parish, LA,Baton Rouge Area Office,625700,6
+22,41,Franklin Parish, LA,Baton Rouge Area Office,625700,6
+22,43,Grant Parish, LA,Baton Rouge Area Office,625700,6
+22,45,Iberia Parish, LA,Baton Rouge Area Office,625700,6
+22,47,Iberville Parish, LA,Baton Rouge Area Office,625700,6
+22,49,Jackson Parish, LA,Baton Rouge Area Office,625700,6
+22,51,Jefferson Parish, LA,Baton Rouge Area Office,625700,6
+22,53,Jefferson Davis Parish, LA,Baton Rouge Area Office,625700,6
+22,55,Lafayette Parish, LA,Baton Rouge Area Office,625700,6
+22,57,Lafourche Parish, LA,Baton Rouge Area Office,625700,6
+22,59,La Salle Parish, LA,Baton Rouge Area Office,625700,6
+22,61,Lincoln Parish, LA,Baton Rouge Area Office,625700,6
+22,63,Livingston Parish, LA,Baton Rouge Area Office,625700,6
+22,65,Madison Parish, LA,Baton Rouge Area Office,625700,6
+22,67,Morehouse Parish, LA,Baton Rouge Area Office,625700,6
+22,69,Natchitoches Parish, LA,Baton Rouge Area Office,625700,6
+22,71,Orleans Parish, LA,Baton Rouge Area Office,625700,6
+22,73,Ouachita Parish, LA,Baton Rouge Area Office,625700,6
+22,75,Plaquemines Parish, LA,Baton Rouge Area Office,625700,6
+22,77,Pointe Coupee Parish, LA,Baton Rouge Area Office,625700,6
+22,79,Rapides Parish, LA,Baton Rouge Area Office,625700,6
+22,81,Red River Parish, LA,Baton Rouge Area Office,625700,6
+22,83,Richland Parish, LA,Baton Rouge Area Office,625700,6
+22,85,Sabine Parish, LA,Baton Rouge Area Office,625700,6
+22,87,St. Bernard Parish, LA,Baton Rouge Area Office,625700,6
+22,89,St. Charles Parish, LA,Baton Rouge Area Office,625700,6
+22,91,St. Helena Parish, LA,Baton Rouge Area Office,625700,6
+22,93,St. James Parish, LA,Baton Rouge Area Office,625700,6
+22,95,St. John the Baptist Parish, LA,Baton Rouge Area Office,625700,6
+22,97,St. Landry Parish, LA,Baton Rouge Area Office,625700,6
+22,99,St. Martin Parish, LA,Baton Rouge Area Office,625700,6
+22,101,St. Mary Parish, LA,Baton Rouge Area Office,625700,6
+22,103,St. Tammany Parish, LA,Baton Rouge Area Office,625700,6
+22,105,Tangipahoa Parish, LA,Baton Rouge Area Office,625700,6
+22,107,Tensas Parish, LA,Baton Rouge Area Office,625700,6
+22,109,Terrebonne Parish, LA,Baton Rouge Area Office,625700,6
+22,111,Union Parish, LA,Baton Rouge Area Office,625700,6
+22,113,Vermilion Parish, LA,Baton Rouge Area Office,625700,6
+22,115,Vernon Parish, LA,Baton Rouge Area Office,625700,6
+22,117,Washington Parish, LA,Baton Rouge Area Office,625700,6
+22,119,Webster Parish, LA,Baton Rouge Area Office,625700,6
+22,121,West Baton Rouge Parish, LA,Baton Rouge Area Office,625700,6
+22,123,West Carroll Parish, LA,Baton Rouge Area Office,625700,6
+22,125,West Feliciana Parish, LA,Baton Rouge Area Office,625700,6
+22,127,Winn Parish, LA,Baton Rouge Area Office,625700,6
+23,1,Androscoggin County, ME,Augusta Area Office,111100,1
+23,3,Aroostook County, ME,Bangor District Office,112900,1
+23,5,Cumberland County, ME,Augusta Area Office,111100,1
+23,7,Franklin County, ME,Augusta Area Office,111100,1
+23,9,Hancock County, ME,Bangor District Office,112900,1
+23,11,Kennebec County, ME,Augusta Area Office,111100,1
+23,13,Knox County, ME,Augusta Area Office,111100,1
+23,15,Lincoln County, ME,Augusta Area Office,111100,1
+23,17,Oxford County, ME,Augusta Area Office,111100,1
+23,19,Penobscot County, ME,Bangor District Office,112900,1
+23,21,Piscataquis County, ME,Bangor District Office,112900,1
+23,23,Sagadahoc County, ME,Augusta Area Office,111100,1
+23,25,Somerset County, ME,Bangor District Office,112900,1
+23,27,Waldo County, ME,Augusta Area Office,111100,1
+23,29,Washington County, ME,Bangor District Office,112900,1
+23,31,York County, ME,Augusta Area Office,111100,1
+24,1,Allegany County, MD,Baltimore Washington Area Office,316100,3
+24,3,Anne Arundel County, MD,Baltimore Washington Area Office,316100,3
+24,5,Baltimore County, MD,Baltimore Washington Area Office,316100,3
+24,9,Calvert County, MD,Baltimore Washington Area Office,316100,3
+24,11,Caroline County, MD,Baltimore Washington Area Office,316100,3
+24,13,Carroll County, MD,Baltimore Washington Area Office,316100,3
+24,15,Cecil County, MD,Baltimore Washington Area Office,316100,3
+24,17,Charles County, MD,Baltimore Washington Area Office,316100,3
+24,19,Dorchester County, MD,Baltimore Washington Area Office,316100,3
+24,21,Frederick County, MD,Baltimore Washington Area Office,316100,3
+24,23,Garrett County, MD,Baltimore Washington Area Office,316100,3
+24,25,Harford County, MD,Baltimore Washington Area Office,316100,3
+24,27,Howard County, MD,Baltimore Washington Area Office,316100,3
+24,29,Kent County, MD,Baltimore Washington Area Office,316100,3
+24,31,Montgomery County, MD,Baltimore Washington Area Office,316100,3
+24,33,Prince George's County, MD,Baltimore Washington Area Office,316100,3
+24,35,Queen Anne's County, MD,Baltimore Washington Area Office,316100,3
+24,37,St. Mary's County, MD,Baltimore Washington Area Office,316100,3
+24,39,Somerset County, MD,Baltimore Washington Area Office,316100,3
+24,41,Talbot County, MD,Baltimore Washington Area Office,316100,3
+24,43,Washington County, MD,Baltimore Washington Area Office,316100,3
+24,45,Wicomico County, MD,Baltimore Washington Area Office,316100,3
+24,47,Worcester County, MD,Baltimore Washington Area Office,316100,3
+24,510,Baltimore city, MD,Baltimore Washington Area Office,316100,3
+25,1,Barnstable County, MA,Braintree Area Office,111400,1
+25,3,Berkshire County, MA,Springfield Area Office,112600,1
+25,5,Bristol County, MA,Braintree Area Office,111400,1
+25,7,Dukes County, MA,Braintree Area Office,111400,1
+25,9,Essex County, MA,Andover Area Office,134000,1
+25,11,Franklin County, MA,Springfield Area Office,112600,1
+25,13,Hampden County, MA,Springfield Area Office,112600,1
+25,15,Hampshire County, MA,Springfield Area Office,112600,1
+25,17,Middlesex County, MA,Andover Area Office,134000,1
+25,19,Nantucket County, MA,Braintree Area Office,111400,1
+25,21,Norfolk County, MA,Braintree Area Office,111400,1
+25,23,Plymouth County, MA,Braintree Area Office,111400,1
+25,25,Suffolk County, MA,Braintree Area Office,111400,1
+25,27,Worcester County, MA,Springfield Area Office,112600,1
+26,1,Alcona County, MI,Lansing Area Office,522900,5
+26,3,Alger County, MI,Lansing Area Office,522900,5
+26,5,Allegan County, MI,Lansing Area Office,522900,5
+26,7,Alpena County, MI,Lansing Area Office,522900,5
+26,9,Antrim County, MI,Lansing Area Office,522900,5
+26,11,Arenac County, MI,Lansing Area Office,522900,5
+26,13,Baraga County, MI,Lansing Area Office,522900,5
+26,15,Barry County, MI,Lansing Area Office,522900,5
+26,17,Bay County, MI,Lansing Area Office,522900,5
+26,19,Benzie County, MI,Lansing Area Office,522900,5
+26,21,Berrien County, MI,Lansing Area Office,522900,5
+26,23,Branch County, MI,Lansing Area Office,522900,5
+26,25,Calhoun County, MI,Lansing Area Office,522900,5
+26,27,Cass County, MI,Lansing Area Office,522900,5
+26,29,Charlevoix County, MI,Lansing Area Office,522900,5
+26,31,Cheboygan County, MI,Lansing Area Office,522900,5
+26,33,Chippewa County, MI,Lansing Area Office,522900,5
+26,35,Clare County, MI,Lansing Area Office,522900,5
+26,37,Clinton County, MI,Lansing Area Office,522900,5
+26,39,Crawford County, MI,Lansing Area Office,522900,5
+26,41,Delta County, MI,Lansing Area Office,522900,5
+26,43,Dickinson County, MI,Lansing Area Office,522900,5
+26,45,Eaton County, MI,Lansing Area Office,522900,5
+26,47,Emmet County, MI,Lansing Area Office,522900,5
+26,49,Genesee County, MI,Lansing Area Office,522900,5
+26,51,Gladwin County, MI,Lansing Area Office,522900,5
+26,53,Gogebic County, MI,Lansing Area Office,522900,5
+26,55,Grand Traverse County, MI,Lansing Area Office,522900,5
+26,57,Gratiot County, MI,Lansing Area Office,522900,5
+26,59,Hillsdale County, MI,Lansing Area Office,522900,5
+26,61,Houghton County, MI,Lansing Area Office,522900,5
+26,63,Huron County, MI,Lansing Area Office,522900,5
+26,65,Ingham County, MI,Lansing Area Office,522900,5
+26,67,Ionia County, MI,Lansing Area Office,522900,5
+26,69,Iosco County, MI,Lansing Area Office,522900,5
+26,71,Iron County, MI,Lansing Area Office,522900,5
+26,73,Isabella County, MI,Lansing Area Office,522900,5
+26,75,Jackson County, MI,Lansing Area Office,522900,5
+26,77,Kalamazoo County, MI,Lansing Area Office,522900,5
+26,79,Kalkaska County, MI,Lansing Area Office,522900,5
+26,81,Kent County, MI,Lansing Area Office,522900,5
+26,83,Keweenaw County, MI,Lansing Area Office,522900,5
+26,85,Lake County, MI,Lansing Area Office,522900,5
+26,87,Lapeer County, MI,Lansing Area Office,522900,5
+26,89,Leelanau County, MI,Lansing Area Office,522900,5
+26,91,Lenawee County, MI,Lansing Area Office,522900,5
+26,93,Livingston County, MI,Lansing Area Office,522900,5
+26,95,Luce County, MI,Lansing Area Office,522900,5
+26,97,Mackinac County, MI,Lansing Area Office,522900,5
+26,99,Macomb County, MI,Lansing Area Office,522900,5
+26,101,Manistee County, MI,Lansing Area Office,522900,5
+26,103,Marquette County, MI,Lansing Area Office,522900,5
+26,105,Mason County, MI,Lansing Area Office,522900,5
+26,107,Mecosta County, MI,Lansing Area Office,522900,5
+26,109,Menominee County, MI,Lansing Area Office,522900,5
+26,111,Midland County, MI,Lansing Area Office,522900,5
+26,113,Missaukee County, MI,Lansing Area Office,522900,5
+26,115,Monroe County, MI,Lansing Area Office,522900,5
+26,117,Montcalm County, MI,Lansing Area Office,522900,5
+26,119,Montmorency County, MI,Lansing Area Office,522900,5
+26,121,Muskegon County, MI,Lansing Area Office,522900,5
+26,123,Newaygo County, MI,Lansing Area Office,522900,5
+26,125,Oakland County, MI,Lansing Area Office,522900,5
+26,127,Oceana County, MI,Lansing Area Office,522900,5
+26,129,Ogemaw County, MI,Lansing Area Office,522900,5
+26,131,Ontonagon County, MI,Lansing Area Office,522900,5
+26,133,Osceola County, MI,Lansing Area Office,522900,5
+26,135,Oscoda County, MI,Lansing Area Office,522900,5
+26,137,Otsego County, MI,Lansing Area Office,522900,5
+26,139,Ottawa County, MI,Lansing Area Office,522900,5
+26,141,Presque Isle County, MI,Lansing Area Office,522900,5
+26,143,Roscommon County, MI,Lansing Area Office,522900,5
+26,145,Saginaw County, MI,Lansing Area Office,522900,5
+26,147,St. Clair County, MI,Lansing Area Office,522900,5
+26,149,St. Joseph County, MI,Lansing Area Office,522900,5
+26,151,Sanilac County, MI,Lansing Area Office,522900,5
+26,153,Schoolcraft County, MI,Lansing Area Office,522900,5
+26,155,Shiawassee County, MI,Lansing Area Office,522900,5
+26,157,Tuscola County, MI,Lansing Area Office,522900,5
+26,159,Van Buren County, MI,Lansing Area Office,522900,5
+26,161,Washtenaw County, MI,Lansing Area Office,522900,5
+26,163,Wayne County, MI,Lansing Area Office,522900,5
+26,165,Wexford County, MI,Lansing Area Office,522900,5
+27,1,Aitkin County, MN,Eau Claire Area Office,523900,5
+27,3,Anoka County, MN,Eau Claire Area Office,523900,5
+27,5,Becker County, MN,Eau Claire Area Office,523900,5
+27,7,Beltrami County, MN,Eau Claire Area Office,523900,5
+27,9,Benton County, MN,Eau Claire Area Office,523900,5
+27,11,Big Stone County, MN,Eau Claire Area Office,523900,5
+27,13,Blue Earth County, MN,Eau Claire Area Office,523900,5
+27,15,Brown County, MN,Eau Claire Area Office,523900,5
+27,17,Carlton County, MN,Eau Claire Area Office,523900,5
+27,19,Carver County, MN,Eau Claire Area Office,523900,5
+27,21,Cass County, MN,Eau Claire Area Office,523900,5
+27,23,Chippewa County, MN,Eau Claire Area Office,523900,5
+27,25,Chisago County, MN,Eau Claire Area Office,523900,5
+27,27,Clay County, MN,Eau Claire Area Office,523900,5
+27,29,Clearwater County, MN,Eau Claire Area Office,523900,5
+27,31,Cook County, MN,Eau Claire Area Office,523900,5
+27,33,Cottonwood County, MN,Eau Claire Area Office,523900,5
+27,35,Crow Wing County, MN,Eau Claire Area Office,523900,5
+27,37,Dakota County, MN,Eau Claire Area Office,523900,5
+27,39,Dodge County, MN,Eau Claire Area Office,523900,5
+27,41,Douglas County, MN,Eau Claire Area Office,523900,5
+27,43,Faribault County, MN,Eau Claire Area Office,523900,5
+27,45,Fillmore County, MN,Eau Claire Area Office,523900,5
+27,47,Freeborn County, MN,Eau Claire Area Office,523900,5
+27,49,Goodhue County, MN,Eau Claire Area Office,523900,5
+27,51,Grant County, MN,Eau Claire Area Office,523900,5
+27,53,Hennepin County, MN,Eau Claire Area Office,523900,5
+27,55,Houston County, MN,Eau Claire Area Office,523900,5
+27,57,Hubbard County, MN,Eau Claire Area Office,523900,5
+27,59,Isanti County, MN,Eau Claire Area Office,523900,5
+27,61,Itasca County, MN,Eau Claire Area Office,523900,5
+27,63,Jackson County, MN,Eau Claire Area Office,523900,5
+27,65,Kanabec County, MN,Eau Claire Area Office,523900,5
+27,67,Kandiyohi County, MN,Eau Claire Area Office,523900,5
+27,69,Kittson County, MN,Eau Claire Area Office,523900,5
+27,71,Koochiching County, MN,Eau Claire Area Office,523900,5
+27,73,Lac qui Parle County, MN,Eau Claire Area Office,523900,5
+27,75,Lake County, MN,Eau Claire Area Office,523900,5
+27,77,Lake of the Woods County, MN,Eau Claire Area Office,523900,5
+27,79,Le Sueur County, MN,Eau Claire Area Office,523900,5
+27,81,Lincoln County, MN,Eau Claire Area Office,523900,5
+27,83,Lyon County, MN,Eau Claire Area Office,523900,5
+27,85,McLeod County, MN,Eau Claire Area Office,523900,5
+27,87,Mahnomen County, MN,Eau Claire Area Office,523900,5
+27,89,Marshall County, MN,Eau Claire Area Office,523900,5
+27,91,Martin County, MN,Eau Claire Area Office,523900,5
+27,93,Meeker County, MN,Eau Claire Area Office,523900,5
+27,95,Mille Lacs County, MN,Eau Claire Area Office,523900,5
+27,97,Morrison County, MN,Eau Claire Area Office,523900,5
+27,99,Mower County, MN,Eau Claire Area Office,523900,5
+27,101,Murray County, MN,Eau Claire Area Office,523900,5
+27,103,Nicollet County, MN,Eau Claire Area Office,523900,5
+27,105,Nobles County, MN,Eau Claire Area Office,523900,5
+27,107,Norman County, MN,Eau Claire Area Office,523900,5
+27,109,Olmsted County, MN,Eau Claire Area Office,523900,5
+27,111,Otter Tail County, MN,Eau Claire Area Office,523900,5
+27,113,Pennington County, MN,Eau Claire Area Office,523900,5
+27,115,Pine County, MN,Eau Claire Area Office,523900,5
+27,117,Pipestone County, MN,Eau Claire Area Office,523900,5
+27,119,Polk County, MN,Eau Claire Area Office,523900,5
+27,121,Pope County, MN,Eau Claire Area Office,523900,5
+27,123,Ramsey County, MN,Eau Claire Area Office,523900,5
+27,125,Red Lake County, MN,Eau Claire Area Office,523900,5
+27,127,Redwood County, MN,Eau Claire Area Office,523900,5
+27,129,Renville County, MN,Eau Claire Area Office,523900,5
+27,131,Rice County, MN,Eau Claire Area Office,523900,5
+27,133,Rock County, MN,Eau Claire Area Office,523900,5
+27,135,Roseau County, MN,Eau Claire Area Office,523900,5
+27,137,St. Louis County, MN,Eau Claire Area Office,523900,5
+27,139,Scott County, MN,Eau Claire Area Office,523900,5
+27,141,Sherburne County, MN,Eau Claire Area Office,523900,5
+27,143,Sibley County, MN,Eau Claire Area Office,523900,5
+27,145,Stearns County, MN,Eau Claire Area Office,523900,5
+27,147,Steele County, MN,Eau Claire Area Office,523900,5
+27,149,Stevens County, MN,Eau Claire Area Office,523900,5
+27,151,Swift County, MN,Eau Claire Area Office,523900,5
+27,153,Todd County, MN,Eau Claire Area Office,523900,5
+27,155,Traverse County, MN,Eau Claire Area Office,523900,5
+27,157,Wabasha County, MN,Eau Claire Area Office,523900,5
+27,159,Wadena County, MN,Eau Claire Area Office,523900,5
+27,161,Waseca County, MN,Eau Claire Area Office,523900,5
+27,163,Washington County, MN,Eau Claire Area Office,523900,5
+27,165,Watonwan County, MN,Eau Claire Area Office,523900,5
+27,167,Wilkin County, MN,Eau Claire Area Office,523900,5
+27,169,Winona County, MN,Eau Claire Area Office,523900,5
+27,171,Wright County, MN,Eau Claire Area Office,523900,5
+27,173,Yellow Medicine County, MN,Eau Claire Area Office,523900,5
+28,1,Adams County, MS,Jackson Area Office,419400,4
+28,3,Alcorn County, MS,Jackson Area Office,419400,4
+28,5,Amite County, MS,Jackson Area Office,419400,4
+28,7,Attala County, MS,Jackson Area Office,419400,4
+28,9,Benton County, MS,Jackson Area Office,419400,4
+28,11,Bolivar County, MS,Jackson Area Office,419400,4
+28,13,Calhoun County, MS,Jackson Area Office,419400,4
+28,15,Carroll County, MS,Jackson Area Office,419400,4
+28,17,Chickasaw County, MS,Jackson Area Office,419400,4
+28,19,Choctaw County, MS,Jackson Area Office,419400,4
+28,21,Claiborne County, MS,Jackson Area Office,419400,4
+28,23,Clarke County, MS,Jackson Area Office,419400,4
+28,25,Clay County, MS,Jackson Area Office,419400,4
+28,27,Coahoma County, MS,Jackson Area Office,419400,4
+28,29,Copiah County, MS,Jackson Area Office,419400,4
+28,31,Covington County, MS,Jackson Area Office,419400,4
+28,33,DeSoto County, MS,Jackson Area Office,419400,4
+28,35,Forrest County, MS,Jackson Area Office,419400,4
+28,37,Franklin County, MS,Jackson Area Office,419400,4
+28,39,George County, MS,Jackson Area Office,419400,4
+28,41,Greene County, MS,Jackson Area Office,419400,4
+28,43,Grenada County, MS,Jackson Area Office,419400,4
+28,45,Hancock County, MS,Jackson Area Office,419400,4
+28,47,Harrison County, MS,Jackson Area Office,419400,4
+28,49,Hinds County, MS,Jackson Area Office,419400,4
+28,51,Holmes County, MS,Jackson Area Office,419400,4
+28,53,Humphreys County, MS,Jackson Area Office,419400,4
+28,55,Issaquena County, MS,Jackson Area Office,419400,4
+28,57,Itawamba County, MS,Jackson Area Office,419400,4
+28,59,Jackson County, MS,Jackson Area Office,419400,4
+28,61,Jasper County, MS,Jackson Area Office,419400,4
+28,63,Jefferson County, MS,Jackson Area Office,419400,4
+28,65,Jefferson Davis County, MS,Jackson Area Office,419400,4
+28,67,Jones County, MS,Jackson Area Office,419400,4
+28,69,Kemper County, MS,Jackson Area Office,419400,4
+28,71,Lafayette County, MS,Jackson Area Office,419400,4
+28,73,Lamar County, MS,Jackson Area Office,419400,4
+28,75,Lauderdale County, MS,Jackson Area Office,419400,4
+28,77,Lawrence County, MS,Jackson Area Office,419400,4
+28,79,Leake County, MS,Jackson Area Office,419400,4
+28,81,Lee County, MS,Jackson Area Office,419400,4
+28,83,Leflore County, MS,Jackson Area Office,419400,4
+28,85,Lincoln County, MS,Jackson Area Office,419400,4
+28,87,Lowndes County, MS,Jackson Area Office,419400,4
+28,89,Madison County, MS,Jackson Area Office,419400,4
+28,91,Marion County, MS,Jackson Area Office,419400,4
+28,93,Marshall County, MS,Jackson Area Office,419400,4
+28,95,Monroe County, MS,Jackson Area Office,419400,4
+28,97,Montgomery County, MS,Jackson Area Office,419400,4
+28,99,Neshoba County, MS,Jackson Area Office,419400,4
+28,101,Newton County, MS,Jackson Area Office,419400,4
+28,103,Noxubee County, MS,Jackson Area Office,419400,4
+28,105,Oktibbeha County, MS,Jackson Area Office,419400,4
+28,107,Panola County, MS,Jackson Area Office,419400,4
+28,109,Pearl River County, MS,Jackson Area Office,419400,4
+28,111,Perry County, MS,Jackson Area Office,419400,4
+28,113,Pike County, MS,Jackson Area Office,419400,4
+28,115,Pontotoc County, MS,Jackson Area Office,419400,4
+28,117,Prentiss County, MS,Jackson Area Office,419400,4
+28,119,Quitman County, MS,Jackson Area Office,419400,4
+28,121,Rankin County, MS,Jackson Area Office,419400,4
+28,123,Scott County, MS,Jackson Area Office,419400,4
+28,125,Sharkey County, MS,Jackson Area Office,419400,4
+28,127,Simpson County, MS,Jackson Area Office,419400,4
+28,129,Smith County, MS,Jackson Area Office,419400,4
+28,131,Stone County, MS,Jackson Area Office,419400,4
+28,133,Sunflower County, MS,Jackson Area Office,419400,4
+28,135,Tallahatchie County, MS,Jackson Area Office,419400,4
+28,137,Tate County, MS,Jackson Area Office,419400,4
+28,139,Tippah County, MS,Jackson Area Office,419400,4
+28,141,Tishomingo County, MS,Jackson Area Office,419400,4
+28,143,Tunica County, MS,Jackson Area Office,419400,4
+28,145,Union County, MS,Jackson Area Office,419400,4
+28,147,Walthall County, MS,Jackson Area Office,419400,4
+28,149,Warren County, MS,Jackson Area Office,419400,4
+28,151,Washington County, MS,Jackson Area Office,419400,4
+28,153,Wayne County, MS,Jackson Area Office,419400,4
+28,155,Webster County, MS,Jackson Area Office,419400,4
+28,157,Wilkinson County, MS,Jackson Area Office,419400,4
+28,159,Winston County, MS,Jackson Area Office,419400,4
+28,161,Yalobusha County, MS,Jackson Area Office,419400,4
+28,163,Yazoo County, MS,Jackson Area Office,419400,4
+29,1,Adair County, MO,Kansas City Area Office,728500,7
+29,3,Andrew County, MO,Kansas City Area Office,728500,7
+29,5,Atchison County, MO,Kansas City Area Office,728500,7
+29,7,Audrain County, MO,St. Louis Area Office,729300,7
+29,9,Barry County, MO,Kansas City Area Office,728500,7
+29,11,Barton County, MO,Kansas City Area Office,728500,7
+29,13,Bates County, MO,Kansas City Area Office,728500,7
+29,15,Benton County, MO,Kansas City Area Office,728500,7
+29,17,Bollinger County, MO,St. Louis Area Office,729300,7
+29,19,Boone County, MO,Kansas City Area Office,728500,7
+29,21,Buchanan County, MO,Kansas City Area Office,728500,7
+29,23,Butler County, MO,St. Louis Area Office,729300,7
+29,25,Caldwell County, MO,Kansas City Area Office,728500,7
+29,27,Callaway County, MO,St. Louis Area Office,729300,7
+29,29,Camden County, MO,Kansas City Area Office,728500,7
+29,31,Cape Girardeau County, MO,St. Louis Area Office,729300,7
+29,33,Carroll County, MO,Kansas City Area Office,728500,7
+29,35,Carter County, MO,St. Louis Area Office,729300,7
+29,37,Cass County, MO,Kansas City Area Office,728500,7
+29,39,Cedar County, MO,Kansas City Area Office,728500,7
+29,41,Chariton County, MO,Kansas City Area Office,728500,7
+29,43,Christian County, MO,Kansas City Area Office,728500,7
+29,45,Clark County, MO,St. Louis Area Office,729300,7
+29,47,Clay County, MO,Kansas City Area Office,728500,7
+29,49,Clinton County, MO,Kansas City Area Office,728500,7
+29,51,Cole County, MO,Kansas City Area Office,728500,7
+29,53,Cooper County, MO,Kansas City Area Office,728500,7
+29,55,Crawford County, MO,St. Louis Area Office,729300,7
+29,57,Dade County, MO,Kansas City Area Office,728500,7
+29,59,Dallas County, MO,Kansas City Area Office,728500,7
+29,61,Daviess County, MO,Kansas City Area Office,728500,7
+29,63,DeKalb County, MO,Kansas City Area Office,728500,7
+29,65,Dent County, MO,St. Louis Area Office,729300,7
+29,67,Douglas County, MO,Kansas City Area Office,728500,7
+29,69,Dunklin County, MO,St. Louis Area Office,729300,7
+29,71,Franklin County, MO,St. Louis Area Office,729300,7
+29,73,Gasconade County, MO,St. Louis Area Office,729300,7
+29,75,Gentry County, MO,Kansas City Area Office,728500,7
+29,77,Greene County, MO,Kansas City Area Office,728500,7
+29,79,Grundy County, MO,Kansas City Area Office,728500,7
+29,81,Harrison County, MO,Kansas City Area Office,728500,7
+29,83,Henry County, MO,Kansas City Area Office,728500,7
+29,85,Hickory County, MO,Kansas City Area Office,728500,7
+29,87,Holt County, MO,Kansas City Area Office,728500,7
+29,89,Howard County, MO,Kansas City Area Office,728500,7
+29,91,Howell County, MO,Kansas City Area Office,728500,7
+29,93,Iron County, MO,St. Louis Area Office,729300,7
+29,95,Jackson County, MO,Kansas City Area Office,728500,7
+29,97,Jasper County, MO,Kansas City Area Office,728500,7
+29,99,Jefferson County, MO,St. Louis Area Office,729300,7
+29,101,Johnson County, MO,Kansas City Area Office,728500,7
+29,103,Knox County, MO,St. Louis Area Office,729300,7
+29,105,Laclede County, MO,Kansas City Area Office,728500,7
+29,107,Lafayette County, MO,Kansas City Area Office,728500,7
+29,109,Lawrence County, MO,Kansas City Area Office,728500,7
+29,111,Lewis County, MO,St. Louis Area Office,729300,7
+29,113,Lincoln County, MO,St. Louis Area Office,729300,7
+29,115,Linn County, MO,Kansas City Area Office,728500,7
+29,117,Livingston County, MO,Kansas City Area Office,728500,7
+29,119,McDonald County, MO,Kansas City Area Office,728500,7
+29,121,Macon County, MO,Kansas City Area Office,728500,7
+29,123,Madison County, MO,St. Louis Area Office,729300,7
+29,125,Maries County, MO,St. Louis Area Office,729300,7
+29,127,Marion County, MO,St. Louis Area Office,729300,7
+29,129,Mercer County, MO,Kansas City Area Office,728500,7
+29,131,Miller County, MO,Kansas City Area Office,728500,7
+29,133,Mississippi County, MO,St. Louis Area Office,729300,7
+29,135,Moniteau County, MO,Kansas City Area Office,728500,7
+29,137,Monroe County, MO,St. Louis Area Office,729300,7
+29,139,Montgomery County, MO,St. Louis Area Office,729300,7
+29,141,Morgan County, MO,Kansas City Area Office,728500,7
+29,143,New Madrid County, MO,St. Louis Area Office,729300,7
+29,145,Newton County, MO,Kansas City Area Office,728500,7
+29,147,Nodaway County, MO,Kansas City Area Office,728500,7
+29,149,Oregon County, MO,St. Louis Area Office,729300,7
+29,151,Osage County, MO,St. Louis Area Office,729300,7
+29,153,Ozark County, MO,Kansas City Area Office,728500,7
+29,155,Pemiscot County, MO,St. Louis Area Office,729300,7
+29,157,Perry County, MO,St. Louis Area Office,729300,7
+29,159,Pettis County, MO,Kansas City Area Office,728500,7
+29,161,Phelps County, MO,St. Louis Area Office,729300,7
+29,163,Pike County, MO,St. Louis Area Office,729300,7
+29,165,Platte County, MO,Kansas City Area Office,728500,7
+29,167,Polk County, MO,Kansas City Area Office,728500,7
+29,169,Pulaski County, MO,Kansas City Area Office,728500,7
+29,171,Putnam County, MO,Kansas City Area Office,728500,7
+29,173,Ralls County, MO,St. Louis Area Office,729300,7
+29,175,Randolph County, MO,Kansas City Area Office,728500,7
+29,177,Ray County, MO,Kansas City Area Office,728500,7
+29,179,Reynolds County, MO,St. Louis Area Office,729300,7
+29,181,Ripley County, MO,St. Louis Area Office,729300,7
+29,183,St. Charles County, MO,St. Louis Area Office,729300,7
+29,185,St. Clair County, MO,Kansas City Area Office,728500,7
+29,186,Ste. Genevieve County, MO,St. Louis Area Office,729300,7
+29,187,St. Francois County, MO,St. Louis Area Office,729300,7
+29,189,St. Louis County, MO,St. Louis Area Office,729300,7
+29,195,Saline County, MO,Kansas City Area Office,728500,7
+29,197,Schuyler County, MO,Kansas City Area Office,728500,7
+29,199,Scotland County, MO,Kansas City Area Office,728500,7
+29,201,Scott County, MO,St. Louis Area Office,729300,7
+29,203,Shannon County, MO,St. Louis Area Office,729300,7
+29,205,Shelby County, MO,St. Louis Area Office,729300,7
+29,207,Stoddard County, MO,St. Louis Area Office,729300,7
+29,209,Stone County, MO,Kansas City Area Office,728500,7
+29,211,Sullivan County, MO,Kansas City Area Office,728500,7
+29,213,Taney County, MO,Kansas City Area Office,728500,7
+29,215,Texas County, MO,Kansas City Area Office,728500,7
+29,217,Vernon County, MO,Kansas City Area Office,728500,7
+29,219,Warren County, MO,St. Louis Area Office,729300,7
+29,221,Washington County, MO,St. Louis Area Office,729300,7
+29,223,Wayne County, MO,St. Louis Area Office,729300,7
+29,225,Webster County, MO,Kansas City Area Office,728500,7
+29,227,Worth County, MO,Kansas City Area Office,728500,7
+29,229,Wright County, MO,Kansas City Area Office,728500,7
+29,510,St. Louis city, MO,St. Louis Area Office,729300,7
+30,1,Beaverhead County, MT,Billings Area Office,830100,8
+30,3,Big Horn County, MT,Billings Area Office,830100,8
+30,5,Blaine County, MT,Billings Area Office,830100,8
+30,7,Broadwater County, MT,Billings Area Office,830100,8
+30,9,Carbon County, MT,Billings Area Office,830100,8
+30,11,Carter County, MT,Billings Area Office,830100,8
+30,13,Cascade County, MT,Billings Area Office,830100,8
+30,15,Chouteau County, MT,Billings Area Office,830100,8
+30,17,Custer County, MT,Billings Area Office,830100,8
+30,19,Daniels County, MT,Billings Area Office,830100,8
+30,21,Dawson County, MT,Billings Area Office,830100,8
+30,23,Deer Lodge County, MT,Billings Area Office,830100,8
+30,25,Fallon County, MT,Billings Area Office,830100,8
+30,27,Fergus County, MT,Billings Area Office,830100,8
+30,29,Flathead County, MT,Billings Area Office,830100,8
+30,31,Gallatin County, MT,Billings Area Office,830100,8
+30,33,Garfield County, MT,Billings Area Office,830100,8
+30,35,Glacier County, MT,Billings Area Office,830100,8
+30,37,Golden Valley County, MT,Billings Area Office,830100,8
+30,39,Granite County, MT,Billings Area Office,830100,8
+30,41,Hill County, MT,Billings Area Office,830100,8
+30,43,Jefferson County, MT,Billings Area Office,830100,8
+30,45,Judith Basin County, MT,Billings Area Office,830100,8
+30,47,Lake County, MT,Billings Area Office,830100,8
+30,49,Lewis and Clark County, MT,Billings Area Office,830100,8
+30,51,Liberty County, MT,Billings Area Office,830100,8
+30,53,Lincoln County, MT,Billings Area Office,830100,8
+30,55,McCone County, MT,Billings Area Office,830100,8
+30,57,Madison County, MT,Billings Area Office,830100,8
+30,59,Meagher County, MT,Billings Area Office,830100,8
+30,61,Mineral County, MT,Billings Area Office,830100,8
+30,63,Missoula County, MT,Billings Area Office,830100,8
+30,65,Musselshell County, MT,Billings Area Office,830100,8
+30,67,Park County, MT,Billings Area Office,830100,8
+30,69,Petroleum County, MT,Billings Area Office,830100,8
+30,71,Phillips County, MT,Billings Area Office,830100,8
+30,73,Pondera County, MT,Billings Area Office,830100,8
+30,75,Powder River County, MT,Billings Area Office,830100,8
+30,77,Powell County, MT,Billings Area Office,830100,8
+30,79,Prairie County, MT,Billings Area Office,830100,8
+30,81,Ravalli County, MT,Billings Area Office,830100,8
+30,83,Richland County, MT,Billings Area Office,830100,8
+30,85,Roosevelt County, MT,Billings Area Office,830100,8
+30,87,Rosebud County, MT,Billings Area Office,830100,8
+30,89,Sanders County, MT,Billings Area Office,830100,8
+30,91,Sheridan County, MT,Billings Area Office,830100,8
+30,93,Silver Bow County, MT,Billings Area Office,830100,8
+30,95,Stillwater County, MT,Billings Area Office,830100,8
+30,97,Sweet Grass County, MT,Billings Area Office,830100,8
+30,99,Teton County, MT,Billings Area Office,830100,8
+30,101,Toole County, MT,Billings Area Office,830100,8
+30,103,Treasure County, MT,Billings Area Office,830100,8
+30,105,Valley County, MT,Billings Area Office,830100,8
+30,107,Wheatland County, MT,Billings Area Office,830100,8
+30,109,Wibaux County, MT,Billings Area Office,830100,8
+30,111,Yellowstone County, MT,Billings Area Office,830100,8
+31,1,Adams County, NE,Omaha Area Office,728900,7
+31,3,Antelope County, NE,Omaha Area Office,728900,7
+31,5,Arthur County, NE,Omaha Area Office,728900,7
+31,7,Banner County, NE,Omaha Area Office,728900,7
+31,9,Blaine County, NE,Omaha Area Office,728900,7
+31,11,Boone County, NE,Omaha Area Office,728900,7
+31,13,Box Butte County, NE,Omaha Area Office,728900,7
+31,15,Boyd County, NE,Omaha Area Office,728900,7
+31,17,Brown County, NE,Omaha Area Office,728900,7
+31,19,Buffalo County, NE,Omaha Area Office,728900,7
+31,21,Burt County, NE,Omaha Area Office,728900,7
+31,23,Butler County, NE,Omaha Area Office,728900,7
+31,25,Cass County, NE,Omaha Area Office,728900,7
+31,27,Cedar County, NE,Omaha Area Office,728900,7
+31,29,Chase County, NE,Omaha Area Office,728900,7
+31,31,Cherry County, NE,Omaha Area Office,728900,7
+31,33,Cheyenne County, NE,Omaha Area Office,728900,7
+31,35,Clay County, NE,Omaha Area Office,728900,7
+31,37,Colfax County, NE,Omaha Area Office,728900,7
+31,39,Cuming County, NE,Omaha Area Office,728900,7
+31,41,Custer County, NE,Omaha Area Office,728900,7
+31,43,Dakota County, NE,Omaha Area Office,728900,7
+31,45,Dawes County, NE,Omaha Area Office,728900,7
+31,47,Dawson County, NE,Omaha Area Office,728900,7
+31,49,Deuel County, NE,Omaha Area Office,728900,7
+31,51,Dixon County, NE,Omaha Area Office,728900,7
+31,53,Dodge County, NE,Omaha Area Office,728900,7
+31,55,Douglas County, NE,Omaha Area Office,728900,7
+31,57,Dundy County, NE,Omaha Area Office,728900,7
+31,59,Fillmore County, NE,Omaha Area Office,728900,7
+31,61,Franklin County, NE,Omaha Area Office,728900,7
+31,63,Frontier County, NE,Omaha Area Office,728900,7
+31,65,Furnas County, NE,Omaha Area Office,728900,7
+31,67,Gage County, NE,Omaha Area Office,728900,7
+31,69,Garden County, NE,Omaha Area Office,728900,7
+31,71,Garfield County, NE,Omaha Area Office,728900,7
+31,73,Gosper County, NE,Omaha Area Office,728900,7
+31,75,Grant County, NE,Omaha Area Office,728900,7
+31,77,Greeley County, NE,Omaha Area Office,728900,7
+31,79,Hall County, NE,Omaha Area Office,728900,7
+31,81,Hamilton County, NE,Omaha Area Office,728900,7
+31,83,Harlan County, NE,Omaha Area Office,728900,7
+31,85,Hayes County, NE,Omaha Area Office,728900,7
+31,87,Hitchcock County, NE,Omaha Area Office,728900,7
+31,89,Holt County, NE,Omaha Area Office,728900,7
+31,91,Hooker County, NE,Omaha Area Office,728900,7
+31,93,Howard County, NE,Omaha Area Office,728900,7
+31,95,Jefferson County, NE,Omaha Area Office,728900,7
+31,97,Johnson County, NE,Omaha Area Office,728900,7
+31,99,Kearney County, NE,Omaha Area Office,728900,7
+31,101,Keith County, NE,Omaha Area Office,728900,7
+31,103,Keya Paha County, NE,Omaha Area Office,728900,7
+31,105,Kimball County, NE,Omaha Area Office,728900,7
+31,107,Knox County, NE,Omaha Area Office,728900,7
+31,109,Lancaster County, NE,Omaha Area Office,728900,7
+31,111,Lincoln County, NE,Omaha Area Office,728900,7
+31,113,Logan County, NE,Omaha Area Office,728900,7
+31,115,Loup County, NE,Omaha Area Office,728900,7
+31,117,McPherson County, NE,Omaha Area Office,728900,7
+31,119,Madison County, NE,Omaha Area Office,728900,7
+31,121,Merrick County, NE,Omaha Area Office,728900,7
+31,123,Morrill County, NE,Omaha Area Office,728900,7
+31,125,Nance County, NE,Omaha Area Office,728900,7
+31,127,Nemaha County, NE,Omaha Area Office,728900,7
+31,129,Nuckolls County, NE,Omaha Area Office,728900,7
+31,131,Otoe County, NE,Omaha Area Office,728900,7
+31,133,Pawnee County, NE,Omaha Area Office,728900,7
+31,135,Perkins County, NE,Omaha Area Office,728900,7
+31,137,Phelps County, NE,Omaha Area Office,728900,7
+31,139,Pierce County, NE,Omaha Area Office,728900,7
+31,141,Platte County, NE,Omaha Area Office,728900,7
+31,143,Polk County, NE,Omaha Area Office,728900,7
+31,145,Red Willow County, NE,Omaha Area Office,728900,7
+31,147,Richardson County, NE,Omaha Area Office,728900,7
+31,149,Rock County, NE,Omaha Area Office,728900,7
+31,151,Saline County, NE,Omaha Area Office,728900,7
+31,153,Sarpy County, NE,Omaha Area Office,728900,7
+31,155,Saunders County, NE,Omaha Area Office,728900,7
+31,157,Scotts Bluff County, NE,Omaha Area Office,728900,7
+31,159,Seward County, NE,Omaha Area Office,728900,7
+31,161,Sheridan County, NE,Omaha Area Office,728900,7
+31,163,Sherman County, NE,Omaha Area Office,728900,7
+31,165,Sioux County, NE,Omaha Area Office,728900,7
+31,167,Stanton County, NE,Omaha Area Office,728900,7
+31,169,Thayer County, NE,Omaha Area Office,728900,7
+31,171,Thomas County, NE,Omaha Area Office,728900,7
+31,173,Thurston County, NE,Omaha Area Office,728900,7
+31,175,Valley County, NE,Omaha Area Office,728900,7
+31,177,Washington County, NE,Omaha Area Office,728900,7
+31,179,Wayne County, NE,Omaha Area Office,728900,7
+31,181,Webster County, NE,Omaha Area Office,728900,7
+31,183,Wheeler County, NE,Omaha Area Office,728900,7
+31,185,York County, NE,Omaha Area Office,728900,7
+32,1,Churchill County, NV,Las Vegas Area Office,936500,9
+32,3,Clark County, NV,Las Vegas Area Office,936500,9
+32,5,Douglas County, NV,Las Vegas Area Office,936500,9
+32,7,Elko County, NV,Las Vegas Area Office,936500,9
+32,9,Esmeralda County, NV,Las Vegas Area Office,936500,9
+32,11,Eureka County, NV,Las Vegas Area Office,936500,9
+32,13,Humboldt County, NV,Las Vegas Area Office,936500,9
+32,15,Lander County, NV,Las Vegas Area Office,936500,9
+32,17,Lincoln County, NV,Las Vegas Area Office,936500,9
+32,19,Lyon County, NV,Las Vegas Area Office,936500,9
+32,21,Mineral County, NV,Las Vegas Area Office,936500,9
+32,23,Nye County, NV,Las Vegas Area Office,936500,9
+32,27,Pershing County, NV,Las Vegas Area Office,936500,9
+32,29,Storey County, NV,Las Vegas Area Office,936500,9
+32,31,Washoe County, NV,Las Vegas Area Office,936500,9
+32,33,White Pine County, NV,Las Vegas Area Office,936500,9
+32,510,Carson City, NV,Las Vegas Area Office,936500,9
+33,1,Belknap County, NH,Concord Area Office,111700,1
+33,3,Carroll County, NH,Concord Area Office,111700,1
+33,5,Cheshire County, NH,Concord Area Office,111700,1
+33,7,Coos County, NH,Concord Area Office,111700,1
+33,9,Grafton County, NH,Concord Area Office,111700,1
+33,11,Hillsborough County, NH,Concord Area Office,111700,1
+33,13,Merrimack County, NH,Concord Area Office,111700,1
+33,15,Rockingham County, NH,Concord Area Office,111700,1
+33,17,Strafford County, NH,Concord Area Office,111700,1
+33,19,Sullivan County, NH,Concord Area Office,111700,1
+34,1,Atlantic County, NJ,Marlton Area Office,213900,2
+34,3,Bergen County, NJ,Hasbrouck Heights Area Office,214500,2
+34,5,Burlington County, NJ,Marlton Area Office,213900,2
+34,7,Camden County, NJ,Marlton Area Office,213900,2
+34,9,Cape May County, NJ,Marlton Area Office,213900,2
+34,11,Cumberland County, NJ,Marlton Area Office,213900,2
+34,13,Essex County, NJ,Parsippany Area Office,214200,2
+34,15,Gloucester County, NJ,Marlton Area Office,213900,2
+34,17,Hudson County, NJ,Parsippany Area Office,214200,2
+34,19,Hunterdon County, NJ,Avenel Area Office,213400,2
+34,21,Mercer County, NJ,Marlton Area Office,213900,2
+34,23,Middlesex County, NJ,Avenel Area Office,213400,2
+34,25,Monmouth County, NJ,Marlton Area Office,213900,2
+34,27,Morris County, NJ,Parsippany Area Office,214200,2
+34,29,Ocean County, NJ,Marlton Area Office,213900,2
+34,31,Passaic County, NJ,Hasbrouck Heights Area Office,214500,2
+34,33,Salem County, NJ,Marlton Area Office,213900,2
+34,35,Somerset County, NJ,Avenel Area Office,213400,2
+34,37,Sussex County, NJ,Parsippany Area Office,214200,2
+34,39,Union County, NJ,Avenel Area Office,213400,2
+34,41,Warren County, NJ,Avenel Area Office,213400,2
+35,1,Bernalillo County, NM,El Paso Area Office,627500,6
+35,3,Catron County, NM,El Paso Area Office,627500,6
+35,5,Chaves County, NM,El Paso Area Office,627500,6
+35,6,Cibola County, NM,El Paso Area Office,627500,6
+35,7,Colfax County, NM,El Paso Area Office,627500,6
+35,9,Curry County, NM,El Paso Area Office,627500,6
+35,11,De Baca County, NM,El Paso Area Office,627500,6
+35,13,Dona Ana County, NM,El Paso Area Office,627500,6
+35,15,Eddy County, NM,El Paso Area Office,627500,6
+35,17,Grant County, NM,El Paso Area Office,627500,6
+35,19,Guadalupe County, NM,El Paso Area Office,627500,6
+35,21,Harding County, NM,El Paso Area Office,627500,6
+35,23,Hidalgo County, NM,El Paso Area Office,627500,6
+35,25,Lea County, NM,El Paso Area Office,627500,6
+35,27,Lincoln County, NM,El Paso Area Office,627500,6
+35,28,Los Alamos County, NM,El Paso Area Office,627500,6
+35,29,Luna County, NM,El Paso Area Office,627500,6
+35,31,McKinley County, NM,El Paso Area Office,627500,6
+35,33,Mora County, NM,El Paso Area Office,627500,6
+35,35,Otero County, NM,El Paso Area Office,627500,6
+35,37,Quay County, NM,El Paso Area Office,627500,6
+35,39,Rio Arriba County, NM,El Paso Area Office,627500,6
+35,41,Roosevelt County, NM,El Paso Area Office,627500,6
+35,43,Sandoval County, NM,El Paso Area Office,627500,6
+35,45,San Juan County, NM,El Paso Area Office,627500,6
+35,47,San Miguel County, NM,El Paso Area Office,627500,6
+35,49,Santa Fe County, NM,El Paso Area Office,627500,6
+35,51,Sierra County, NM,El Paso Area Office,627500,6
+35,53,Socorro County, NM,El Paso Area Office,627500,6
+35,55,Taos County, NM,El Paso Area Office,627500,6
+35,57,Torrance County, NM,El Paso Area Office,627500,6
+35,59,Union County, NM,El Paso Area Office,627500,6
+35,61,Valencia County, NM,El Paso Area Office,627500,6
+36,1,Albany County, NY,Albany Area Office,213100,2
+36,3,Allegany County, NY,Buffalo Area Office,213600,2
+36,5,Bronx County, NY,Tarrytown Area Office,216000,2
+36,7,Broome County, NY,Syracuse Area Office,215800,2
+36,9,Cattaraugus County, NY,Buffalo Area Office,213600,2
+36,11,Cayuga County, NY,Syracuse Area Office,215800,2
+36,13,Chautauqua County, NY,Buffalo Area Office,213600,2
+36,15,Chemung County, NY,Syracuse Area Office,215800,2
+36,17,Chenango County, NY,Syracuse Area Office,215800,2
+36,19,Clinton County, NY,Albany Area Office,213100,2
+36,21,Columbia County, NY,Albany Area Office,213100,2
+36,23,Cortland County, NY,Syracuse Area Office,215800,2
+36,25,Delaware County, NY,Syracuse Area Office,215800,2
+36,27,Dutchess County, NY,Albany Area Office,213100,2
+36,29,Erie County, NY,Buffalo Area Office,213600,2
+36,31,Essex County, NY,Albany Area Office,213100,2
+36,33,Franklin County, NY,Syracuse Area Office,215800,2
+36,35,Fulton County, NY,Albany Area Office,213100,2
+36,37,Genesee County, NY,Buffalo Area Office,213600,2
+36,39,Greene County, NY,Albany Area Office,213100,2
+36,41,Hamilton County, NY,Albany Area Office,213100,2
+36,43,Herkimer County, NY,Syracuse Area Office,215800,2
+36,45,Jefferson County, NY,Syracuse Area Office,215800,2
+36,47,Kings County, NY,Manhattan Area Office,215000,2
+36,49,Lewis County, NY,Syracuse Area Office,215800,2
+36,51,Livingston County, NY,Buffalo Area Office,213600,2
+36,53,Madison County, NY,Syracuse Area Office,215800,2
+36,55,Monroe County, NY,Buffalo Area Office,213600,2
+36,57,Montgomery County, NY,Albany Area Office,213100,2
+36,59,Nassau County, NY,Long Island Area Office,214700,2
+36,61,New York County, NY,Manhattan Area Office,215000,2
+36,63,Niagara County, NY,Buffalo Area Office,213600,2
+36,65,Oneida County, NY,Syracuse Area Office,215800,2
+36,67,Onondaga County, NY,Syracuse Area Office,215800,2
+36,69,Ontario County, NY,Syracuse Area Office,215800,2
+36,71,Orange County, NY,Albany Area Office,213100,2
+36,73,Orleans County, NY,Buffalo Area Office,213600,2
+36,75,Oswego County, NY,Syracuse Area Office,215800,2
+36,77,Otsego County, NY,Syracuse Area Office,215800,2
+36,79,Putnam County, NY,Albany Area Office,213100,2
+36,81,Queens County, NY,Queens District Office of the Manhattan Area Office,215600,2
+36,83,Rensselaer County, NY,Albany Area Office,213100,2
+36,85,Richmond County, NY,Avenel Area Office,213400,2
+36,87,Rockland County, NY,Tarrytown Area Office,216000,2
+36,89,St. Lawrence County, NY,Syracuse Area Office,215800,2
+36,91,Saratoga County, NY,Albany Area Office,213100,2
+36,93,Schenectady County, NY,Albany Area Office,213100,2
+36,95,Schoharie County, NY,Albany Area Office,213100,2
+36,97,Schuyler County, NY,Syracuse Area Office,215800,2
+36,99,Seneca County, NY,Syracuse Area Office,215800,2
+36,101,Steuben County, NY,Syracuse Area Office,215800,2
+36,103,Suffolk County, NY,Long Island Area Office,214700,2
+36,105,Sullivan County, NY,Albany Area Office,213100,2
+36,107,Tioga County, NY,Syracuse Area Office,215800,2
+36,109,Tompkins County, NY,Syracuse Area Office,215800,2
+36,111,Ulster County, NY,Albany Area Office,213100,2
+36,113,Warren County, NY,Albany Area Office,213100,2
+36,115,Washington County, NY,Albany Area Office,213100,2
+36,117,Wayne County, NY,Syracuse Area Office,215800,2
+36,119,Westchester County, NY,Tarrytown Area Office,216000,2
+36,121,Wyoming County, NY,Buffalo Area Office,213600,2
+36,123,Yates County, NY,Syracuse Area Office,215800,2
+37,1,Alamance County, NC,Raleigh Area Office,420300,4
+37,3,Alexander County, NC,Raleigh Area Office,420300,4
+37,5,Alleghany County, NC,Raleigh Area Office,420300,4
+37,7,Anson County, NC,Raleigh Area Office,420300,4
+37,9,Ashe County, NC,Raleigh Area Office,420300,4
+37,11,Avery County, NC,Raleigh Area Office,420300,4
+37,13,Beaufort County, NC,Raleigh Area Office,420300,4
+37,15,Bertie County, NC,Raleigh Area Office,420300,4
+37,17,Bladen County, NC,Raleigh Area Office,420300,4
+37,19,Brunswick County, NC,Raleigh Area Office,420300,4
+37,21,Buncombe County, NC,Raleigh Area Office,420300,4
+37,23,Burke County, NC,Raleigh Area Office,420300,4
+37,25,Cabarrus County, NC,Raleigh Area Office,420300,4
+37,27,Caldwell County, NC,Raleigh Area Office,420300,4
+37,29,Camden County, NC,Raleigh Area Office,420300,4
+37,31,Carteret County, NC,Raleigh Area Office,420300,4
+37,33,Caswell County, NC,Raleigh Area Office,420300,4
+37,35,Catawba County, NC,Raleigh Area Office,420300,4
+37,37,Chatham County, NC,Raleigh Area Office,420300,4
+37,39,Cherokee County, NC,Raleigh Area Office,420300,4
+37,41,Chowan County, NC,Raleigh Area Office,420300,4
+37,43,Clay County, NC,Raleigh Area Office,420300,4
+37,45,Cleveland County, NC,Raleigh Area Office,420300,4
+37,47,Columbus County, NC,Raleigh Area Office,420300,4
+37,49,Craven County, NC,Raleigh Area Office,420300,4
+37,51,Cumberland County, NC,Raleigh Area Office,420300,4
+37,53,Currituck County, NC,Raleigh Area Office,420300,4
+37,55,Dare County, NC,Raleigh Area Office,420300,4
+37,57,Davidson County, NC,Raleigh Area Office,420300,4
+37,59,Davie County, NC,Raleigh Area Office,420300,4
+37,61,Duplin County, NC,Raleigh Area Office,420300,4
+37,63,Durham County, NC,Raleigh Area Office,420300,4
+37,65,Edgecombe County, NC,Raleigh Area Office,420300,4
+37,67,Forsyth County, NC,Raleigh Area Office,420300,4
+37,69,Franklin County, NC,Raleigh Area Office,420300,4
+37,71,Gaston County, NC,Raleigh Area Office,420300,4
+37,73,Gates County, NC,Raleigh Area Office,420300,4
+37,75,Graham County, NC,Raleigh Area Office,420300,4
+37,77,Granville County, NC,Raleigh Area Office,420300,4
+37,79,Greene County, NC,Raleigh Area Office,420300,4
+37,81,Guilford County, NC,Raleigh Area Office,420300,4
+37,83,Halifax County, NC,Raleigh Area Office,420300,4
+37,85,Harnett County, NC,Raleigh Area Office,420300,4
+37,87,Haywood County, NC,Raleigh Area Office,420300,4
+37,89,Henderson County, NC,Raleigh Area Office,420300,4
+37,91,Hertford County, NC,Raleigh Area Office,420300,4
+37,93,Hoke County, NC,Raleigh Area Office,420300,4
+37,95,Hyde County, NC,Raleigh Area Office,420300,4
+37,97,Iredell County, NC,Raleigh Area Office,420300,4
+37,99,Jackson County, NC,Raleigh Area Office,420300,4
+37,101,Johnston County, NC,Raleigh Area Office,420300,4
+37,103,Jones County, NC,Raleigh Area Office,420300,4
+37,105,Lee County, NC,Raleigh Area Office,420300,4
+37,107,Lenoir County, NC,Raleigh Area Office,420300,4
+37,109,Lincoln County, NC,Raleigh Area Office,420300,4
+37,111,McDowell County, NC,Raleigh Area Office,420300,4
+37,113,Macon County, NC,Raleigh Area Office,420300,4
+37,115,Madison County, NC,Raleigh Area Office,420300,4
+37,117,Martin County, NC,Raleigh Area Office,420300,4
+37,119,Mecklenburg County, NC,Raleigh Area Office,420300,4
+37,121,Mitchell County, NC,Raleigh Area Office,420300,4
+37,123,Montgomery County, NC,Raleigh Area Office,420300,4
+37,125,Moore County, NC,Raleigh Area Office,420300,4
+37,127,Nash County, NC,Raleigh Area Office,420300,4
+37,129,New Hanover County, NC,Raleigh Area Office,420300,4
+37,131,Northampton County, NC,Raleigh Area Office,420300,4
+37,133,Onslow County, NC,Raleigh Area Office,420300,4
+37,135,Orange County, NC,Raleigh Area Office,420300,4
+37,137,Pamlico County, NC,Raleigh Area Office,420300,4
+37,139,Pasquotank County, NC,Raleigh Area Office,420300,4
+37,141,Pender County, NC,Raleigh Area Office,420300,4
+37,143,Perquimans County, NC,Raleigh Area Office,420300,4
+37,145,Person County, NC,Raleigh Area Office,420300,4
+37,147,Pitt County, NC,Raleigh Area Office,420300,4
+37,149,Polk County, NC,Raleigh Area Office,420300,4
+37,151,Randolph County, NC,Raleigh Area Office,420300,4
+37,153,Richmond County, NC,Raleigh Area Office,420300,4
+37,155,Robeson County, NC,Raleigh Area Office,420300,4
+37,157,Rockingham County, NC,Raleigh Area Office,420300,4
+37,159,Rowan County, NC,Raleigh Area Office,420300,4
+37,161,Rutherford County, NC,Raleigh Area Office,420300,4
+37,163,Sampson County, NC,Raleigh Area Office,420300,4
+37,165,Scotland County, NC,Raleigh Area Office,420300,4
+37,167,Stanly County, NC,Raleigh Area Office,420300,4
+37,169,Stokes County, NC,Raleigh Area Office,420300,4
+37,171,Surry County, NC,Raleigh Area Office,420300,4
+37,173,Swain County, NC,Raleigh Area Office,420300,4
+37,175,Transylvania County, NC,Raleigh Area Office,420300,4
+37,177,Tyrrell County, NC,Raleigh Area Office,420300,4
+37,179,Union County, NC,Raleigh Area Office,420300,4
+37,181,Vance County, NC,Raleigh Area Office,420300,4
+37,183,Wake County, NC,Raleigh Area Office,420300,4
+37,185,Warren County, NC,Raleigh Area Office,420300,4
+37,187,Washington County, NC,Raleigh Area Office,420300,4
+37,189,Watauga County, NC,Raleigh Area Office,420300,4
+37,191,Wayne County, NC,Raleigh Area Office,420300,4
+37,193,Wilkes County, NC,Raleigh Area Office,420300,4
+37,195,Wilson County, NC,Raleigh Area Office,420300,4
+37,197,Yadkin County, NC,Raleigh Area Office,420300,4
+37,199,Yancey County, NC,Raleigh Area Office,420300,4
+38,1,Adams County, ND,Bismarck Area Office,830300,8
+38,3,Barnes County, ND,Bismarck Area Office,830300,8
+38,5,Benson County, ND,Bismarck Area Office,830300,8
+38,7,Billings County, ND,Bismarck Area Office,830300,8
+38,9,Bottineau County, ND,Bismarck Area Office,830300,8
+38,11,Bowman County, ND,Bismarck Area Office,830300,8
+38,13,Burke County, ND,Bismarck Area Office,830300,8
+38,15,Burleigh County, ND,Bismarck Area Office,830300,8
+38,17,Cass County, ND,Bismarck Area Office,830300,8
+38,19,Cavalier County, ND,Bismarck Area Office,830300,8
+38,21,Dickey County, ND,Bismarck Area Office,830300,8
+38,23,Divide County, ND,Bismarck Area Office,830300,8
+38,25,Dunn County, ND,Bismarck Area Office,830300,8
+38,27,Eddy County, ND,Bismarck Area Office,830300,8
+38,29,Emmons County, ND,Bismarck Area Office,830300,8
+38,31,Foster County, ND,Bismarck Area Office,830300,8
+38,33,Golden Valley County, ND,Bismarck Area Office,830300,8
+38,35,Grand Forks County, ND,Bismarck Area Office,830300,8
+38,37,Grant County, ND,Bismarck Area Office,830300,8
+38,39,Griggs County, ND,Bismarck Area Office,830300,8
+38,41,Hettinger County, ND,Bismarck Area Office,830300,8
+38,43,Kidder County, ND,Bismarck Area Office,830300,8
+38,45,LaMoure County, ND,Bismarck Area Office,830300,8
+38,47,Logan County, ND,Bismarck Area Office,830300,8
+38,49,McHenry County, ND,Bismarck Area Office,830300,8
+38,51,McIntosh County, ND,Bismarck Area Office,830300,8
+38,53,McKenzie County, ND,Bismarck Area Office,830300,8
+38,55,McLean County, ND,Bismarck Area Office,830300,8
+38,57,Mercer County, ND,Bismarck Area Office,830300,8
+38,59,Morton County, ND,Bismarck Area Office,830300,8
+38,61,Mountrail County, ND,Bismarck Area Office,830300,8
+38,63,Nelson County, ND,Bismarck Area Office,830300,8
+38,65,Oliver County, ND,Bismarck Area Office,830300,8
+38,67,Pembina County, ND,Bismarck Area Office,830300,8
+38,69,Pierce County, ND,Bismarck Area Office,830300,8
+38,71,Ramsey County, ND,Bismarck Area Office,830300,8
+38,73,Ransom County, ND,Bismarck Area Office,830300,8
+38,75,Renville County, ND,Bismarck Area Office,830300,8
+38,77,Richland County, ND,Bismarck Area Office,830300,8
+38,79,Rolette County, ND,Bismarck Area Office,830300,8
+38,81,Sargent County, ND,Bismarck Area Office,830300,8
+38,83,Sheridan County, ND,Bismarck Area Office,830300,8
+38,85,Sioux County, ND,Bismarck Area Office,830300,8
+38,87,Slope County, ND,Bismarck Area Office,830300,8
+38,89,Stark County, ND,Bismarck Area Office,830300,8
+38,91,Steele County, ND,Bismarck Area Office,830300,8
+38,93,Stutsman County, ND,Bismarck Area Office,830300,8
+38,95,Towner County, ND,Bismarck Area Office,830300,8
+38,97,Traill County, ND,Bismarck Area Office,830300,8
+38,99,Walsh County, ND,Bismarck Area Office,830300,8
+38,101,Ward County, ND,Bismarck Area Office,830300,8
+38,103,Wells County, ND,Bismarck Area Office,830300,8
+38,105,Williams County, ND,Bismarck Area Office,830300,8
+39,1,Adams County, OH,Cincinnati Area Office,522000,5
+39,3,Allen County, OH,Toledo Area Office,524700,5
+39,5,Ashland County, OH,Toledo Area Office,524700,5
+39,7,Ashtabula County, OH,Cleveland Area Office,522300,5
+39,9,Athens County, OH,Columbus Area Office,522500,5
+39,11,Auglaize County, OH,Toledo Area Office,524700,5
+39,13,Belmont County, OH,Columbus Area Office,522500,5
+39,15,Brown County, OH,Cincinnati Area Office,522000,5
+39,17,Butler County, OH,Cincinnati Area Office,522000,5
+39,19,Carroll County, OH,Columbus Area Office,522500,5
+39,21,Champaign County, OH,Cincinnati Area Office,522000,5
+39,23,Clark County, OH,Cincinnati Area Office,522000,5
+39,25,Clermont County, OH,Cincinnati Area Office,522000,5
+39,27,Clinton County, OH,Cincinnati Area Office,522000,5
+39,29,Columbiana County, OH,Cleveland Area Office,522300,5
+39,31,Coshocton County, OH,Columbus Area Office,522500,5
+39,33,Crawford County, OH,Toledo Area Office,524700,5
+39,35,Cuyahoga County, OH,Cleveland Area Office,522300,5
+39,37,Darke County, OH,Cincinnati Area Office,522000,5
+39,39,Defiance County, OH,Toledo Area Office,524700,5
+39,41,Delaware County, OH,Columbus Area Office,522500,5
+39,43,Erie County, OH,Toledo Area Office,524700,5
+39,45,Fairfield County, OH,Columbus Area Office,522500,5
+39,47,Fayette County, OH,Cincinnati Area Office,522000,5
+39,49,Franklin County, OH,Columbus Area Office,522500,5
+39,51,Fulton County, OH,Toledo Area Office,524700,5
+39,53,Gallia County, OH,Columbus Area Office,522500,5
+39,55,Geauga County, OH,Cleveland Area Office,522300,5
+39,57,Greene County, OH,Cincinnati Area Office,522000,5
+39,59,Guernsey County, OH,Columbus Area Office,522500,5
+39,61,Hamilton County, OH,Cincinnati Area Office,522000,5
+39,63,Hancock County, OH,Toledo Area Office,524700,5
+39,65,Hardin County, OH,Toledo Area Office,524700,5
+39,67,Harrison County, OH,Columbus Area Office,522500,5
+39,69,Henry County, OH,Toledo Area Office,524700,5
+39,71,Highland County, OH,Cincinnati Area Office,522000,5
+39,73,Hocking County, OH,Columbus Area Office,522500,5
+39,75,Holmes County, OH,Columbus Area Office,522500,5
+39,77,Huron County, OH,Toledo Area Office,524700,5
+39,79,Jackson County, OH,Columbus Area Office,522500,5
+39,81,Jefferson County, OH,Columbus Area Office,522500,5
+39,83,Knox County, OH,Columbus Area Office,522500,5
+39,85,Lake County, OH,Cleveland Area Office,522300,5
+39,87,Lawrence County, OH,Cincinnati Area Office,522000,5
+39,89,Licking County, OH,Columbus Area Office,522500,5
+39,91,Logan County, OH,Toledo Area Office,524700,5
+39,93,Lorain County, OH,Toledo Area Office,524700,5
+39,95,Lucas County, OH,Toledo Area Office,524700,5
+39,97,Madison County, OH,Columbus Area Office,522500,5
+39,99,Mahoning County, OH,Cleveland Area Office,522300,5
+39,101,Marion County, OH,Toledo Area Office,524700,5
+39,103,Medina County, OH,Cleveland Area Office,522300,5
+39,105,Meigs County, OH,Columbus Area Office,522500,5
+39,107,Mercer County, OH,Toledo Area Office,524700,5
+39,109,Miami County, OH,Cincinnati Area Office,522000,5
+39,111,Monroe County, OH,Columbus Area Office,522500,5
+39,113,Montgomery County, OH,Cincinnati Area Office,522000,5
+39,115,Morgan County, OH,Columbus Area Office,522500,5
+39,117,Morrow County, OH,Toledo Area Office,524700,5
+39,119,Muskingum County, OH,Columbus Area Office,522500,5
+39,121,Noble County, OH,Columbus Area Office,522500,5
+39,123,Ottawa County, OH,Toledo Area Office,524700,5
+39,125,Paulding County, OH,Toledo Area Office,524700,5
+39,127,Perry County, OH,Columbus Area Office,522500,5
+39,129,Pickaway County, OH,Columbus Area Office,522500,5
+39,131,Pike County, OH,Cincinnati Area Office,522000,5
+39,133,Portage County, OH,Cleveland Area Office,522300,5
+39,135,Preble County, OH,Cincinnati Area Office,522000,5
+39,137,Putnam County, OH,Toledo Area Office,524700,5
+39,139,Richland County, OH,Toledo Area Office,524700,5
+39,141,Ross County, OH,Cincinnati Area Office,522000,5
+39,143,Sandusky County, OH,Toledo Area Office,524700,5
+39,145,Scioto County, OH,Cincinnati Area Office,522000,5
+39,147,Seneca County, OH,Toledo Area Office,524700,5
+39,149,Shelby County, OH,Toledo Area Office,524700,5
+39,151,Stark County, OH,Cleveland Area Office,522300,5
+39,153,Summit County, OH,Cleveland Area Office,522300,5
+39,155,Trumbull County, OH,Cleveland Area Office,522300,5
+39,157,Tuscarawas County, OH,Columbus Area Office,522500,5
+39,159,Union County, OH,Columbus Area Office,522500,5
+39,161,Van Wert County, OH,Toledo Area Office,524700,5
+39,163,Vinton County, OH,Columbus Area Office,522500,5
+39,165,Warren County, OH,Cincinnati Area Office,522000,5
+39,167,Washington County, OH,Columbus Area Office,522500,5
+39,169,Wayne County, OH,Cleveland Area Office,522300,5
+39,171,Williams County, OH,Toledo Area Office,524700,5
+39,173,Wood County, OH,Toledo Area Office,524700,5
+39,175,Wyandot County, OH,Toledo Area Office,524700,5
+40,1,Adair County, OK,Oklahoma Area Office,627700,6
+40,3,Alfalfa County, OK,Oklahoma Area Office,627700,6
+40,5,Atoka County, OK,Oklahoma Area Office,627700,6
+40,7,Beaver County, OK,Oklahoma Area Office,627700,6
+40,9,Beckham County, OK,Oklahoma Area Office,627700,6
+40,11,Blaine County, OK,Oklahoma Area Office,627700,6
+40,13,Bryan County, OK,Oklahoma Area Office,627700,6
+40,15,Caddo County, OK,Oklahoma Area Office,627700,6
+40,17,Canadian County, OK,Oklahoma Area Office,627700,6
+40,19,Carter County, OK,Oklahoma Area Office,627700,6
+40,21,Cherokee County, OK,Oklahoma Area Office,627700,6
+40,23,Choctaw County, OK,Oklahoma Area Office,627700,6
+40,25,Cimarron County, OK,Oklahoma Area Office,627700,6
+40,27,Cleveland County, OK,Oklahoma Area Office,627700,6
+40,29,Coal County, OK,Oklahoma Area Office,627700,6
+40,31,Comanche County, OK,Oklahoma Area Office,627700,6
+40,33,Cotton County, OK,Oklahoma Area Office,627700,6
+40,35,Craig County, OK,Oklahoma Area Office,627700,6
+40,37,Creek County, OK,Oklahoma Area Office,627700,6
+40,39,Custer County, OK,Oklahoma Area Office,627700,6
+40,41,Delaware County, OK,Oklahoma Area Office,627700,6
+40,43,Dewey County, OK,Oklahoma Area Office,627700,6
+40,45,Ellis County, OK,Oklahoma Area Office,627700,6
+40,47,Garfield County, OK,Oklahoma Area Office,627700,6
+40,49,Garvin County, OK,Oklahoma Area Office,627700,6
+40,51,Grady County, OK,Oklahoma Area Office,627700,6
+40,53,Grant County, OK,Oklahoma Area Office,627700,6
+40,55,Greer County, OK,Oklahoma Area Office,627700,6
+40,57,Harmon County, OK,Oklahoma Area Office,627700,6
+40,59,Harper County, OK,Oklahoma Area Office,627700,6
+40,61,Haskell County, OK,Oklahoma Area Office,627700,6
+40,63,Hughes County, OK,Oklahoma Area Office,627700,6
+40,65,Jackson County, OK,Oklahoma Area Office,627700,6
+40,67,Jefferson County, OK,Oklahoma Area Office,627700,6
+40,69,Johnston County, OK,Oklahoma Area Office,627700,6
+40,71,Kay County, OK,Oklahoma Area Office,627700,6
+40,73,Kingfisher County, OK,Oklahoma Area Office,627700,6
+40,75,Kiowa County, OK,Oklahoma Area Office,627700,6
+40,77,Latimer County, OK,Oklahoma Area Office,627700,6
+40,79,Le Flore County, OK,Oklahoma Area Office,627700,6
+40,81,Lincoln County, OK,Oklahoma Area Office,627700,6
+40,83,Logan County, OK,Oklahoma Area Office,627700,6
+40,85,Love County, OK,Oklahoma Area Office,627700,6
+40,87,McClain County, OK,Oklahoma Area Office,627700,6
+40,89,McCurtain County, OK,Oklahoma Area Office,627700,6
+40,91,McIntosh County, OK,Oklahoma Area Office,627700,6
+40,93,Major County, OK,Oklahoma Area Office,627700,6
+40,95,Marshall County, OK,Oklahoma Area Office,627700,6
+40,97,Mayes County, OK,Oklahoma Area Office,627700,6
+40,99,Murray County, OK,Oklahoma Area Office,627700,6
+40,101,Muskogee County, OK,Oklahoma Area Office,627700,6
+40,103,Noble County, OK,Oklahoma Area Office,627700,6
+40,105,Nowata County, OK,Oklahoma Area Office,627700,6
+40,107,Okfuskee County, OK,Oklahoma Area Office,627700,6
+40,109,Oklahoma County, OK,Oklahoma Area Office,627700,6
+40,111,Okmulgee County, OK,Oklahoma Area Office,627700,6
+40,113,Osage County, OK,Oklahoma Area Office,627700,6
+40,115,Ottawa County, OK,Oklahoma Area Office,627700,6
+40,117,Pawnee County, OK,Oklahoma Area Office,627700,6
+40,119,Payne County, OK,Oklahoma Area Office,627700,6
+40,121,Pittsburg County, OK,Oklahoma Area Office,627700,6
+40,123,Pontotoc County, OK,Oklahoma Area Office,627700,6
+40,125,Pottawatomie County, OK,Oklahoma Area Office,627700,6
+40,127,Pushmataha County, OK,Oklahoma Area Office,627700,6
+40,129,Roger Mills County, OK,Oklahoma Area Office,627700,6
+40,131,Rogers County, OK,Oklahoma Area Office,627700,6
+40,133,Seminole County, OK,Oklahoma Area Office,627700,6
+40,135,Sequoyah County, OK,Oklahoma Area Office,627700,6
+40,137,Stephens County, OK,Oklahoma Area Office,627700,6
+40,139,Texas County, OK,Oklahoma Area Office,627700,6
+40,141,Tillman County, OK,Oklahoma Area Office,627700,6
+40,143,Tulsa County, OK,Oklahoma Area Office,627700,6
+40,145,Wagoner County, OK,Oklahoma Area Office,627700,6
+40,147,Washington County, OK,Oklahoma Area Office,627700,6
+40,149,Washita County, OK,Oklahoma Area Office,627700,6
+40,151,Woods County, OK,Oklahoma Area Office,627700,6
+40,153,Woodward County, OK,Oklahoma Area Office,627700,6
+41,1,Baker County, OR,Portland Area Office,1032700,10
+41,3,Benton County, OR,Portland Area Office,1032700,10
+41,5,Clackamas County, OR,Portland Area Office,1032700,10
+41,7,Clatsop County, OR,Portland Area Office,1032700,10
+41,9,Columbia County, OR,Portland Area Office,1032700,10
+41,11,Coos County, OR,Portland Area Office,1032700,10
+41,13,Crook County, OR,Portland Area Office,1032700,10
+41,15,Curry County, OR,Portland Area Office,1032700,10
+41,17,Deschutes County, OR,Portland Area Office,1032700,10
+41,19,Douglas County, OR,Portland Area Office,1032700,10
+41,21,Gilliam County, OR,Portland Area Office,1032700,10
+41,23,Grant County, OR,Portland Area Office,1032700,10
+41,25,Harney County, OR,Portland Area Office,1032700,10
+41,27,Hood River County, OR,Portland Area Office,1032700,10
+41,29,Jackson County, OR,Portland Area Office,1032700,10
+41,31,Jefferson County, OR,Portland Area Office,1032700,10
+41,33,Josephine County, OR,Portland Area Office,1032700,10
+41,35,Klamath County, OR,Portland Area Office,1032700,10
+41,37,Lake County, OR,Portland Area Office,1032700,10
+41,39,Lane County, OR,Portland Area Office,1032700,10
+41,41,Lincoln County, OR,Portland Area Office,1032700,10
+41,43,Linn County, OR,Portland Area Office,1032700,10
+41,45,Malheur County, OR,Portland Area Office,1032700,10
+41,47,Marion County, OR,Portland Area Office,1032700,10
+41,49,Morrow County, OR,Portland Area Office,1032700,10
+41,51,Multnomah County, OR,Portland Area Office,1032700,10
+41,53,Polk County, OR,Portland Area Office,1032700,10
+41,55,Sherman County, OR,Portland Area Office,1032700,10
+41,57,Tillamook County, OR,Portland Area Office,1032700,10
+41,59,Umatilla County, OR,Portland Area Office,1032700,10
+41,61,Union County, OR,Portland Area Office,1032700,10
+41,63,Wallowa County, OR,Portland Area Office,1032700,10
+41,65,Wasco County, OR,Portland Area Office,1032700,10
+41,67,Washington County, OR,Portland Area Office,1032700,10
+41,69,Wheeler County, OR,Portland Area Office,1032700,10
+41,71,Yamhill County, OR,Portland Area Office,1032700,10
+42,1,Adams County, PA,Harrisburg Area Office,316700,3
+42,3,Allegheny County, PA,Pittsburgh Area Office,317500,3
+42,5,Armstrong County, PA,Pittsburgh Area Office,317500,3
+42,7,Beaver County, PA,Pittsburgh Area Office,317500,3
+42,9,Bedford County, PA,Pittsburgh Area Office,317500,3
+42,11,Berks County, PA,Harrisburg Area Office,316700,3
+42,13,Blair County, PA,Pittsburgh Area Office,317500,3
+42,15,Bradford County, PA,Wilkes Barre Area Office,317700,3
+42,17,Bucks County, PA,Allentown Area Office,317900,3
+42,19,Butler County, PA,Pittsburgh Area Office,317500,3
+42,21,Cambria County, PA,Pittsburgh Area Office,317500,3
+42,23,Cameron County, PA,Erie Area Office,336000,3
+42,25,Carbon County, PA,Wilkes Barre Area Office,317700,3
+42,27,Centre County, PA,Harrisburg Area Office,316700,3
+42,29,Chester County, PA,Philadelphia Area Office,317000,3
+42,31,Clarion County, PA,Erie Area Office,336000,3
+42,33,Clearfield County, PA,Erie Area Office,336000,3
+42,35,Clinton County, PA,Wilkes Barre Area Office,317700,3
+42,37,Columbia County, PA,Wilkes Barre Area Office,317700,3
+42,39,Crawford County, PA,Erie Area Office,336000,3
+42,41,Cumberland County, PA,Harrisburg Area Office,316700,3
+42,43,Dauphin County, PA,Harrisburg Area Office,316700,3
+42,45,Delaware County, PA,Philadelphia Area Office,317000,3
+42,47,Elk County, PA,Erie Area Office,336000,3
+42,49,Erie County, PA,Erie Area Office,336000,3
+42,51,Fayette County, PA,Pittsburgh Area Office,317500,3
+42,53,Forest County, PA,Erie Area Office,336000,3
+42,55,Franklin County, PA,Harrisburg Area Office,316700,3
+42,57,Fulton County, PA,Harrisburg Area Office,316700,3
+42,59,Greene County, PA,Pittsburgh Area Office,317500,3
+42,61,Huntingdon County, PA,Harrisburg Area Office,316700,3
+42,63,Indiana County, PA,Pittsburgh Area Office,317500,3
+42,65,Jefferson County, PA,Erie Area Office,336000,3
+42,67,Juniata County, PA,Harrisburg Area Office,316700,3
+42,69,Lackawanna County, PA,Wilkes Barre Area Office,317700,3
+42,71,Lancaster County, PA,Harrisburg Area Office,316700,3
+42,73,Lawrence County, PA,Erie Area Office,336000,3
+42,75,Lebanon County, PA,Harrisburg Area Office,316700,3
+42,77,Lehigh County, PA,Allentown Area Office,317900,3
+42,79,Luzerne County, PA,Wilkes Barre Area Office,317700,3
+42,81,Lycoming County, PA,Wilkes Barre Area Office,317700,3
+42,83,McKean County, PA,Erie Area Office,336000,3
+42,85,Mercer County, PA,Erie Area Office,336000,3
+42,87,Mifflin County, PA,Harrisburg Area Office,316700,3
+42,89,Monroe County, PA,Wilkes Barre Area Office,317700,3
+42,91,Montgomery County, PA,Allentown Area Office,317900,3
+42,93,Montour County, PA,Wilkes Barre Area Office,317700,3
+42,95,Northampton County, PA,Allentown Area Office,317900,3
+42,97,Northumberland County, PA,Wilkes Barre Area Office,317700,3
+42,99,Perry County, PA,Harrisburg Area Office,316700,3
+42,101,Philadelphia County, PA,Philadelphia Area Office,317000,3
+42,103,Pike County, PA,Wilkes Barre Area Office,317700,3
+42,105,Potter County, PA,Wilkes Barre Area Office,317700,3
+42,107,Schuylkill County, PA,Wilkes Barre Area Office,317700,3
+42,109,Snyder County, PA,Wilkes Barre Area Office,317700,3
+42,111,Somerset County, PA,Pittsburgh Area Office,317500,3
+42,113,Sullivan County, PA,Wilkes Barre Area Office,317700,3
+42,115,Susquehanna County, PA,Wilkes Barre Area Office,317700,3
+42,117,Tioga County, PA,Wilkes Barre Area Office,317700,3
+42,119,Union County, PA,Wilkes Barre Area Office,317700,3
+42,121,Venango County, PA,Erie Area Office,336000,3
+42,123,Warren County, PA,Erie Area Office,336000,3
+42,125,Washington County, PA,Pittsburgh Area Office,317500,3
+42,127,Wayne County, PA,Wilkes Barre Area Office,317700,3
+42,129,Westmoreland County, PA,Pittsburgh Area Office,317500,3
+42,131,Wyoming County, PA,Wilkes Barre Area Office,317700,3
+42,133,York County, PA,Harrisburg Area Office,316700,3
+44,1,Bristol County, RI,Providence Area Office,112300,1
+44,3,Kent County, RI,Providence Area Office,112300,1
+44,5,Newport County, RI,Providence Area Office,112300,1
+44,7,Providence County, RI,Providence Area Office,112300,1
+44,9,Washington County, RI,Providence Area Office,112300,1
+45,1,Abbeville County, SC,Columbia Area Office,418500,4
+45,3,Aiken County, SC,Columbia Area Office,418500,4
+45,5,Allendale County, SC,Columbia Area Office,418500,4
+45,7,Anderson County, SC,Columbia Area Office,418500,4
+45,9,Bamberg County, SC,Columbia Area Office,418500,4
+45,11,Barnwell County, SC,Columbia Area Office,418500,4
+45,13,Beaufort County, SC,Columbia Area Office,418500,4
+45,15,Berkeley County, SC,Columbia Area Office,418500,4
+45,17,Calhoun County, SC,Columbia Area Office,418500,4
+45,19,Charleston County, SC,Columbia Area Office,418500,4
+45,21,Cherokee County, SC,Columbia Area Office,418500,4
+45,23,Chester County, SC,Columbia Area Office,418500,4
+45,25,Chesterfield County, SC,Columbia Area Office,418500,4
+45,27,Clarendon County, SC,Columbia Area Office,418500,4
+45,29,Colleton County, SC,Columbia Area Office,418500,4
+45,31,Darlington County, SC,Columbia Area Office,418500,4
+45,33,Dillon County, SC,Columbia Area Office,418500,4
+45,35,Dorchester County, SC,Columbia Area Office,418500,4
+45,37,Edgefield County, SC,Columbia Area Office,418500,4
+45,39,Fairfield County, SC,Columbia Area Office,418500,4
+45,41,Florence County, SC,Columbia Area Office,418500,4
+45,43,Georgetown County, SC,Columbia Area Office,418500,4
+45,45,Greenville County, SC,Columbia Area Office,418500,4
+45,47,Greenwood County, SC,Columbia Area Office,418500,4
+45,49,Hampton County, SC,Columbia Area Office,418500,4
+45,51,Horry County, SC,Columbia Area Office,418500,4
+45,53,Jasper County, SC,Columbia Area Office,418500,4
+45,55,Kershaw County, SC,Columbia Area Office,418500,4
+45,57,Lancaster County, SC,Columbia Area Office,418500,4
+45,59,Laurens County, SC,Columbia Area Office,418500,4
+45,61,Lee County, SC,Columbia Area Office,418500,4
+45,63,Lexington County, SC,Columbia Area Office,418500,4
+45,65,McCormick County, SC,Columbia Area Office,418500,4
+45,67,Marion County, SC,Columbia Area Office,418500,4
+45,69,Marlboro County, SC,Columbia Area Office,418500,4
+45,71,Newberry County, SC,Columbia Area Office,418500,4
+45,73,Oconee County, SC,Columbia Area Office,418500,4
+45,75,Orangeburg County, SC,Columbia Area Office,418500,4
+45,77,Pickens County, SC,Columbia Area Office,418500,4
+45,79,Richland County, SC,Columbia Area Office,418500,4
+45,81,Saluda County, SC,Columbia Area Office,418500,4
+45,83,Spartanburg County, SC,Columbia Area Office,418500,4
+45,85,Sumter County, SC,Columbia Area Office,418500,4
+45,87,Union County, SC,Columbia Area Office,418500,4
+45,89,Williamsburg County, SC,Columbia Area Office,418500,4
+45,91,York County, SC,Columbia Area Office,418500,4
+46,3,Aurora County, SD,Bismarck Area Office,830300,8
+46,5,Beadle County, SD,Bismarck Area Office,830300,8
+46,7,Bennett County, SD,Bismarck Area Office,830300,8
+46,9,Bon Homme County, SD,Bismarck Area Office,830300,8
+46,11,Brookings County, SD,Bismarck Area Office,830300,8
+46,13,Brown County, SD,Bismarck Area Office,830300,8
+46,15,Brule County, SD,Bismarck Area Office,830300,8
+46,17,Buffalo County, SD,Bismarck Area Office,830300,8
+46,19,Butte County, SD,Bismarck Area Office,830300,8
+46,21,Campbell County, SD,Bismarck Area Office,830300,8
+46,23,Charles Mix County, SD,Bismarck Area Office,830300,8
+46,25,Clark County, SD,Bismarck Area Office,830300,8
+46,27,Clay County, SD,Bismarck Area Office,830300,8
+46,29,Codington County, SD,Bismarck Area Office,830300,8
+46,31,Corson County, SD,Bismarck Area Office,830300,8
+46,33,Custer County, SD,Bismarck Area Office,830300,8
+46,35,Davison County, SD,Bismarck Area Office,830300,8
+46,37,Day County, SD,Bismarck Area Office,830300,8
+46,39,Deuel County, SD,Bismarck Area Office,830300,8
+46,41,Dewey County, SD,Bismarck Area Office,830300,8
+46,43,Douglas County, SD,Bismarck Area Office,830300,8
+46,45,Edmunds County, SD,Bismarck Area Office,830300,8
+46,47,Fall River County, SD,Bismarck Area Office,830300,8
+46,49,Faulk County, SD,Bismarck Area Office,830300,8
+46,51,Grant County, SD,Bismarck Area Office,830300,8
+46,53,Gregory County, SD,Bismarck Area Office,830300,8
+46,55,Haakon County, SD,Bismarck Area Office,830300,8
+46,57,Hamlin County, SD,Bismarck Area Office,830300,8
+46,59,Hand County, SD,Bismarck Area Office,830300,8
+46,61,Hanson County, SD,Bismarck Area Office,830300,8
+46,63,Harding County, SD,Bismarck Area Office,830300,8
+46,65,Hughes County, SD,Bismarck Area Office,830300,8
+46,67,Hutchinson County, SD,Bismarck Area Office,830300,8
+46,69,Hyde County, SD,Bismarck Area Office,830300,8
+46,71,Jackson County, SD,Bismarck Area Office,830300,8
+46,73,Jerauld County, SD,Bismarck Area Office,830300,8
+46,75,Jones County, SD,Bismarck Area Office,830300,8
+46,77,Kingsbury County, SD,Bismarck Area Office,830300,8
+46,79,Lake County, SD,Bismarck Area Office,830300,8
+46,81,Lawrence County, SD,Bismarck Area Office,830300,8
+46,83,Lincoln County, SD,Bismarck Area Office,830300,8
+46,85,Lyman County, SD,Bismarck Area Office,830300,8
+46,87,McCook County, SD,Bismarck Area Office,830300,8
+46,89,McPherson County, SD,Bismarck Area Office,830300,8
+46,91,Marshall County, SD,Bismarck Area Office,830300,8
+46,93,Meade County, SD,Bismarck Area Office,830300,8
+46,95,Mellette County, SD,Bismarck Area Office,830300,8
+46,97,Miner County, SD,Bismarck Area Office,830300,8
+46,99,Minnehaha County, SD,Bismarck Area Office,830300,8
+46,101,Moody County, SD,Bismarck Area Office,830300,8
+46,103,Pennington County, SD,Bismarck Area Office,830300,8
+46,105,Perkins County, SD,Bismarck Area Office,830300,8
+46,107,Potter County, SD,Bismarck Area Office,830300,8
+46,109,Roberts County, SD,Bismarck Area Office,830300,8
+46,111,Sanborn County, SD,Bismarck Area Office,830300,8
+46,113,Shannon County, SD,Bismarck Area Office,830300,8
+46,115,Spink County, SD,Bismarck Area Office,830300,8
+46,117,Stanley County, SD,Bismarck Area Office,830300,8
+46,119,Sully County, SD,Bismarck Area Office,830300,8
+46,121,Todd County, SD,Bismarck Area Office,830300,8
+46,123,Tripp County, SD,Bismarck Area Office,830300,8
+46,125,Turner County, SD,Bismarck Area Office,830300,8
+46,127,Union County, SD,Bismarck Area Office,830300,8
+46,129,Walworth County, SD,Bismarck Area Office,830300,8
+46,135,Yankton County, SD,Bismarck Area Office,830300,8
+46,137,Ziebach County, SD,Bismarck Area Office,830300,8
+47,1,Anderson County, TN,Nashville Area Office,420100,4
+47,3,Bedford County, TN,Nashville Area Office,420100,4
+47,5,Benton County, TN,Nashville Area Office,420100,4
+47,7,Bledsoe County, TN,Nashville Area Office,420100,4
+47,9,Blount County, TN,Nashville Area Office,420100,4
+47,11,Bradley County, TN,Nashville Area Office,420100,4
+47,13,Campbell County, TN,Nashville Area Office,420100,4
+47,15,Cannon County, TN,Nashville Area Office,420100,4
+47,17,Carroll County, TN,Nashville Area Office,420100,4
+47,19,Carter County, TN,Nashville Area Office,420100,4
+47,21,Cheatham County, TN,Nashville Area Office,420100,4
+47,23,Chester County, TN,Nashville Area Office,420100,4
+47,25,Claiborne County, TN,Nashville Area Office,420100,4
+47,27,Clay County, TN,Nashville Area Office,420100,4
+47,29,Cocke County, TN,Nashville Area Office,420100,4
+47,31,Coffee County, TN,Nashville Area Office,420100,4
+47,33,Crockett County, TN,Nashville Area Office,420100,4
+47,35,Cumberland County, TN,Nashville Area Office,420100,4
+47,37,Davidson County, TN,Nashville Area Office,420100,4
+47,39,Decatur County, TN,Nashville Area Office,420100,4
+47,41,DeKalb County, TN,Nashville Area Office,420100,4
+47,43,Dickson County, TN,Nashville Area Office,420100,4
+47,45,Dyer County, TN,Nashville Area Office,420100,4
+47,47,Fayette County, TN,Nashville Area Office,420100,4
+47,49,Fentress County, TN,Nashville Area Office,420100,4
+47,51,Franklin County, TN,Nashville Area Office,420100,4
+47,53,Gibson County, TN,Nashville Area Office,420100,4
+47,55,Giles County, TN,Nashville Area Office,420100,4
+47,57,Grainger County, TN,Nashville Area Office,420100,4
+47,59,Greene County, TN,Nashville Area Office,420100,4
+47,61,Grundy County, TN,Nashville Area Office,420100,4
+47,63,Hamblen County, TN,Nashville Area Office,420100,4
+47,65,Hamilton County, TN,Nashville Area Office,420100,4
+47,67,Hancock County, TN,Nashville Area Office,420100,4
+47,69,Hardeman County, TN,Nashville Area Office,420100,4
+47,71,Hardin County, TN,Nashville Area Office,420100,4
+47,73,Hawkins County, TN,Nashville Area Office,420100,4
+47,75,Haywood County, TN,Nashville Area Office,420100,4
+47,77,Henderson County, TN,Nashville Area Office,420100,4
+47,79,Henry County, TN,Nashville Area Office,420100,4
+47,81,Hickman County, TN,Nashville Area Office,420100,4
+47,83,Houston County, TN,Nashville Area Office,420100,4
+47,85,Humphreys County, TN,Nashville Area Office,420100,4
+47,87,Jackson County, TN,Nashville Area Office,420100,4
+47,89,Jefferson County, TN,Nashville Area Office,420100,4
+47,91,Johnson County, TN,Nashville Area Office,420100,4
+47,93,Knox County, TN,Nashville Area Office,420100,4
+47,95,Lake County, TN,Nashville Area Office,420100,4
+47,97,Lauderdale County, TN,Nashville Area Office,420100,4
+47,99,Lawrence County, TN,Nashville Area Office,420100,4
+47,101,Lewis County, TN,Nashville Area Office,420100,4
+47,103,Lincoln County, TN,Nashville Area Office,420100,4
+47,105,Loudon County, TN,Nashville Area Office,420100,4
+47,107,McMinn County, TN,Nashville Area Office,420100,4
+47,109,McNairy County, TN,Nashville Area Office,420100,4
+47,111,Macon County, TN,Nashville Area Office,420100,4
+47,113,Madison County, TN,Nashville Area Office,420100,4
+47,115,Marion County, TN,Nashville Area Office,420100,4
+47,117,Marshall County, TN,Nashville Area Office,420100,4
+47,119,Maury County, TN,Nashville Area Office,420100,4
+47,121,Meigs County, TN,Nashville Area Office,420100,4
+47,123,Monroe County, TN,Nashville Area Office,420100,4
+47,125,Montgomery County, TN,Nashville Area Office,420100,4
+47,127,Moore County, TN,Nashville Area Office,420100,4
+47,129,Morgan County, TN,Nashville Area Office,420100,4
+47,131,Obion County, TN,Nashville Area Office,420100,4
+47,133,Overton County, TN,Nashville Area Office,420100,4
+47,135,Perry County, TN,Nashville Area Office,420100,4
+47,137,Pickett County, TN,Nashville Area Office,420100,4
+47,139,Polk County, TN,Nashville Area Office,420100,4
+47,141,Putnam County, TN,Nashville Area Office,420100,4
+47,143,Rhea County, TN,Nashville Area Office,420100,4
+47,145,Roane County, TN,Nashville Area Office,420100,4
+47,147,Robertson County, TN,Nashville Area Office,420100,4
+47,149,Rutherford County, TN,Nashville Area Office,420100,4
+47,151,Scott County, TN,Nashville Area Office,420100,4
+47,153,Sequatchie County, TN,Nashville Area Office,420100,4
+47,155,Sevier County, TN,Nashville Area Office,420100,4
+47,157,Shelby County, TN,Nashville Area Office,420100,4
+47,159,Smith County, TN,Nashville Area Office,420100,4
+47,161,Stewart County, TN,Nashville Area Office,420100,4
+47,163,Sullivan County, TN,Nashville Area Office,420100,4
+47,165,Sumner County, TN,Nashville Area Office,420100,4
+47,167,Tipton County, TN,Nashville Area Office,420100,4
+47,169,Trousdale County, TN,Nashville Area Office,420100,4
+47,171,Unicoi County, TN,Nashville Area Office,420100,4
+47,173,Union County, TN,Nashville Area Office,420100,4
+47,175,Van Buren County, TN,Nashville Area Office,420100,4
+47,177,Warren County, TN,Nashville Area Office,420100,4
+47,179,Washington County, TN,Nashville Area Office,420100,4
+47,181,Wayne County, TN,Nashville Area Office,420100,4
+47,183,Weakley County, TN,Nashville Area Office,420100,4
+47,185,White County, TN,Nashville Area Office,420100,4
+47,187,Williamson County, TN,Nashville Area Office,420100,4
+47,189,Wilson County, TN,Nashville Area Office,420100,4
+48,1,Anderson County, TX,Dallas Area Office,626300,6
+48,3,Andrews County, TX,Lubbock Area Office,627510,6
+48,5,Angelina County, TX,Houston North Area Office,626600,6
+48,7,Aransas County, TX,Corpus Christi Area Office,626000,6
+48,9,Archer County, TX,Fort Worth Area Office,636900,6
+48,11,Armstrong County, TX,Lubbock Area Office,627510,6
+48,13,Atascosa County, TX,San Antonio Area Office,625500,6
+48,15,Austin County, TX,Austin Area Office,625400,6
+48,17,Bailey County, TX,Lubbock Area Office,627510,6
+48,19,Bandera County, TX,San Antonio Area Office,625500,6
+48,21,Bastrop County, TX,Austin Area Office,625400,6
+48,23,Baylor County, TX,Fort Worth Area Office,636900,6
+48,25,Bee County, TX,Corpus Christi Area Office,626000,6
+48,27,Bell County, TX,Austin Area Office,625400,6
+48,29,Bexar County, TX,San Antonio Area Office,625500,6
+48,31,Blanco County, TX,Austin Area Office,625400,6
+48,33,Borden County, TX,Lubbock Area Office,627510,6
+48,35,Bosque County, TX,Fort Worth Area Office,636900,6
+48,37,Bowie County, TX,Dallas Area Office,626300,6
+48,39,Brazoria County, TX,Houston South Area Office,626700,6
+48,41,Brazos County, TX,Austin Area Office,625400,6
+48,43,Brewster County, TX,El Paso Area Office,627500,6
+48,45,Briscoe County, TX,Lubbock Area Office,627510,6
+48,47,Brooks County, TX,Corpus Christi Area Office,626000,6
+48,49,Brown County, TX,Fort Worth Area Office,636900,6
+48,51,Burleson County, TX,Austin Area Office,625400,6
+48,53,Burnet County, TX,Austin Area Office,625400,6
+48,55,Caldwell County, TX,Austin Area Office,625400,6
+48,57,Calhoun County, TX,Corpus Christi Area Office,626000,6
+48,59,Callahan County, TX,Fort Worth Area Office,636900,6
+48,61,Cameron County, TX,Corpus Christi Area Office,626000,6
+48,63,Camp County, TX,Dallas Area Office,626300,6
+48,65,Carson County, TX,Lubbock Area Office,627510,6
+48,67,Cass County, TX,Dallas Area Office,626300,6
+48,69,Castro County, TX,Lubbock Area Office,627510,6
+48,71,Chambers County, TX,Houston South Area Office,626700,6
+48,73,Cherokee County, TX,Dallas Area Office,626300,6
+48,75,Childress County, TX,Lubbock Area Office,627510,6
+48,77,Clay County, TX,Fort Worth Area Office,636900,6
+48,79,Cochran County, TX,Lubbock Area Office,627510,6
+48,81,Coke County, TX,Fort Worth Area Office,636900,6
+48,83,Coleman County, TX,Fort Worth Area Office,636900,6
+48,85,Collin County, TX,Dallas Area Office,626300,6
+48,87,Collingsworth County, TX,Lubbock Area Office,627510,6
+48,89,Colorado County, TX,Austin Area Office,625400,6
+48,91,Comal County, TX,Austin Area Office,625400,6
+48,93,Comanche County, TX,Fort Worth Area Office,636900,6
+48,95,Concho County, TX,Austin Area Office,625400,6
+48,97,Cooke County, TX,Fort Worth Area Office,636900,6
+48,99,Coryell County, TX,Fort Worth Area Office,636900,6
+48,101,Cottle County, TX,Lubbock Area Office,627510,6
+48,103,Crane County, TX,Lubbock Area Office,627510,6
+48,105,Crockett County, TX,San Antonio Area Office,625500,6
+48,107,Crosby County, TX,Lubbock Area Office,627510,6
+48,109,Culberson County, TX,El Paso Area Office,627500,6
+48,111,Dallam County, TX,Lubbock Area Office,627510,6
+48,113,Dallas County, TX,Dallas Area Office,626300,6
+48,115,Dawson County, TX,Lubbock Area Office,627510,6
+48,117,Deaf Smith County, TX,Lubbock Area Office,627510,6
+48,119,Delta County, TX,Dallas Area Office,626300,6
+48,121,Denton County, TX,Fort Worth Area Office,636900,6
+48,123,DeWitt County, TX,Corpus Christi Area Office,626000,6
+48,125,Dickens County, TX,Lubbock Area Office,627510,6
+48,127,Dimmit County, TX,Corpus Christi Area Office,626000,6
+48,129,Donley County, TX,Lubbock Area Office,627510,6
+48,131,Duval County, TX,Corpus Christi Area Office,626000,6
+48,133,Eastland County, TX,Fort Worth Area Office,636900,6
+48,135,Ector County, TX,Lubbock Area Office,627510,6
+48,137,Edwards County, TX,San Antonio Area Office,625500,6
+48,139,Ellis County, TX,Fort Worth Area Office,636900,6
+48,141,El Paso County, TX,El Paso Area Office,627500,6
+48,143,Erath County, TX,Fort Worth Area Office,636900,6
+48,145,Falls County, TX,Austin Area Office,625400,6
+48,147,Fannin County, TX,Dallas Area Office,626300,6
+48,149,Fayette County, TX,Austin Area Office,625400,6
+48,151,Fisher County, TX,Lubbock Area Office,627510,6
+48,153,Floyd County, TX,Lubbock Area Office,627510,6
+48,155,Foard County, TX,Lubbock Area Office,627510,6
+48,157,Fort Bend County, TX,Houston South Area Office,626700,6
+48,159,Franklin County, TX,Dallas Area Office,626300,6
+48,161,Freestone County, TX,Fort Worth Area Office,636900,6
+48,163,Frio County, TX,San Antonio Area Office,625500,6
+48,165,Gaines County, TX,Lubbock Area Office,627510,6
+48,167,Galveston County, TX,Houston South Area Office,626700,6
+48,169,Garza County, TX,Lubbock Area Office,627510,6
+48,171,Gillespie County, TX,Austin Area Office,625400,6
+48,173,Glasscock County, TX,Lubbock Area Office,627510,6
+48,175,Goliad County, TX,Corpus Christi Area Office,626000,6
+48,177,Gonzales County, TX,Austin Area Office,625400,6
+48,179,Gray County, TX,Lubbock Area Office,627510,6
+48,181,Grayson County, TX,Fort Worth Area Office,636900,6
+48,183,Gregg County, TX,Dallas Area Office,626300,6
+48,185,Grimes County, TX,Houston North Area Office,626600,6
+48,187,Guadalupe County, TX,Austin Area Office,625400,6
+48,189,Hale County, TX,Lubbock Area Office,627510,6
+48,191,Hall County, TX,Lubbock Area Office,627510,6
+48,193,Hamilton County, TX,Fort Worth Area Office,636900,6
+48,195,Hansford County, TX,Lubbock Area Office,627510,6
+48,197,Hardeman County, TX,Lubbock Area Office,627510,6
+48,199,Hardin County, TX,Houston North Area Office,626600,6
+48,201,Harris County, TX,Houston North Area Office,626600,6
+48,203,Harrison County, TX,Dallas Area Office,626300,6
+48,205,Hartley County, TX,Lubbock Area Office,627510,6
+48,207,Haskell County, TX,Lubbock Area Office,627510,6
+48,209,Hays County, TX,Austin Area Office,625400,6
+48,211,Hemphill County, TX,Lubbock Area Office,627510,6
+48,213,Henderson County, TX,Dallas Area Office,626300,6
+48,215,Hidalgo County, TX,Corpus Christi Area Office,626000,6
+48,217,Hill County, TX,Fort Worth Area Office,636900,6
+48,219,Hockley County, TX,Lubbock Area Office,627510,6
+48,221,Hood County, TX,Fort Worth Area Office,636900,6
+48,223,Hopkins County, TX,Dallas Area Office,626300,6
+48,225,Houston County, TX,Houston North Area Office,626600,6
+48,227,Howard County, TX,Lubbock Area Office,627510,6
+48,229,Hudspeth County, TX,El Paso Area Office,627500,6
+48,231,Hunt County, TX,Dallas Area Office,626300,6
+48,233,Hutchinson County, TX,Lubbock Area Office,627510,6
+48,235,Irion County, TX,Austin Area Office,625400,6
+48,237,Jack County, TX,Fort Worth Area Office,636900,6
+48,239,Jackson County, TX,Corpus Christi Area Office,626000,6
+48,241,Jasper County, TX,Houston North Area Office,626600,6
+48,243,Jeff Davis County, TX,El Paso Area Office,627500,6
+48,245,Jefferson County, TX,Houston South Area Office,626700,6
+48,247,Jim Hogg County, TX,Corpus Christi Area Office,626000,6
+48,249,Jim Wells County, TX,Corpus Christi Area Office,626000,6
+48,251,Johnson County, TX,Fort Worth Area Office,636900,6
+48,253,Jones County, TX,Lubbock Area Office,627510,6
+48,255,Karnes County, TX,Corpus Christi Area Office,626000,6
+48,257,Kaufman County, TX,Dallas Area Office,626300,6
+48,259,Kendall County, TX,Austin Area Office,625400,6
+48,261,Kenedy County, TX,Corpus Christi Area Office,626000,6
+48,263,Kent County, TX,Lubbock Area Office,627510,6
+48,265,Kerr County, TX,Austin Area Office,625400,6
+48,267,Kimble County, TX,San Antonio Area Office,625500,6
+48,269,King County, TX,Lubbock Area Office,627510,6
+48,271,Kinney County, TX,San Antonio Area Office,625500,6
+48,273,Kleberg County, TX,Corpus Christi Area Office,626000,6
+48,275,Knox County, TX,Lubbock Area Office,627510,6
+48,277,Lamar County, TX,Dallas Area Office,626300,6
+48,279,Lamb County, TX,Lubbock Area Office,627510,6
+48,281,Lampasas County, TX,Austin Area Office,625400,6
+48,283,La Salle County, TX,Corpus Christi Area Office,626000,6
+48,285,Lavaca County, TX,Corpus Christi Area Office,626000,6
+48,287,Lee County, TX,Austin Area Office,625400,6
+48,289,Leon County, TX,Houston North Area Office,626600,6
+48,291,Liberty County, TX,Houston North Area Office,626600,6
+48,293,Limestone County, TX,Austin Area Office,625400,6
+48,295,Lipscomb County, TX,Lubbock Area Office,627510,6
+48,297,Live Oak County, TX,Corpus Christi Area Office,626000,6
+48,299,Llano County, TX,Austin Area Office,625400,6
+48,301,Loving County, TX,Lubbock Area Office,627510,6
+48,303,Lubbock County, TX,Lubbock Area Office,627510,6
+48,305,Lynn County, TX,Lubbock Area Office,627510,6
+48,307,McCulloch County, TX,Austin Area Office,625400,6
+48,309,McLennan County, TX,Fort Worth Area Office,636900,6
+48,311,McMullen County, TX,Corpus Christi Area Office,626000,6
+48,313,Madison County, TX,Houston North Area Office,626600,6
+48,315,Marion County, TX,Dallas Area Office,626300,6
+48,317,Martin County, TX,Lubbock Area Office,627510,6
+48,319,Mason County, TX,Austin Area Office,625400,6
+48,321,Matagorda County, TX,Corpus Christi Area Office,626000,6
+48,323,Maverick County, TX,San Antonio Area Office,625500,6
+48,325,Medina County, TX,San Antonio Area Office,625500,6
+48,327,Menard County, TX,San Antonio Area Office,625500,6
+48,329,Midland County, TX,Lubbock Area Office,627510,6
+48,331,Milam County, TX,Austin Area Office,625400,6
+48,333,Mills County, TX,Fort Worth Area Office,636900,6
+48,335,Mitchell County, TX,Lubbock Area Office,627510,6
+48,337,Montague County, TX,Fort Worth Area Office,636900,6
+48,339,Montgomery County, TX,Houston North Area Office,626600,6
+48,341,Moore County, TX,Lubbock Area Office,627510,6
+48,343,Morris County, TX,Dallas Area Office,626300,6
+48,345,Motley County, TX,Lubbock Area Office,627510,6
+48,347,Nacogdoches County, TX,Houston North Area Office,626600,6
+48,349,Navarro County, TX,Fort Worth Area Office,636900,6
+48,351,Newton County, TX,Houston North Area Office,626600,6
+48,353,Nolan County, TX,Lubbock Area Office,627510,6
+48,355,Nueces County, TX,Corpus Christi Area Office,626000,6
+48,357,Ochiltree County, TX,Lubbock Area Office,627510,6
+48,359,Oldham County, TX,Lubbock Area Office,627510,6
+48,361,Orange County, TX,Houston South Area Office,626700,6
+48,363,Palo Pinto County, TX,Fort Worth Area Office,636900,6
+48,365,Panola County, TX,Dallas Area Office,626300,6
+48,367,Parker County, TX,Fort Worth Area Office,636900,6
+48,369,Parmer County, TX,Lubbock Area Office,627510,6
+48,371,Pecos County, TX,El Paso Area Office,627500,6
+48,373,Polk County, TX,Houston North Area Office,626600,6
+48,375,Potter County, TX,Lubbock Area Office,627510,6
+48,377,Presidio County, TX,El Paso Area Office,627500,6
+48,379,Rains County, TX,Dallas Area Office,626300,6
+48,381,Randall County, TX,Lubbock Area Office,627510,6
+48,383,Reagan County, TX,Lubbock Area Office,627510,6
+48,385,Real County, TX,San Antonio Area Office,625500,6
+48,387,Red River County, TX,Dallas Area Office,626300,6
+48,389,Reeves County, TX,El Paso Area Office,627500,6
+48,391,Refugio County, TX,Corpus Christi Area Office,626000,6
+48,393,Roberts County, TX,Lubbock Area Office,627510,6
+48,395,Robertson County, TX,Austin Area Office,625400,6
+48,397,Rockwall County, TX,Dallas Area Office,626300,6
+48,399,Runnels County, TX,Fort Worth Area Office,636900,6
+48,401,Rusk County, TX,Dallas Area Office,626300,6
+48,403,Sabine County, TX,Houston North Area Office,626600,6
+48,405,San Augustine County, TX,Houston North Area Office,626600,6
+48,407,San Jacinto County, TX,Houston North Area Office,626600,6
+48,409,San Patricio County, TX,Corpus Christi Area Office,626000,6
+48,411,San Saba County, TX,Austin Area Office,625400,6
+48,413,Schleicher County, TX,San Antonio Area Office,625500,6
+48,415,Scurry County, TX,Lubbock Area Office,627510,6
+48,417,Shackelford County, TX,Fort Worth Area Office,636900,6
+48,419,Shelby County, TX,Dallas Area Office,626300,6
+48,421,Sherman County, TX,Lubbock Area Office,627510,6
+48,423,Smith County, TX,Dallas Area Office,626300,6
+48,425,Somervell County, TX,Fort Worth Area Office,636900,6
+48,427,Starr County, TX,Corpus Christi Area Office,626000,6
+48,429,Stephens County, TX,Fort Worth Area Office,636900,6
+48,431,Sterling County, TX,Lubbock Area Office,627510,6
+48,433,Stonewall County, TX,Lubbock Area Office,627510,6
+48,435,Sutton County, TX,San Antonio Area Office,625500,6
+48,437,Swisher County, TX,Lubbock Area Office,627510,6
+48,439,Tarrant County, TX,Fort Worth Area Office,636900,6
+48,441,Taylor County, TX,Lubbock Area Office,627510,6
+48,443,Terrell County, TX,El Paso Area Office,627500,6
+48,445,Terry County, TX,Lubbock Area Office,627510,6
+48,447,Throckmorton County, TX,Fort Worth Area Office,636900,6
+48,449,Titus County, TX,Dallas Area Office,626300,6
+48,451,Tom Green County, TX,Austin Area Office,625400,6
+48,453,Travis County, TX,Austin Area Office,625400,6
+48,455,Trinity County, TX,Houston North Area Office,626600,6
+48,457,Tyler County, TX,Houston North Area Office,626600,6
+48,459,Upshur County, TX,Dallas Area Office,626300,6
+48,461,Upton County, TX,Lubbock Area Office,627510,6
+48,463,Uvalde County, TX,San Antonio Area Office,625500,6
+48,465,Val Verde County, TX,San Antonio Area Office,625500,6
+48,467,Van Zandt County, TX,Dallas Area Office,626300,6
+48,469,Victoria County, TX,Corpus Christi Area Office,626000,6
+48,471,Walker County, TX,Houston North Area Office,626600,6
+48,473,Waller County, TX,Houston North Area Office,626600,6
+48,475,Ward County, TX,Lubbock Area Office,627510,6
+48,477,Washington County, TX,Austin Area Office,625400,6
+48,479,Webb County, TX,Corpus Christi Area Office,626000,6
+48,481,Wharton County, TX,Corpus Christi Area Office,626000,6
+48,483,Wheeler County, TX,Lubbock Area Office,627510,6
+48,485,Wichita County, TX,Fort Worth Area Office,636900,6
+48,487,Wilbarger County, TX,Fort Worth Area Office,636900,6
+48,489,Willacy County, TX,Corpus Christi Area Office,626000,6
+48,491,Williamson County, TX,Austin Area Office,625400,6
+48,493,Wilson County, TX,Austin Area Office,625400,6
+48,495,Winkler County, TX,Lubbock Area Office,627510,6
+48,497,Wise County, TX,Fort Worth Area Office,636900,6
+48,499,Wood County, TX,Dallas Area Office,626300,6
+48,501,Yoakum County, TX,Lubbock Area Office,627510,6
+48,503,Young County, TX,Fort Worth Area Office,636900,6
+48,505,Zapata County, TX,Corpus Christi Area Office,626000,6
+48,507,Zavala County, TX,San Antonio Area Office,625500,6
+49,1,Beaver County, UT,Denver Area Office,830500,8
+49,3,Box Elder County, UT,Denver Area Office,830500,8
+49,5,Cache County, UT,Denver Area Office,830500,8
+49,7,Carbon County, UT,Denver Area Office,830500,8
+49,9,Daggett County, UT,Denver Area Office,830500,8
+49,11,Davis County, UT,Denver Area Office,830500,8
+49,13,Duchesne County, UT,Denver Area Office,830500,8
+49,15,Emery County, UT,Denver Area Office,830500,8
+49,17,Garfield County, UT,Denver Area Office,830500,8
+49,19,Grand County, UT,Denver Area Office,830500,8
+49,21,Iron County, UT,Denver Area Office,830500,8
+49,23,Juab County, UT,Denver Area Office,830500,8
+49,25,Kane County, UT,Denver Area Office,830500,8
+49,27,Millard County, UT,Denver Area Office,830500,8
+49,29,Morgan County, UT,Denver Area Office,830500,8
+49,31,Piute County, UT,Denver Area Office,830500,8
+49,33,Rich County, UT,Denver Area Office,830500,8
+49,35,Salt Lake County, UT,Denver Area Office,830500,8
+49,37,San Juan County, UT,Denver Area Office,830500,8
+49,39,Sanpete County, UT,Denver Area Office,830500,8
+49,41,Sevier County, UT,Denver Area Office,830500,8
+49,43,Summit County, UT,Denver Area Office,830500,8
+49,45,Tooele County, UT,Denver Area Office,830500,8
+49,47,Uintah County, UT,Denver Area Office,830500,8
+49,49,Utah County, UT,Denver Area Office,830500,8
+49,51,Wasatch County, UT,Denver Area Office,830500,8
+49,53,Washington County, UT,Denver Area Office,830500,8
+49,55,Wayne County, UT,Denver Area Office,830500,8
+49,57,Weber County, UT,Denver Area Office,830500,8
+50,1,Addison County, VT,Boston Regional Office,100000,1
+50,3,Bennington County, VT,Boston Regional Office,100000,1
+50,5,Caledonia County, VT,Boston Regional Office,100000,1
+50,7,Chittenden County, VT,Boston Regional Office,100000,1
+50,9,Essex County, VT,Boston Regional Office,100000,1
+50,11,Franklin County, VT,Boston Regional Office,100000,1
+50,13,Grand Isle County, VT,Boston Regional Office,100000,1
+50,15,Lamoille County, VT,Boston Regional Office,100000,1
+50,17,Orange County, VT,Boston Regional Office,100000,1
+50,19,Orleans County, VT,Boston Regional Office,100000,1
+50,21,Rutland County, VT,Boston Regional Office,100000,1
+50,23,Washington County, VT,Boston Regional Office,100000,1
+50,25,Windham County, VT,Boston Regional Office,100000,1
+50,27,Windsor County, VT,Boston Regional Office,100000,1
+51,1,Accomack County, VA,Norfolk Area Office,316300,3
+51,3,Albemarle County, VA,Norfolk Area Office,316300,3
+51,5,Alleghany County, VA,Norfolk Area Office,316300,3
+51,7,Amelia County, VA,Norfolk Area Office,316300,3
+51,9,Amherst County, VA,Norfolk Area Office,316300,3
+51,11,Appomattox County, VA,Norfolk Area Office,316300,3
+51,13,Arlington County, VA,Norfolk Area Office,316300,3
+51,15,Augusta County, VA,Norfolk Area Office,316300,3
+51,17,Bath County, VA,Norfolk Area Office,316300,3
+51,19,Bedford County, VA,Norfolk Area Office,316300,3
+51,21,Bland County, VA,Norfolk Area Office,316300,3
+51,23,Botetourt County, VA,Norfolk Area Office,316300,3
+51,25,Brunswick County, VA,Norfolk Area Office,316300,3
+51,27,Buchanan County, VA,Norfolk Area Office,316300,3
+51,29,Buckingham County, VA,Norfolk Area Office,316300,3
+51,31,Campbell County, VA,Norfolk Area Office,316300,3
+51,33,Caroline County, VA,Norfolk Area Office,316300,3
+51,35,Carroll County, VA,Norfolk Area Office,316300,3
+51,36,Charles City County, VA,Norfolk Area Office,316300,3
+51,37,Charlotte County, VA,Norfolk Area Office,316300,3
+51,41,Chesterfield County, VA,Norfolk Area Office,316300,3
+51,43,Clarke County, VA,Norfolk Area Office,316300,3
+51,45,Craig County, VA,Norfolk Area Office,316300,3
+51,47,Culpeper County, VA,Norfolk Area Office,316300,3
+51,49,Cumberland County, VA,Norfolk Area Office,316300,3
+51,51,Dickenson County, VA,Norfolk Area Office,316300,3
+51,53,Dinwiddie County, VA,Norfolk Area Office,316300,3
+51,57,Essex County, VA,Norfolk Area Office,316300,3
+51,59,Fairfax County, VA,Norfolk Area Office,316300,3
+51,61,Fauquier County, VA,Norfolk Area Office,316300,3
+51,63,Floyd County, VA,Norfolk Area Office,316300,3
+51,65,Fluvanna County, VA,Norfolk Area Office,316300,3
+51,67,Franklin County, VA,Norfolk Area Office,316300,3
+51,69,Frederick County, VA,Norfolk Area Office,316300,3
+51,71,Giles County, VA,Norfolk Area Office,316300,3
+51,73,Gloucester County, VA,Norfolk Area Office,316300,3
+51,75,Goochland County, VA,Norfolk Area Office,316300,3
+51,77,Grayson County, VA,Norfolk Area Office,316300,3
+51,79,Greene County, VA,Norfolk Area Office,316300,3
+51,81,Greensville County, VA,Norfolk Area Office,316300,3
+51,83,Halifax County, VA,Norfolk Area Office,316300,3
+51,85,Hanover County, VA,Norfolk Area Office,316300,3
+51,87,Henrico County, VA,Norfolk Area Office,316300,3
+51,89,Henry County, VA,Norfolk Area Office,316300,3
+51,91,Highland County, VA,Norfolk Area Office,316300,3
+51,93,Isle of Wight County, VA,Norfolk Area Office,316300,3
+51,95,James City County, VA,Norfolk Area Office,316300,3
+51,97,King and Queen County, VA,Norfolk Area Office,316300,3
+51,99,King George County, VA,Norfolk Area Office,316300,3
+51,101,King William County, VA,Norfolk Area Office,316300,3
+51,103,Lancaster County, VA,Norfolk Area Office,316300,3
+51,105,Lee County, VA,Norfolk Area Office,316300,3
+51,107,Loudoun County, VA,Norfolk Area Office,316300,3
+51,109,Louisa County, VA,Norfolk Area Office,316300,3
+51,111,Lunenburg County, VA,Norfolk Area Office,316300,3
+51,113,Madison County, VA,Norfolk Area Office,316300,3
+51,115,Mathews County, VA,Norfolk Area Office,316300,3
+51,117,Mecklenburg County, VA,Norfolk Area Office,316300,3
+51,119,Middlesex County, VA,Norfolk Area Office,316300,3
+51,121,Montgomery County, VA,Norfolk Area Office,316300,3
+51,125,Nelson County, VA,Norfolk Area Office,316300,3
+51,127,New Kent County, VA,Norfolk Area Office,316300,3
+51,131,Northampton County, VA,Norfolk Area Office,316300,3
+51,133,Northumberland County, VA,Norfolk Area Office,316300,3
+51,135,Nottoway County, VA,Norfolk Area Office,316300,3
+51,137,Orange County, VA,Norfolk Area Office,316300,3
+51,139,Page County, VA,Norfolk Area Office,316300,3
+51,141,Patrick County, VA,Norfolk Area Office,316300,3
+51,143,Pittsylvania County, VA,Norfolk Area Office,316300,3
+51,145,Powhatan County, VA,Norfolk Area Office,316300,3
+51,147,Prince Edward County, VA,Norfolk Area Office,316300,3
+51,149,Prince George County, VA,Norfolk Area Office,316300,3
+51,153,Prince William County, VA,Norfolk Area Office,316300,3
+51,155,Pulaski County, VA,Norfolk Area Office,316300,3
+51,157,Rappahannock County, VA,Norfolk Area Office,316300,3
+51,159,Richmond County, VA,Norfolk Area Office,316300,3
+51,161,Roanoke County, VA,Norfolk Area Office,316300,3
+51,163,Rockbridge County, VA,Norfolk Area Office,316300,3
+51,165,Rockingham County, VA,Norfolk Area Office,316300,3
+51,167,Russell County, VA,Norfolk Area Office,316300,3
+51,169,Scott County, VA,Norfolk Area Office,316300,3
+51,171,Shenandoah County, VA,Norfolk Area Office,316300,3
+51,173,Smyth County, VA,Norfolk Area Office,316300,3
+51,175,Southampton County, VA,Norfolk Area Office,316300,3
+51,177,Spotsylvania County, VA,Norfolk Area Office,316300,3
+51,179,Stafford County, VA,Norfolk Area Office,316300,3
+51,181,Surry County, VA,Norfolk Area Office,316300,3
+51,183,Sussex County, VA,Norfolk Area Office,316300,3
+51,185,Tazewell County, VA,Norfolk Area Office,316300,3
+51,187,Warren County, VA,Norfolk Area Office,316300,3
+51,191,Washington County, VA,Norfolk Area Office,316300,3
+51,193,Westmoreland County, VA,Norfolk Area Office,316300,3
+51,195,Wise County, VA,Norfolk Area Office,316300,3
+51,197,Wythe County, VA,Norfolk Area Office,316300,3
+51,199,York County, VA,Norfolk Area Office,316300,3
+51,510,Alexandria city, VA,Norfolk Area Office,316300,3
+51,515,Bedford city, VA,Norfolk Area Office,316300,3
+51,520,Bristol city, VA,Norfolk Area Office,316300,3
+51,530,Buena Vista city, VA,Norfolk Area Office,316300,3
+51,540,Charlottesville city, VA,Norfolk Area Office,316300,3
+51,550,Chesapeake city, VA,Norfolk Area Office,316300,3
+51,570,Colonial Heights city, VA,Norfolk Area Office,316300,3
+51,580,Covington city, VA,Norfolk Area Office,316300,3
+51,590,Danville city, VA,Norfolk Area Office,316300,3
+51,595,Emporia city, VA,Norfolk Area Office,316300,3
+51,600,Fairfax city, VA,Norfolk Area Office,316300,3
+51,610,Falls Church city, VA,Norfolk Area Office,316300,3
+51,620,Franklin city, VA,Norfolk Area Office,316300,3
+51,630,Fredericksburg city, VA,Norfolk Area Office,316300,3
+51,640,Galax city, VA,Norfolk Area Office,316300,3
+51,650,Hampton city, VA,Norfolk Area Office,316300,3
+51,660,Harrisonburg city, VA,Norfolk Area Office,316300,3
+51,670,Hopewell city, VA,Norfolk Area Office,316300,3
+51,678,Lexington city, VA,Norfolk Area Office,316300,3
+51,680,Lynchburg city, VA,Norfolk Area Office,316300,3
+51,683,Manassas city, VA,Norfolk Area Office,316300,3
+51,685,Manassas Park city, VA,Norfolk Area Office,316300,3
+51,690,Martinsville city, VA,Norfolk Area Office,316300,3
+51,700,Newport News city, VA,Norfolk Area Office,316300,3
+51,710,Norfolk city, VA,Norfolk Area Office,316300,3
+51,720,Norton city, VA,Norfolk Area Office,316300,3
+51,730,Petersburg city, VA,Norfolk Area Office,316300,3
+51,735,Poquoson city, VA,Norfolk Area Office,316300,3
+51,740,Portsmouth city, VA,Norfolk Area Office,316300,3
+51,750,Radford city, VA,Norfolk Area Office,316300,3
+51,760,Richmond city, VA,Norfolk Area Office,316300,3
+51,770,Roanoke city, VA,Norfolk Area Office,316300,3
+51,775,Salem city, VA,Norfolk Area Office,316300,3
+51,790,Staunton city, VA,Norfolk Area Office,316300,3
+51,800,Suffolk city, VA,Norfolk Area Office,316300,3
+51,810,Virginia Beach city, VA,Norfolk Area Office,316300,3
+51,820,Waynesboro city, VA,Norfolk Area Office,316300,3
+51,830,Williamsburg city, VA,Norfolk Area Office,316300,3
+51,840,Winchester city, VA,Norfolk Area Office,316300,3
+53,1,Adams County, WA,Bellevue Area Office,1032300,10
+53,3,Asotin County, WA,Bellevue Area Office,1032300,10
+53,5,Benton County, WA,Bellevue Area Office,1032300,10
+53,7,Chelan County, WA,Bellevue Area Office,1032300,10
+53,9,Clallam County, WA,Bellevue Area Office,1032300,10
+53,11,Clark County, WA,Bellevue Area Office,1032300,10
+53,13,Columbia County, WA,Bellevue Area Office,1032300,10
+53,15,Cowlitz County, WA,Bellevue Area Office,1032300,10
+53,17,Douglas County, WA,Bellevue Area Office,1032300,10
+53,19,Ferry County, WA,Bellevue Area Office,1032300,10
+53,21,Franklin County, WA,Bellevue Area Office,1032300,10
+53,23,Garfield County, WA,Bellevue Area Office,1032300,10
+53,25,Grant County, WA,Bellevue Area Office,1032300,10
+53,27,Grays Harbor County, WA,Bellevue Area Office,1032300,10
+53,29,Island County, WA,Bellevue Area Office,1032300,10
+53,31,Jefferson County, WA,Bellevue Area Office,1032300,10
+53,33,King County, WA,Bellevue Area Office,1032300,10
+53,35,Kitsap County, WA,Bellevue Area Office,1032300,10
+53,37,Kittitas County, WA,Bellevue Area Office,1032300,10
+53,39,Klickitat County, WA,Bellevue Area Office,1032300,10
+53,41,Lewis County, WA,Bellevue Area Office,1032300,10
+53,43,Lincoln County, WA,Bellevue Area Office,1032300,10
+53,45,Mason County, WA,Bellevue Area Office,1032300,10
+53,47,Okanogan County, WA,Bellevue Area Office,1032300,10
+53,49,Pacific County, WA,Bellevue Area Office,1032300,10
+53,51,Pend Oreille County, WA,Bellevue Area Office,1032300,10
+53,53,Pierce County, WA,Bellevue Area Office,1032300,10
+53,55,San Juan County, WA,Bellevue Area Office,1032300,10
+53,57,Skagit County, WA,Bellevue Area Office,1032300,10
+53,59,Skamania County, WA,Bellevue Area Office,1032300,10
+53,61,Snohomish County, WA,Bellevue Area Office,1032300,10
+53,63,Spokane County, WA,Bellevue Area Office,1032300,10
+53,65,Stevens County, WA,Bellevue Area Office,1032300,10
+53,67,Thurston County, WA,Bellevue Area Office,1032300,10
+53,69,Wahkiakum County, WA,Bellevue Area Office,1032300,10
+53,71,Walla Walla County, WA,Bellevue Area Office,1032300,10
+53,73,Whatcom County, WA,Bellevue Area Office,1032300,10
+53,75,Whitman County, WA,Bellevue Area Office,1032300,10
+53,77,Yakima County, WA,Bellevue Area Office,1032300,10
+54,1,Barbour County, WV,Charleston Area Office,316400,3
+54,3,Berkeley County, WV,Charleston Area Office,316400,3
+54,5,Boone County, WV,Charleston Area Office,316400,3
+54,7,Braxton County, WV,Charleston Area Office,316400,3
+54,9,Brooke County, WV,Charleston Area Office,316400,3
+54,11,Cabell County, WV,Charleston Area Office,316400,3
+54,13,Calhoun County, WV,Charleston Area Office,316400,3
+54,15,Clay County, WV,Charleston Area Office,316400,3
+54,17,Doddridge County, WV,Charleston Area Office,316400,3
+54,19,Fayette County, WV,Charleston Area Office,316400,3
+54,21,Gilmer County, WV,Charleston Area Office,316400,3
+54,23,Grant County, WV,Charleston Area Office,316400,3
+54,25,Greenbrier County, WV,Charleston Area Office,316400,3
+54,27,Hampshire County, WV,Charleston Area Office,316400,3
+54,29,Hancock County, WV,Charleston Area Office,316400,3
+54,31,Hardy County, WV,Charleston Area Office,316400,3
+54,33,Harrison County, WV,Charleston Area Office,316400,3
+54,35,Jackson County, WV,Charleston Area Office,316400,3
+54,37,Jefferson County, WV,Charleston Area Office,316400,3
+54,39,Kanawha County, WV,Charleston Area Office,316400,3
+54,41,Lewis County, WV,Charleston Area Office,316400,3
+54,43,Lincoln County, WV,Charleston Area Office,316400,3
+54,45,Logan County, WV,Charleston Area Office,316400,3
+54,47,McDowell County, WV,Charleston Area Office,316400,3
+54,49,Marion County, WV,Charleston Area Office,316400,3
+54,51,Marshall County, WV,Charleston Area Office,316400,3
+54,53,Mason County, WV,Charleston Area Office,316400,3
+54,55,Mercer County, WV,Charleston Area Office,316400,3
+54,57,Mineral County, WV,Charleston Area Office,316400,3
+54,59,Mingo County, WV,Charleston Area Office,316400,3
+54,61,Monongalia County, WV,Charleston Area Office,316400,3
+54,63,Monroe County, WV,Charleston Area Office,316400,3
+54,65,Morgan County, WV,Charleston Area Office,316400,3
+54,67,Nicholas County, WV,Charleston Area Office,316400,3
+54,69,Ohio County, WV,Charleston Area Office,316400,3
+54,71,Pendleton County, WV,Charleston Area Office,316400,3
+54,73,Pleasants County, WV,Charleston Area Office,316400,3
+54,75,Pocahontas County, WV,Charleston Area Office,316400,3
+54,77,Preston County, WV,Charleston Area Office,316400,3
+54,79,Putnam County, WV,Charleston Area Office,316400,3
+54,81,Raleigh County, WV,Charleston Area Office,316400,3
+54,83,Randolph County, WV,Charleston Area Office,316400,3
+54,85,Ritchie County, WV,Charleston Area Office,316400,3
+54,87,Roane County, WV,Charleston Area Office,316400,3
+54,89,Summers County, WV,Charleston Area Office,316400,3
+54,91,Taylor County, WV,Charleston Area Office,316400,3
+54,93,Tucker County, WV,Charleston Area Office,316400,3
+54,95,Tyler County, WV,Charleston Area Office,316400,3
+54,97,Upshur County, WV,Charleston Area Office,316400,3
+54,99,Wayne County, WV,Charleston Area Office,316400,3
+54,101,Webster County, WV,Charleston Area Office,316400,3
+54,103,Wetzel County, WV,Charleston Area Office,316400,3
+54,105,Wirt County, WV,Charleston Area Office,316400,3
+54,107,Wood County, WV,Charleston Area Office,316400,3
+54,109,Wyoming County, WV,Charleston Area Office,316400,3
+55,1,Adams County, WI,Madison Area Office,523300,5
+55,3,Ashland County, WI,Eau Claire Area Office,523900,5
+55,5,Barron County, WI,Eau Claire Area Office,523900,5
+55,7,Bayfield County, WI,Eau Claire Area Office,523900,5
+55,9,Brown County, WI,Appleton Area Office,521100,5
+55,11,Buffalo County, WI,Eau Claire Area Office,523900,5
+55,13,Burnett County, WI,Eau Claire Area Office,523900,5
+55,15,Calumet County, WI,Appleton Area Office,521100,5
+55,17,Chippewa County, WI,Eau Claire Area Office,523900,5
+55,19,Clark County, WI,Eau Claire Area Office,523900,5
+55,21,Columbia County, WI,Madison Area Office,523300,5
+55,23,Crawford County, WI,Madison Area Office,523300,5
+55,25,Dane County, WI,Madison Area Office,523300,5
+55,27,Dodge County, WI,Madison Area Office,523300,5
+55,29,Door County, WI,Appleton Area Office,521100,5
+55,31,Douglas County, WI,Eau Claire Area Office,523900,5
+55,33,Dunn County, WI,Eau Claire Area Office,523900,5
+55,35,Eau Claire County, WI,Eau Claire Area Office,523900,5
+55,37,Florence County, WI,Appleton Area Office,521100,5
+55,39,Fond du Lac County, WI,Appleton Area Office,521100,5
+55,41,Forest County, WI,Appleton Area Office,521100,5
+55,43,Grant County, WI,Madison Area Office,523300,5
+55,45,Green County, WI,Madison Area Office,523300,5
+55,47,Green Lake County, WI,Appleton Area Office,521100,5
+55,49,Iowa County, WI,Madison Area Office,523300,5
+55,51,Iron County, WI,Eau Claire Area Office,523900,5
+55,53,Jackson County, WI,Eau Claire Area Office,523900,5
+55,55,Jefferson County, WI,Madison Area Office,523300,5
+55,57,Juneau County, WI,Madison Area Office,523300,5
+55,59,Kenosha County, WI,Milwaukee Area Office,523400,5
+55,61,Kewaunee County, WI,Appleton Area Office,521100,5
+55,63,La Crosse County, WI,Madison Area Office,523300,5
+55,65,Lafayette County, WI,Madison Area Office,523300,5
+55,67,Langlade County, WI,Appleton Area Office,521100,5
+55,69,Lincoln County, WI,Appleton Area Office,521100,5
+55,71,Manitowoc County, WI,Appleton Area Office,521100,5
+55,73,Marathon County, WI,Appleton Area Office,521100,5
+55,75,Marinette County, WI,Appleton Area Office,521100,5
+55,77,Marquette County, WI,Appleton Area Office,521100,5
+55,78,Menominee County, WI,Appleton Area Office,521100,5
+55,79,Milwaukee County, WI,Milwaukee Area Office,523400,5
+55,81,Monroe County, WI,Madison Area Office,523300,5
+55,83,Oconto County, WI,Appleton Area Office,521100,5
+55,85,Oneida County, WI,Appleton Area Office,521100,5
+55,87,Outagamie County, WI,Appleton Area Office,521100,5
+55,89,Ozaukee County, WI,Milwaukee Area Office,523400,5
+55,91,Pepin County, WI,Eau Claire Area Office,523900,5
+55,93,Pierce County, WI,Eau Claire Area Office,523900,5
+55,95,Polk County, WI,Eau Claire Area Office,523900,5
+55,97,Portage County, WI,Appleton Area Office,521100,5
+55,99,Price County, WI,Eau Claire Area Office,523900,5
+55,101,Racine County, WI,Milwaukee Area Office,523400,5
+55,103,Richland County, WI,Madison Area Office,523300,5
+55,105,Rock County, WI,Madison Area Office,523300,5
+55,107,Rusk County, WI,Eau Claire Area Office,523900,5
+55,109,St. Croix County, WI,Eau Claire Area Office,523900,5
+55,111,Sauk County, WI,Madison Area Office,523300,5
+55,113,Sawyer County, WI,Eau Claire Area Office,523900,5
+55,115,Shawano County, WI,Appleton Area Office,521100,5
+55,117,Sheboygan County, WI,Appleton Area Office,521100,5
+55,119,Taylor County, WI,Eau Claire Area Office,523900,5
+55,121,Trempealeau County, WI,Eau Claire Area Office,523900,5
+55,123,Vernon County, WI,Madison Area Office,523300,5
+55,125,Vilas County, WI,Appleton Area Office,521100,5
+55,127,Walworth County, WI,Madison Area Office,523300,5
+55,129,Washburn County, WI,Eau Claire Area Office,523900,5
+55,131,Washington County, WI,Milwaukee Area Office,523400,5
+55,133,Waukesha County, WI,Milwaukee Area Office,523400,5
+55,135,Waupaca County, WI,Appleton Area Office,521100,5
+55,137,Waushara County, WI,Appleton Area Office,521100,5
+55,139,Winnebago County, WI,Appleton Area Office,521100,5
+55,141,Wood County, WI,Madison Area Office,523300,5
+56,1,Albany County, WY,Denver Regional Office,800000,8
+56,3,Big Horn County, WY,Denver Regional Office,800000,8
+56,5,Campbell County, WY,Denver Regional Office,800000,8
+56,7,Carbon County, WY,Denver Regional Office,800000,8
+56,9,Converse County, WY,Denver Regional Office,800000,8
+56,11,Crook County, WY,Denver Regional Office,800000,8
+56,13,Fremont County, WY,Denver Regional Office,800000,8
+56,15,Goshen County, WY,Denver Regional Office,800000,8
+56,17,Hot Springs County, WY,Denver Regional Office,800000,8
+56,19,Johnson County, WY,Denver Regional Office,800000,8
+56,21,Laramie County, WY,Denver Regional Office,800000,8
+56,23,Lincoln County, WY,Denver Regional Office,800000,8
+56,25,Natrona County, WY,Denver Regional Office,800000,8
+56,27,Niobrara County, WY,Denver Regional Office,800000,8
+56,29,Park County, WY,Denver Regional Office,800000,8
+56,31,Platte County, WY,Denver Regional Office,800000,8
+56,33,Sheridan County, WY,Denver Regional Office,800000,8
+56,35,Sublette County, WY,Denver Regional Office,800000,8
+56,37,Sweetwater County, WY,Denver Regional Office,800000,8
+56,39,Teton County, WY,Denver Regional Office,800000,8
+56,41,Uinta County, WY,Denver Regional Office,800000,8
+56,43,Washakie County, WY,Denver Regional Office,800000,8
+56,45,Weston County, WY,Denver Regional Office,800000,8
+60,10,Eastern District, AS,Honolulu Area Office,936300,9
+60,20,Manu'a District, AS,Honolulu Area Office,936300,9
+60,30,Rose Island, AS,Honolulu Area Office,936300,9
+60,40,Swains Island, AS,Honolulu Area Office,936300,9
+60,50,Western District, AS,Honolulu Area Office,936300,9
+66,10,Guam, GU,Honolulu Area Office,936300,9
+69,85,Northern Islands Municipality, MP,Honolulu Area Office,936300,9
+69,100,Rota Municipality, MP,Honolulu Area Office,936300,9
+69,110,Saipan Municipality, MP,Honolulu Area Office,936300,9
+69,120,Tinian Municipality, MP,Honolulu Area Office,936300,9
+72,1,Adjuntas Municipio, PR,Puerto Rico Area Office,215300,2
+72,3,Aguada Municipio, PR,Puerto Rico Area Office,215300,2
+72,5,Aguadilla Municipio, PR,Puerto Rico Area Office,215300,2
+72,7,Aguas Buenas Municipio, PR,Puerto Rico Area Office,215300,2
+72,9,Aibonito Municipio, PR,Puerto Rico Area Office,215300,2
+72,11,Anasco Municipio, PR,Puerto Rico Area Office,215300,2
+72,13,Arecibo Municipio, PR,Puerto Rico Area Office,215300,2
+72,15,Arroyo Municipio, PR,Puerto Rico Area Office,215300,2
+72,17,Barceloneta Municipio, PR,Puerto Rico Area Office,215300,2
+72,19,Barranquitas Municipio, PR,Puerto Rico Area Office,215300,2
+72,21,Bayamon Municipio, PR,Puerto Rico Area Office,215300,2
+72,23,Cabo Rojo Municipio, PR,Puerto Rico Area Office,215300,2
+72,25,Caguas Municipio, PR,Puerto Rico Area Office,215300,2
+72,27,Camuy Municipio, PR,Puerto Rico Area Office,215300,2
+72,29,Canovanas Municipio, PR,Puerto Rico Area Office,215300,2
+72,31,Carolina Municipio, PR,Puerto Rico Area Office,215300,2
+72,33,Catano Municipio, PR,Puerto Rico Area Office,215300,2
+72,35,Cayey Municipio, PR,Puerto Rico Area Office,215300,2
+72,37,Ceiba Municipio, PR,Puerto Rico Area Office,215300,2
+72,39,Ciales Municipio, PR,Puerto Rico Area Office,215300,2
+72,41,Cidra Municipio, PR,Puerto Rico Area Office,215300,2
+72,43,Coamo Municipio, PR,Puerto Rico Area Office,215300,2
+72,45,Comerio Municipio, PR,Puerto Rico Area Office,215300,2
+72,47,Corozal Municipio, PR,Puerto Rico Area Office,215300,2
+72,49,Culebra Municipio, PR,Puerto Rico Area Office,215300,2
+72,51,Dorado Municipio, PR,Puerto Rico Area Office,215300,2
+72,53,Fajardo Municipio, PR,Puerto Rico Area Office,215300,2
+72,54,Florida Municipio, PR,Puerto Rico Area Office,215300,2
+72,55,Guanica Municipio, PR,Puerto Rico Area Office,215300,2
+72,57,Guayama Municipio, PR,Puerto Rico Area Office,215300,2
+72,59,Guayanilla Municipio, PR,Puerto Rico Area Office,215300,2
+72,61,Guaynabo Municipio, PR,Puerto Rico Area Office,215300,2
+72,63,Gurabo Municipio, PR,Puerto Rico Area Office,215300,2
+72,65,Hatillo Municipio, PR,Puerto Rico Area Office,215300,2
+72,67,Hormigueros Municipio, PR,Puerto Rico Area Office,215300,2
+72,69,Humacao Municipio, PR,Puerto Rico Area Office,215300,2
+72,71,Isabela Municipio, PR,Puerto Rico Area Office,215300,2
+72,73,Jayuya Municipio, PR,Puerto Rico Area Office,215300,2
+72,75,Juana Diaz Municipio, PR,Puerto Rico Area Office,215300,2
+72,77,Juncos Municipio, PR,Puerto Rico Area Office,215300,2
+72,79,Lajas Municipio, PR,Puerto Rico Area Office,215300,2
+72,81,Lares Municipio, PR,Puerto Rico Area Office,215300,2
+72,83,Las Marias Municipio, PR,Puerto Rico Area Office,215300,2
+72,85,Las Piedras Municipio, PR,Puerto Rico Area Office,215300,2
+72,87,Loiza Municipio, PR,Puerto Rico Area Office,215300,2
+72,89,Luquillo Municipio, PR,Puerto Rico Area Office,215300,2
+72,91,Manati Municipio, PR,Puerto Rico Area Office,215300,2
+72,93,Maricao Municipio, PR,Puerto Rico Area Office,215300,2
+72,95,Maunabo Municipio, PR,Puerto Rico Area Office,215300,2
+72,97,Mayaguez Municipio, PR,Puerto Rico Area Office,215300,2
+72,99,Moca Municipio, PR,Puerto Rico Area Office,215300,2
+72,101,Morovis Municipio, PR,Puerto Rico Area Office,215300,2
+72,103,Naguabo Municipio, PR,Puerto Rico Area Office,215300,2
+72,105,Naranjito Municipio, PR,Puerto Rico Area Office,215300,2
+72,107,Orocovis Municipio, PR,Puerto Rico Area Office,215300,2
+72,109,Patillas Municipio, PR,Puerto Rico Area Office,215300,2
+72,111,Penuelas Municipio, PR,Puerto Rico Area Office,215300,2
+72,113,Ponce Municipio, PR,Puerto Rico Area Office,215300,2
+72,115,Quebradillas Municipio, PR,Puerto Rico Area Office,215300,2
+72,117,Rincon Municipio, PR,Puerto Rico Area Office,215300,2
+72,119,Rio Grande Municipio, PR,Puerto Rico Area Office,215300,2
+72,121,Sabana Grande Municipio, PR,Puerto Rico Area Office,215300,2
+72,123,Salinas Municipio, PR,Puerto Rico Area Office,215300,2
+72,125,San German Municipio, PR,Puerto Rico Area Office,215300,2
+72,127,San Juan Municipio, PR,Puerto Rico Area Office,215300,2
+72,129,San Lorenzo Municipio, PR,Puerto Rico Area Office,215300,2
+72,131,San Sebastian Municipio, PR,Puerto Rico Area Office,215300,2
+72,133,Santa Isabel Municipio, PR,Puerto Rico Area Office,215300,2
+72,135,Toa Alta Municipio, PR,Puerto Rico Area Office,215300,2
+72,137,Toa Baja Municipio, PR,Puerto Rico Area Office,215300,2
+72,139,Trujillo Alto Municipio, PR,Puerto Rico Area Office,215300,2
+72,141,Utuado Municipio, PR,Puerto Rico Area Office,215300,2
+72,143,Vega Alta Municipio, PR,Puerto Rico Area Office,215300,2
+72,145,Vega Baja Municipio, PR,Puerto Rico Area Office,215300,2
+72,147,Vieques Municipio, PR,Puerto Rico Area Office,215300,2
+72,149,Villalba Municipio, PR,Puerto Rico Area Office,215300,2
+72,151,Yabucoa Municipio, PR,Puerto Rico Area Office,215300,2
+72,153,Yauco Municipio, PR,Puerto Rico Area Office,215300,2
+74,300,Midway Islands, UM,Honolulu Area Office,936300,9
+78,10,St. Croix Island, VI,Honolulu Area Office,936300,9
+78,20,St. John Island, VI,Honolulu Area Office,936300,9
+78,30,St. Thomas Island, VI,Honolulu Area Office,936300,9
